@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on BSidesROC</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on BSidesROC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 12 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sponsor Announcement - Netanium</title>
+      <link>/blog/sponsor-announcement---netanium/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---netanium/</guid>
+      <description>We are proud to announce that Netanium, provider of firewall implementation, attack detection &amp;amp; analysis, and cloud security services, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - DigitalOcean</title>
+      <link>/blog/sponsor-announcement---digitalocean/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---digitalocean/</guid>
+      <description>We are proud to announce that DigitalOcean, provider of cloud computing infrastructure, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Cylance</title>
+      <link>/blog/sponsor-announcement---cylance/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---cylance/</guid>
+      <description>We are proud to announce that Cylance, the first company to apply artificial intelligence to proactively solve the most difficult security problems, is now an official Silver Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - No Starch Press</title>
+      <link>/blog/sponsor-announcement---no-starch-press/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---no-starch-press/</guid>
+      <description>We are proud to announce that No Starch Press, publisher of many books on open source/Linux, security, hacking, programming, alternative operating systems, science, and math, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - TrustedSec</title>
+      <link>/blog/sponsor-announcement---trustedsec/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---trustedsec/</guid>
+      <description>We are proud to announce that TrustedSec, an IT security consulting firm with a passion for conducting original research, developing tools, and giving back to the infosec community, is now an official Silver Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Rochester ISSA</title>
+      <link>/blog/sponsor-announcement---rochester-issa/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---rochester-issa/</guid>
+      <description>We are proud to announce that Rochester ISSA, a non-profit business association comprised of information security professionals and practitioners, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Datto</title>
+      <link>/blog/sponsor-announcement---datto/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---datto/</guid>
+      <description>We are proud to announce that Datto, provider of secure business continuity services, is now an official Gold Sponsor of BSidesROC 2018! Also, note that Datto is now experiencing tremendous growth and is currently hiring!</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - GreyCastle Security</title>
+      <link>/blog/sponsor-announcement---greycastle-security/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---greycastle-security/</guid>
+      <description>We are proud to announce that GreyCastle Security, provider of cybersecurity risk assessment, advisory and mitigation services, is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Positron Security</title>
+      <link>/blog/sponsor-announcement---positron-security/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---positron-security/</guid>
+      <description>We are proud to announce that Positron Security, a Rochester-based penetration testing and security consulting firm, is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - iV4</title>
+      <link>/blog/sponsor-announcement---iv4/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---iv4/</guid>
+      <description>We are proud to announce that iV4, a full-service IT provider specializing in aligning business strategies with security solutions, is now an official Silver Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Tenable</title>
+      <link>/blog/sponsor-announcement---tenable/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---tenable/</guid>
+      <description>We are proud to announce that Tenable&amp;reg;, Inc., provider of Tenable.io, the first Cyber Exposure platform capable of visibility into any computing platform, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Critical Design Associates</title>
+      <link>/blog/sponsor-announcement---critical-design-associates/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---critical-design-associates/</guid>
+      <description>We are proud to announce that Critical Design Associates, provider of managed services, consulting, and staffing solutions, with a focus on people, process, and platform, is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Optiv Security</title>
+      <link>/blog/sponsor-announcement---optiv-security/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---optiv-security/</guid>
+      <description>We are proud to announce that Optiv Security, provider of full-suite information security services and solutions, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Senrio</title>
+      <link>/blog/sponsor-announcement---senrio/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---senrio/</guid>
+      <description>We are proud to announce that Senrio, provider of an Internet of Things (IoT) security platform that delivers visibility and analytics for network embedded devices, is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - RSA</title>
+      <link>/blog/sponsor-announcement---rsa/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---rsa/</guid>
+      <description>We are proud to announce that RSA, provider of a wide array of security services and products (including incident response, endpoint threat detection, network monitoring, and forensics), is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Endgame</title>
+      <link>/blog/sponsor-announcement---endgame/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---endgame/</guid>
+      <description>We are proud to announce that Endgame, provider of managed endpoint detection and response services, is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Tickets Now Available</title>
+      <link>/blog/tickets-now-available/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/tickets-now-available/</guid>
+      <description>Tickets to BSidesROC 2018 are now available!
+As we&amp;rsquo;ve done in previous years, if you&amp;rsquo;re looking for a job, give us your resume to distribute to sponsors, and we&amp;rsquo;ll give you free tickets. Follow the link above for more info.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Secure Network Technologies</title>
+      <link>/blog/sponsor-announcement---secure-network-technologies/</link>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---secure-network-technologies/</guid>
+      <description>Once again, we are pleased to announce that Secure Network Technologies has signed on to help make BSidesROC successful! If you’ve never heard of them, you’re missing out on an awesome company. They do everything from traditional pen testing to full scale red team physical security evaluations. They also go above &amp;amp; beyond to help the community, providing critical support to BSides events, donating high-quality gear to the local hacker space, and more.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - RIT Department of Computing Security (CSEC)</title>
+      <link>/blog/sponsor-announcement---rit-department-of-computing-security-csec/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---rit-department-of-computing-security-csec/</guid>
+      <description>If you’ve been to more than one BSidesROC before, you may have noticed the difference in venues over the years. Starting last year, BSidesROC has been lucky to partner with RIT’s CSEC department and have them host us on their campus in the GCCIS building. CSEC is on the front line of security and continues to be one of the top colleges in the nation for infosec.
+Find out more information about their program.</description>
+    </item>
+    
+    <item>
+      <title>CFP and Dates Announced!</title>
+      <link>/blog/cfp-and-dates-announced/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/cfp-and-dates-announced/</guid>
+      <description>The dates for BSidesROC 2018 are here:
+ Training Day: Friday April 13th 2018 Conference Day: Friday April 14th 2018  We will once again be hosted by RIT&amp;rsquo;s CSEC department in the B. Thomas Golisano College of Computing and Information Scienes (GCCIS), the same as last year.
+Our CFP is also live! If you have a presentation or a training for 2018 that you&amp;rsquo;d like to share with the community, please keep us in mind.</description>
+    </item>
+    
+    <item>
+      <title>2017 Survey Results</title>
+      <link>/blog/2017-survey-results/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2017-survey-results/</guid>
+      <description>Below you will find some of the results from the 2017 Attendee Survey. We asked you what you felt about various subjects and almost half of the attendees responded.</description>
+    </item>
+    
+    <item>
+      <title>Thank You</title>
+      <link>/blog/thank-you/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/thank-you/</guid>
+      <description>Thanks again to everyone that made BSidesROC happen: our sponsors, our organizers, our volunteers, our friends and our attendees. We will update our website with stats about the conference including survey results. Check back here soon and we&amp;rsquo;ll see you in 2018.</description>
+    </item>
+    
+  </channel>
+</rss>

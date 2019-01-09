@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on BSidesROC</title>
+    <link>https://www.bsidesroc.com/events/</link>
+    <description>Recent content in Events on BSidesROC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Résumélee</title>
+      <link>https://www.bsidesroc.com/events/resumeele/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/resumeele/</guid>
+      <description>Résumélee is a challenge to get your résumé into the hands of people that want to hire you&amp;hellip; but with a twist. Each résumé should be delivered in whatever way you feel like it &amp;ndash; the geekier the better. Just like last year, you will get a free ticket to the conference if you enter your résumé into the competition.
+Rules: We take our résumélee event seriously but it&amp;rsquo;s also a lot of fun.</description>
+    </item>
+    
+    <item>
+      <title>Hacker Capture-The-Flag</title>
+      <link>https://www.bsidesroc.com/events/hacker-ctf/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/hacker-ctf/</guid>
+      <description>THE COMPETITION BEGINS ON APRIL 22 AT 9:00AM
+Did we say capture-the-flag? We lied.
+This year, we are going to do a hacker challenge in the form of a Jeopardy-style scoreboard. Don&amp;rsquo;t think that this is some lame trivia-type game, though. Contestants will be challenged with cryptography, reverse engineering, and penetration testing puzzles of increasing difficulty. Hours of fun!!
+Just like in the classic Jeopardy game, harder challenges grant more points.</description>
+    </item>
+    
+    <item>
+      <title>Key-Signing-Party</title>
+      <link>https://www.bsidesroc.com/events/key-signing/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/key-signing/</guid>
+      <description> Join us for another installment of the BSidesROC Key-Signing Party. We will again facilitate a room that lets people join in and sign other people&amp;rsquo;s OpenPGP keys.
+How to get involved  If you haven&amp;rsquo;t already, generate an OpenPGP key Print out, or write down the long version of your key&amp;rsquo;s fingerprint gpg --keyid-format LONG -k 0xDEADBEEF Bring an ID or proof that you own the key Show up at 1pm at the designated room Take the other person&amp;rsquo;s public key Go home and sign their key Send them a copy of the key back to them Receive a copy of your key signed by another person Upload it to one of the key servers  </description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>https://www.bsidesroc.com/events/keynote/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/keynote/</guid>
+      <description>One of the most exciting parts of BSidesROC is the industry experts that we bring in every year to present on various subjects. This ranges from infosec topics, to hacker themes alike.
+Keynote We&amp;rsquo;re pleased to announce this year&amp;rsquo;s keynote will be int0x80!
+int0x80 is the rapper in Dual Core. Drink all the booze, Hack all the things!</description>
+    </item>
+    
+    <item>
+      <title>Artwork</title>
+      <link>https://www.bsidesroc.com/events/artwork/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/artwork/</guid>
+      <description>We believe there’s a cross-over between hackers and artists and for that reason we try to engage with local artists to develop cool shirts and signs.
+2017 T-Shirt Design: Mike Turkanski
+TBA
+Sign Design: Ryan Jabbour
+2016 T-Shirt Design: SpaceMan
+Sign Design: Kathryn DeFeoa
+2015 T-Shirt Design: Justyn Iannucci
+2014 T-Shirt Design: Brian Boucheron
+2013 T-Shirt Design: Brian Boucheron</description>
+    </item>
+    
+    <item>
+      <title>Community Room</title>
+      <link>https://www.bsidesroc.com/events/community-room/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/community-room/</guid>
+      <description>Our community room is a place for people in the community to share with BSidesROC attendees. This is a chance to meet some of the people in the community and see if they have something that interests you.
+TOOOL Rochester: TOOOL will be running a lock pick village the whole day to teach people about physical security.
+Infragard: Visit Infragard if you want to hear about the local Rochester chapter.</description>
+    </item>
+    
+    <item>
+      <title>Crypto Challenge</title>
+      <link>https://www.bsidesroc.com/events/crypto-challenge/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/crypto-challenge/</guid>
+      <description> The BSidesROC Crypto Challenge is an event where particpants must crack a puzzle designed by our famous crypto puzzle maker, Darth Null. There are no hints this year about what it will be, and part of the challenge may be finding the challenge itself!
+Prizes will be given away to winner. Please do not build more than 3 people per team.
+Follow Darth Null on Twitter for updates.
+OVTZSMHNJRUIEWCDQPKBVGXFA0L ILTG4MDOQPEXSYJKVWBCZAHUNFR UMDGZRJBQTXC5SLYFPNIVOHKWAE PFWMYKGXCZTROAEVDQULIBSJ3HN  -- </description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://www.bsidesroc.com/events/events/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/events/</guid>
+      <description>Here’s a list of the events that will be going on during BSidesROC:
+ Presentations &amp;ndash; listen and learn from industry experts Keynote &amp;ndash; attend our keynote at 11am Training Day &amp;ndash; get learned up in the latest skills for your career and fun Hacker Capture-The-Flag – score points by breaking into computers and applications Lightning Talks – attend and give quick and concentrated talks Community Room – pick locks, talk to the hackerspace, and more.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>https://www.bsidesroc.com/events/lightning-talks/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/lightning-talks/</guid>
+      <description>Lightning Talks are a group of 15-20 minute presentations strung together that happen in the Workshop track in the afternoon. Instead of the 50 minute talks that we organize in the main track, Lightning Talks are open to the public at the day of the event. That means we don’t know what you’ll be talking about. Some ideas for your talk could be:
+ Your favorite new security tool A research project you think the crowd would enjoy An effective way to protect your enterprise Solutions to improve security and privacy  If you&amp;rsquo;re into this idea, plan to sign up for a talk at the registration desk on the day of the con.</description>
+    </item>
+    
+    <item>
+      <title>Training Day</title>
+      <link>https://www.bsidesroc.com/events/training-day/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/training-day/</guid>
+      <description>Just like last year, we will be doing a training day, the day before the conference. This is an opportunity for people to learn the latest infosec or hacking techniques.
+Below are the details about the tickets or you can go directly to the checkout:
+Training Day Tickets    Time Yara NPT WiFi WiFi2     08:00 x x x    09:00 x x x    10:00 x x x    11:00 x x x    12:00 x x x    01:00 x x  x   02:00 x x  x   03:00 x x  x   04:00 x x  x   05:00 x x  x    YARA Training Trainer: Monty St John</description>
+    </item>
+    
+  </channel>
+</rss>

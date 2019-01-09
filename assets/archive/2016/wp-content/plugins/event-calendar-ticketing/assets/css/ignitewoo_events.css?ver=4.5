@@ -1,0 +1,190 @@
+/*
+ * Copyright (c) IgniteWoo.com - All Rights Reserved - http://ignitewoo.com
+*/
+
+/* Calendar display */
+.fc-grid .fc-event-time {
+	padding-right: 5px;
+}
+
+#calendar_loading {
+    background-color: #333333;
+    border: 2px solid #000000;
+    color: #FFFFFF;
+    display: none;
+    font-size: 22px;
+    font-weight: bold;
+    height: 30px;
+    margin: 0px auto;
+    opacity:0.8;
+    filter:alpha(opacity=80);
+    padding-top: 5px;
+    position: absolute;
+    top: 1px;
+    width: 200px;
+    z-index: 999999;
+}
+
+/* Events data display */ 
+
+.ignitewoo_event_details { 
+	border: 2px solid #ddd;
+}
+
+.ignitewoo_event_details td, .ignitewoo_event_details th { 
+	padding-left: 10px !important;
+}
+
+.ignitewoo_event_google_calendar_link {
+	margin-right: 12px;
+}
+
+.ignitewoo_event_ical_calendar_link {
+}
+
+.ignitewoo_events_sessions_header {
+	font-size: 1.1em;
+	padding: 4px 5px 5px 15px;
+	width: 99%;
+}
+
+.ignitewoo_event_details.event_dates { clear: both; margin-top: 15px; }
+
+.ignitewoo_event_details.session { clear: both; margin-bottom: 20px; }
+
+.session_organizer_heading, .session_sponsor_heading, .session_speaker_heading { 
+	background-color: #F5F5D5;
+	border-top: 1px dotted #333;
+	clear: both;
+}
+
+.ignitewoo_event_details .ignitewoo_event_venue, 
+.ignitewoo_event_details .ignitewoo_event_organizer,
+.ignitewoo_event_details .ignitewoo_event_sponsor,
+.ignitewoo_event_details .ignitewoo_event_speaker,
+.ignitewoo_event_details .ignitewoo_event_session,
+.ignitewoo_event_details .ignitewoo_event_track { 
+	background-color: #eee; 
+}
+
+.ignitewoo_event_details .session_organizer_heading { 
+	font-weight: bold;
+}
+
+.ignitewoo_event_details .session_name {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.ignitewoo_event_details .session_organizer { 
+	margin-bottom: 15px; 
+}
+
+.ignitewoo_event_details .session_organizer .session_organizer_pic { 
+	float:left; 
+	margin-right: 15px;
+	width: 30%;
+}
+
+.ignitewoo_event_details .session_organizer .session_organizer_details { 
+	float:right; 
+	width: 65%
+}
+
+.ignitewoo_event_details .session_organizer .session_organizer_details .session_organizer_name { 
+	font-weight: bold;
+}
+
+.ignitewoo_event_details .session_sponsor_heading { 
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+
+.ignitewoo_event_details .session_sponsor { 
+	margin-bottom: 15px; 
+}
+
+.ignitewoo_event_details .session_sponsor .session_sponsor_pic { 
+	float:left; 
+	margin-right: 15px;
+	width: 30%;
+}
+
+.ignitewoo_event_details .session_sponsor .session_sponsor_details { 
+	float:right; 
+	width: 65%
+}
+
+.ignitewoo_event_details .session_sponsor .session_sponsor_details .session_sponsor_name { 
+	font-weight: bold;
+}
+
+
+.ignitewoo_event_details .session_speaker { 
+	margin-bottom: 15px; 
+	min-height: 150px;
+}
+
+.ignitewoo_event_details .session_speaker p { 
+	margin-bottom: 5px; 
+}
+
+.ignitewoo_event_details .session_speaker_heading { 
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+.ignitewoo_event_details .session_speaker .session_speaker_pic { 
+	float:left; 
+	margin-right: 15px;
+	width: 30%;
+}
+
+.ignitewoo_event_details .session_speaker .session_speaker_details .session_speaker_name { 
+	font-weight: bold;
+}
+
+.ignitewoo_event_details  .event_thumbs {
+	padding-top: 15px;
+}
+
+.ignitewoo_event_details .event_start_label, .ignitewoo_event_details .event_end_label { margin-bottom: 10px; }
+
+.ignitewoo_qr_code { width: 150px; height: 150px; }
+
+.myaccount_venue_name { font-weight: bold; }
+
+.ignitewoo_event_details.event_dates tr td,
+.ignitewoo_event_details.venue tr td,
+.ignitewoo_event_details.organizer tr td,
+.ignitewoo_event_details.organizer table, .ignitewoo_event_details.organizer table tr td,
+.ignitewoo_event_details.venue table, .ignitewoo_event_details.venue table tr td,
+.ignitewoo_event_details.sponsor table, .ignitewoo_event_details.sponsor table tr td {
+	border: none;
+}
+
+.ignitewoo_event_cost { 
+	font-size: 16px;
+}
+.ignitewoo_event_cost .amount { 
+	color: #007700;
+	padding-left: 5px;
+}
+/* Ticket limit warning in cart and checkout */
+.ticket_limit_warning_checkout { 
+	background-color: #ffebe8;
+	border: 1px solid #cf0000;
+	padding: 5px 12px;
+}
+.ticket_limit_warning_cart { 
+	background-color: #fffbcc;
+	border: 1px solid #e6db55;
+	padding: 5px 12px;
+	margin-bottom: 10px;
+}
+
+/* Title font size for "Start" and "Description" on the popup on the calendar */
+.qtip-content .title {
+	font-size: 12px !important;
+}

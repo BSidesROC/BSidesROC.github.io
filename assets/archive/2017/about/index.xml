@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on BSidesROC</title>
+    <link>https://www.bsidesroc.com/about/</link>
+    <description>Recent content in About on BSidesROC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 16 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://www.bsidesroc.com/about/about/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/about/about/</guid>
+      <description>What is BSidesROC? Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment.
+Our seventh year was another action packed event that included presentations from industry professionals, games and challenges that exercised your hacker skills, as well as community involvement that represents the Rochester community.</description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>https://www.bsidesroc.com/about/organizers/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/about/organizers/</guid>
+      <description>BSidesROC – The Organization Security BSidesROC is run by volunteers; people that feel the need to help create a hacker conference in Rochester so strongly that they give up weekends and free time to make it happen.
+We help divide up the workload by making “Op” positions for the various facets of the conference. Ops are in charge of keeping track of their project’s money, managing the volunteers that help them, and coming up with awesome ways to get things done.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://www.bsidesroc.com/about/code-of-conduct/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/about/code-of-conduct/</guid>
+      <description>One of the goals we have with BSidesROC is to foster open discussion between attendees, speakers, and staff. Expressing radical viewpoints is welcome, and a high degree of skepticism on all sides is expected. Regardless, we aim to make BSidesROC a safe environment for everyone. We hold to the hacker ethos that what you look like is not important, your brain is what matters. As such, insulting or harassing other participants is unacceptable.</description>
+    </item>
+    
+    <item>
+      <title>Corporate Information</title>
+      <link>https://www.bsidesroc.com/about/corporate-information/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/about/corporate-information/</guid>
+      <description>Security B-Sides Rochester (BSidesROC) has recently become a 501(&amp;#x0063;)3 Not-For Profit organization. In order to be as transparent as possible, below you can find information about the goals for the organization, the corporate structure, and other information about the organization.
+Bylaws Directors: The following currently fullfil the role of Board of Directors for the B-Sides Rochester, Inc. corporation. Their responsibilities are outlined in the bylaws above.
+Coordinator: Mark Manning</description>
+    </item>
+    
+  </channel>
+</rss>

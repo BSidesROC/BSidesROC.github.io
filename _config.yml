@@ -1,0 +1,27 @@
+# Site specific settings
+title: "Security B-Sides Rochester"
+name: "BSidesRoc"
+keywords: "security, bsides, rochester, ny, newyork"
+baseurl: ""
+url: "https://bsidesroc.com"
+description: "Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment."
+cover: "/assets/img/cover.svg"
+fanpage_id: ""
+
+# Site general settings
+lang: "en"
+ssl: false # It will redirect to https
+
+# Media
+# Just the shortname:
+# facebook: lampiaosec # Rigth
+# facebook: facebook.com/lampiaosec # Wrong
+disqus: 
+twitter: bsidesroc
+facebook: 
+github: bsidesroc
+google:
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
