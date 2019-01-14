@@ -4,6 +4,8 @@ This year we will have a fully working electronic badge that will be reprogramma
 
 The badge has TWO [Shitty Add-Ons](https://hackaday.io/project/52950-shitty-add-ons) ports on each top corner of the badge, no rotation.
 
-The badge has the two data pins connected to pin 2 and pin 0 of the ATTINY85 Microcontroller for doing any kind of control required to the Shitty Add-Ons
+The badge has the two data pins connected to pin 2 and pin 0 of the ATTINY85 Microcontroller for doing any kind of control required to the Shitty Add-Ons. The programming port is a Amphenol ICC 20021321-00008C4LF - Its super tiny to prepare for that!
 
 There will be a contest this year for best hacked badge, prizes will be awarded!
+
+
