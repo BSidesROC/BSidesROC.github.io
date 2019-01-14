@@ -1,4 +1,4 @@
-# man BSidesRoc.Badge
+# #(badgebox)> man BSidesRoc.Badge
 
 This year we will have a fully working electronic badge that will be reprogrammable! due to lead times being so sort, we could only get about 200 Badges put together, but everyone will get a PCB if they did not sign up for the fully assembled badge.
 
