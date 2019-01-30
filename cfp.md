@@ -46,15 +46,13 @@ possibly workstations. Normally classes are either 4 or 8 hours total.
 **Subjects**: Anything technical in nature that you think our attendees would like to learn. See the above
 list for some ideas.
 
-**Pricing**: It's up to you the cost structure for your class. BSidesROC would appreciate a small amount
-to cover our effort to setup the event, handle tickets, and keep the event going
-for years to come, but the main goal is to provide
-quality training to our attendees. Our past trainings have ranged from $500 or less with a median being
-$25/person. We're happy to charge whatever you think is reasonable for your time.
- We recommend that you do not provide the class for free because in our experience, many people
-will sign up for the free class and only half will attend. This makes the BSidesROC organizers lives more
-difficult. If you are set on not receiving any money, consider donating it directly to a worthy cause such
-as the EFF or maybe your favorite local B-Sides conference. :)
+**Pricing**: The cost structure for your class is up to you.  We're happy to
+charge whatever you think is reasonable for your time.  We suggest that you keep
+in mind the number of attendees who are students, though, and try to keep ticket
+costs relatively low.  Our past trainings have been $500 or less, with a median
+of about $25-50/person.  BSidesROC asks for 15% of ticket sales to cover our
+efforts in managing the event.  And if you want to run a class for free, we will
+charge (and keep) $20 per student simply to minimize no-shows.
 
 
 #### Who Is The Audience?
