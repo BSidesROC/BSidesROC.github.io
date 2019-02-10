@@ -17,6 +17,6 @@ This year's BSidesRoc will be held at the RIT Inn at 5257 West Henrietta Road, H
 # $ xxd Sponsors.bin
 {:id="sponsors"}
 
-<a href="https://www.tenable.com"><img  height="256px" src="https://bsidesroc.com/assets/img/sponsors/TenableLogoR2018_ColorInverse_RGB.png"></a>
-<a href="https://www.crowdstrike.com/"><img height="256px" src="https://bsidesroc.com/assets/img/sponsors/crowdstrike-logo-4EE777D7FD-seeklogo.com.png"></a>
+<a href="https://www.tenable.com"><img height="150px" src="https://bsidesroc.com/assets/img/sponsors/TenableLogoR2018_ColorInverse_RGB.png"></a>
+<a href="https://www.crowdstrike.com/"><img height="150px" src="https://bsidesroc.com/assets/img/sponsors/crowdstrike-logo-4EE777D7FD-seeklogo.com.png"></a>
 
