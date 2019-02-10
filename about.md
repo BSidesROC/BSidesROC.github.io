@@ -13,7 +13,7 @@ Here’s a quick summary of our conference based on surveys from attendees:
 [![](/assets/img/2017_block_0_thumb.png)](/assets/img/2017_block_1_sm.png)
 [![](/assets/img/2017_block_1_thumb.png)](/assets/img/2017_block_2_sm.png)
 
-[![](/assets/img/2017_block_2_thumb.png)](/assets/2017_block_3_sm.png)
+[![](/assets/img/2017_block_2_thumb.png)](/assets/img/2017_block_3_sm.png)
 [![](/assets/img/2017_block_3_thumb.png)](/assets/img/2017_block_4_sm.png)
 
 # C:\\> TYPE FAQ.TXT
