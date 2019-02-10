@@ -11,3 +11,12 @@ Our seventh year was another action packed event that included presentations fro
 
 This year's BSidesRoc will be held at the RIT Inn at 5257 West Henrietta Road, Henrietta, NY 14467 on <strong>March 23rd</strong>.
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-77.6611089706421%2C43.047786823660225%2C-77.65756845474245%2C43.04952934304319&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+
+
+
+# $ xxd Sponsors.bin
+{:id="sponsors"}
+
+<a href="https://www.tenable.com"><img  width="50%" height="50%" src="https://bsidesroc.com/assets/img/sponsors/TenableLogoR2018_ColorInverse_RGB.png"></a>
+<a href="https://www.crowdstrike.com/"><img  width="25%" height="25%" src="https://bsidesroc.com/assets/img/sponsors/crowdstrike-logo-4EE777D7FD-seeklogo.com.png"></a>
+
