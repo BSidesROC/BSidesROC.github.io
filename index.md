@@ -21,3 +21,4 @@ This year's BSidesRoc will be held at the RIT Inn at 5257 West Henrietta Road, H
 <a href="https://www.crowdstrike.com/"><img height="150px" src="https://bsidesroc.com/assets/img/sponsors/crowdstrike-logo-4EE777D7FD-seeklogo.com.png"></a>
 <a href="https://www.iv4.com/"><img height="150px" src="https://bsidesroc.com/assets/img/sponsors/iv4logo.png"></a>
 <img height="150px" src="https://bsidesroc.com/assets/img/sponsors/RochesterISSAChapterLogo.png">
+<img height="150px" src="https://bsidesroc.com/assets/img/sponsors/secure-network-technologies-2019-gold.png">
