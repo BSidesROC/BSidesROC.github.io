@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
+<style>
+table, th, td {
+  border: 1px dashed rgba(255,255,255,0.5) !important;
+}
+</style>
 # $ cat Talks
 {:id="event"}
 
