@@ -1,5 +1,7 @@
 # $ gcc cfp.c –o CallForPapers
 
+<h1>CFP is now CLOSED!</h1>
+
 ### The Call For Presentations and Trainers for BSidesROC 2019 is now open!
 
 Use the link below to submit an idea for Training Day, a 50 minute talk, or a 20 minute talk.
@@ -12,7 +14,6 @@ Use the link below to submit an idea for Training Day, a 50 minute talk, or a 20
 
 - CFP Closes: 2/20/2019
 - CFP Responses Sent: 3/1/2019
-- Training Day: 3/22/2019
 - BSidesRoc: 3/23/2019
 
 
