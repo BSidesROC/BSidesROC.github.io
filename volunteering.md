@@ -24,4 +24,4 @@ Saturday 3/23:
 
 The goal is to give you the opportunity to volunteer in an area that you are most interested in.  Volunteers may be moved between areas so we have appropriate coverage and to allow you to see some of the talks that you may be interested in.
 
-*If you are interested, Please email volunteers @ bsidesroc.com*
+**If you are interested, Please email volunteers @ bsidesroc.com**
