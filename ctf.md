@@ -5,3 +5,4 @@ You will be put on a private network only accessable in the CTF Room, it will re
 
 Team sizes are 5 members, make sure to pick well!
 
+If you're new to CTF, or just want a comprehensive refresher, some of our friends from [THE HACKERGROUND](https://www.thehackerground.com/) are offering CTF training the day before the conference.  Get details and tickets [here](https://www.eventbrite.com/e/bsidesroc-ctf-boot-camp-tickets-58664593378).
