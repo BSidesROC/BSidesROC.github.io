@@ -27,8 +27,8 @@ td {
 | 12:30:00 PM | Francis Lee - Pwning a cheap IP camera for fun, but not profit. | Frank Fazio - Shock & Awe: Training the Humans |
 | 01:00:00 PM | LUNCH | LUNCH |
 | 01:30:00 PM | LUNCH | LUNCH |
-| 02:00:00 PM | Josh - Taking the Bugs out of Your Bug Bounty Program | --NO SPEAKER-- |
-| 02:30:00 PM | Josh - Taking the Bugs out of Your Bug Bounty Program | Hulto - Goofkit - Getting goofy with kernel functions |
+| 02:00:00 PM | Zach Bevilacqua	- Threat Hunting and Other Arcane Magic | --NO SPEAKER-- |
+| 02:30:00 PM | Zach Bevilacqua	- Threat Hunting and Other Arcane Magic | Hulto - Goofkit - Getting goofy with kernel functions |
 | 03:00:00 PM | Mark Manning -Kubernetes: DevOps vs "Security People" | Mike Lisi - What I’ve Learned About Students by Running a CTF |
 | 03:30:00 PM | Mark Manning -Kubernetes: DevOps vs "Security People" | Jeff Foley - OWASP Amass: Beyond Subdomain Enumeration |
 | 04:00:00 PM | Chaim Sanders - Playing the short game: the effects of data breaches on share prices | Jeff Foley - OWASP Amass: Beyond Subdomain Enumeration |
