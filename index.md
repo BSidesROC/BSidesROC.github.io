@@ -64,3 +64,8 @@ ROC Game Dev is a collective of video game developers, artists, and enthusiasts 
 https://tooolroc.org/
 
 TOOOL Rochester is the local chapter of the Open Organization Of Lockpickers. It is a loosely knit group of people from vary backgrounds that meet to share information about physical security such as lock picking. TOOOL will be running a lock pick village at BSidesROC.
+
+## AdaSpace
+http://adaspace.org/
+
+AdaSpace is a Hacker/Maker Space that fosters the creative exploration of DIY craft, technology, and design for women and transgender people who have been traditionally under-represented in technical fields. 
