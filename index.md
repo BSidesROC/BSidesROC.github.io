@@ -25,6 +25,7 @@ This year's BSidesRoc will be held at the RIT Inn at 5257 West Henrietta Road, H
 <img height="50px" src="https://bsidesroc.com/assets/img/sponsors/paychex_blue_360.png">
 <img height="100px" src="https://bsidesroc.com/assets/img/sponsors/attackiq_logo_porsche_ol_7658_.png">
 <img height="100px" src="https://bsidesroc.com/assets/img/sponsors/ncc-group.png">
+<img height="100px" src="https://bsidesroc.com/assets/img/1.jpg">
 
 # $> elinks local.community 
 
