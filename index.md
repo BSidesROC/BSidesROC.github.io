@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# \*\*\* **Next BSidesROC is scheduled for Sat March 21, 2020 at the RIT Inn! Stay Tuned for more details!** \*\*\*
+# \*\*\* **Next BSidesROC is scheduled for Sat March 21, 2020 at the RIT Inn! Stay tuned for more details!** \*\*\*
 # $ cat event.txt
 {:id="event"}
 
