@@ -2,6 +2,7 @@
 layout: default
 ---
 
+\*\*\* **Next BSidesROC is scheduled for Say March 21, 2020 at the RIT Inn! Stay Tuned for more details!** \*\*\*
 # $ cat event.txt
 {:id="event"}
 
