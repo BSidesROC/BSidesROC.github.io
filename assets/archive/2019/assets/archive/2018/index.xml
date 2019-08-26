@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BSidesROC</title>
+    <link>/</link>
+    <description>Recent content on BSidesROC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 09 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CFP</title>
+      <link>/cfp/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/cfp/</guid>
+      <description>The Call For Presentations and Trainers for BSidesROC 2018 is now open! Use the link below to submit an idea for Training Day, a 50 minute talk, or a 20 minute talk.
+Submit CFP Important Dates  CFP Closes: 3/13/2018 CFP Responses Sent: 3/31/2018  CFP Guideline We are looking for a variety of topics to be presented at this year’s con. Additionally, this year, we are seeking a mix of shorter, simple talks and longer, more detailed talks.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/about/contact/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/contact/</guid>
+      <description>Got something you want to say? You can reach us using social media, or our email below.
+Email info (at) bsidesroc (dot) com for any questions or comments.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/schedule/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>What is BSidesROC? Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment.
+Our seventh year was another action packed event that included presentations from industry professionals, games and challenges that exercised your hacker skills, as well as community involvement that represents the Rochester community.</description>
+    </item>
+    
+    <item>
+      <title>Directors</title>
+      <link>/about/organizers/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/organizers/</guid>
+      <description>Besides our crew of volunteers and operators, the organization stays above board thanks to a small group of directors. This a small elite group that takes responsibility for the less funn stuff like finances, insurance, and legal issues.
+Bill &amp;ldquo;JustBill&amp;rdquo; Bukowski (Director)
+JustBill brings expert level knowledge in the latest enterprise technology to the group. He is a “Manager” of IT for the largest market research company in the world. He no longer needs to actually know things but make sure you have your management slide ready for him just in case he cares.</description>
+    </item>
+    
+    <item>
+      <title>Operators</title>
+      <link>/about/ops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/ops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corporate Information</title>
+      <link>/about/corporate-information/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/corporate-information/</guid>
+      <description>Security B-Sides Rochester (BSidesROC) has recently become a 501(&amp;#x0063;)3 Not-For Profit organization. In order to be as transparent as possible, below you can find information about the goals for the organization, the corporate structure, and other information about the organization.
+Guidestar 501c3 Status
+Bylaws Directors: The following currently fullfil the role of Board of Directors for the B-Sides Rochester, Inc. corporation. Their responsibilities are outlined in the bylaws above.</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archive/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/archive/</guid>
+      <description> 2017 2016 2015 2014 2013 2012 2011  </description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>/about/code-of-conduct/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/code-of-conduct/</guid>
+      <description>One of the goals we have with BSidesROC is to foster open discussion between attendees, speakers, and staff. Expressing radical viewpoints is welcome, and a high degree of skepticism on all sides is expected. Regardless, we aim to make BSidesROC a safe environment for everyone. We hold to the hacker ethos that what you look like is not important, your brain is what matters. As such, insulting or harassing other participants is unacceptable.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Netanium</title>
+      <link>/blog/sponsor-announcement---netanium/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---netanium/</guid>
+      <description>We are proud to announce that Netanium, provider of firewall implementation, attack detection &amp;amp; analysis, and cloud security services, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - DigitalOcean</title>
+      <link>/blog/sponsor-announcement---digitalocean/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---digitalocean/</guid>
+      <description>We are proud to announce that DigitalOcean, provider of cloud computing infrastructure, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Cylance</title>
+      <link>/blog/sponsor-announcement---cylance/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---cylance/</guid>
+      <description>We are proud to announce that Cylance, the first company to apply artificial intelligence to proactively solve the most difficult security problems, is now an official Silver Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - No Starch Press</title>
+      <link>/blog/sponsor-announcement---no-starch-press/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---no-starch-press/</guid>
+      <description>We are proud to announce that No Starch Press, publisher of many books on open source/Linux, security, hacking, programming, alternative operating systems, science, and math, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - TrustedSec</title>
+      <link>/blog/sponsor-announcement---trustedsec/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---trustedsec/</guid>
+      <description>We are proud to announce that TrustedSec, an IT security consulting firm with a passion for conducting original research, developing tools, and giving back to the infosec community, is now an official Silver Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Community Room</title>
+      <link>/events/community-room/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/events/community-room/</guid>
+      <description>Our community room is a place for people in the community to share with BSidesROC attendees. This is a chance to meet some of the people in the community and see if they have something that interests you.
+AdaSpace: AdaSpace is a Hacker/Maker Space that fosters the creative exploration of DIY craft, technology, and design for women and transgender people who have been traditionally under-represented in technical fields.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Rochester ISSA</title>
+      <link>/blog/sponsor-announcement---rochester-issa/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---rochester-issa/</guid>
+      <description>We are proud to announce that Rochester ISSA, a non-profit business association comprised of information security professionals and practitioners, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about them.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Datto</title>
+      <link>/blog/sponsor-announcement---datto/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---datto/</guid>
+      <description>We are proud to announce that Datto, provider of secure business continuity services, is now an official Gold Sponsor of BSidesROC 2018! Also, note that Datto is now experiencing tremendous growth and is currently hiring!</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - GreyCastle Security</title>
+      <link>/blog/sponsor-announcement---greycastle-security/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---greycastle-security/</guid>
+      <description>We are proud to announce that GreyCastle Security, provider of cybersecurity risk assessment, advisory and mitigation services, is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Positron Security</title>
+      <link>/blog/sponsor-announcement---positron-security/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---positron-security/</guid>
+      <description>We are proud to announce that Positron Security, a Rochester-based penetration testing and security consulting firm, is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - iV4</title>
+      <link>/blog/sponsor-announcement---iv4/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---iv4/</guid>
+      <description>We are proud to announce that iV4, a full-service IT provider specializing in aligning business strategies with security solutions, is now an official Silver Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Tenable</title>
+      <link>/blog/sponsor-announcement---tenable/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---tenable/</guid>
+      <description>We are proud to announce that Tenable&amp;reg;, Inc., provider of Tenable.io, the first Cyber Exposure platform capable of visibility into any computing platform, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Critical Design Associates</title>
+      <link>/blog/sponsor-announcement---critical-design-associates/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---critical-design-associates/</guid>
+      <description>We are proud to announce that Critical Design Associates, provider of managed services, consulting, and staffing solutions, with a focus on people, process, and platform, is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Optiv Security</title>
+      <link>/blog/sponsor-announcement---optiv-security/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---optiv-security/</guid>
+      <description>We are proud to announce that Optiv Security, provider of full-suite information security services and solutions, is now an official Bronze Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Senrio</title>
+      <link>/blog/sponsor-announcement---senrio/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---senrio/</guid>
+      <description>We are proud to announce that Senrio, provider of an Internet of Things (IoT) security platform that delivers visibility and analytics for network embedded devices, is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsorship Info</title>
+      <link>/sponsorship-info/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsorship-info/</guid>
+      <description>Thanks for your interest in sponsoring BSidesROC 2018! Our official sponsorship information kit describes the tiers offered, along with perks and costs of each. Please send e-mail to info at bsidesroc.com to let us know which you&amp;rsquo;d like to move forward with.
+The infographics below summarize our attendees:
+2017 Attendee Demographics    
+2016 Attendee Demographics</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - RSA</title>
+      <link>/blog/sponsor-announcement---rsa/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---rsa/</guid>
+      <description>We are proud to announce that RSA, provider of a wide array of security services and products (including incident response, endpoint threat detection, network monitoring, and forensics), is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Endgame</title>
+      <link>/blog/sponsor-announcement---endgame/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---endgame/</guid>
+      <description>We are proud to announce that Endgame, provider of managed endpoint detection and response services, is now an official Gold Sponsor of BSidesROC 2018! Please check out their website to learn more about what they do.</description>
+    </item>
+    
+    <item>
+      <title>Tickets Now Available</title>
+      <link>/blog/tickets-now-available/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/tickets-now-available/</guid>
+      <description>Tickets to BSidesROC 2018 are now available!
+As we&amp;rsquo;ve done in previous years, if you&amp;rsquo;re looking for a job, give us your resume to distribute to sponsors, and we&amp;rsquo;ll give you free tickets. Follow the link above for more info.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Secure Network Technologies</title>
+      <link>/blog/sponsor-announcement---secure-network-technologies/</link>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---secure-network-technologies/</guid>
+      <description>Once again, we are pleased to announce that Secure Network Technologies has signed on to help make BSidesROC successful! If you’ve never heard of them, you’re missing out on an awesome company. They do everything from traditional pen testing to full scale red team physical security evaluations. They also go above &amp;amp; beyond to help the community, providing critical support to BSides events, donating high-quality gear to the local hacker space, and more.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - RIT Department of Computing Security (CSEC)</title>
+      <link>/blog/sponsor-announcement---rit-department-of-computing-security-csec/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/sponsor-announcement---rit-department-of-computing-security-csec/</guid>
+      <description>If you’ve been to more than one BSidesROC before, you may have noticed the difference in venues over the years. Starting last year, BSidesROC has been lucky to partner with RIT’s CSEC department and have them host us on their campus in the GCCIS building. CSEC is on the front line of security and continues to be one of the top colleges in the nation for infosec.
+Find out more information about their program.</description>
+    </item>
+    
+    <item>
+      <title>(Internal)</title>
+      <link>/readme/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/readme/</guid>
+      <description>0. Abstract The BSidesROC organization structure mirrors an IRC network with channels that are events and ops that organize the events. Above this control structure is a meta organization that maintains the Business as outlined in the Bylaws. Directors historically have the most responsibility and end up making a lot of the decisions for the organization. Ops are the sole owners of their events and, in most cases, override any opinions of the directors when it comes to the event that they Op.</description>
+    </item>
+    
+    <item>
+      <title>CFP and Dates Announced!</title>
+      <link>/blog/cfp-and-dates-announced/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/cfp-and-dates-announced/</guid>
+      <description>The dates for BSidesROC 2018 are here:
+ Training Day: Friday April 13th 2018 Conference Day: Friday April 14th 2018  We will once again be hosted by RIT&amp;rsquo;s CSEC department in the B. Thomas Golisano College of Computing and Information Scienes (GCCIS), the same as last year.
+Our CFP is also live! If you have a presentation or a training for 2018 that you&amp;rsquo;d like to share with the community, please keep us in mind.</description>
+    </item>
+    
+    <item>
+      <title>2017 Survey Results</title>
+      <link>/blog/2017-survey-results/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2017-survey-results/</guid>
+      <description>Below you will find some of the results from the 2017 Attendee Survey. We asked you what you felt about various subjects and almost half of the attendees responded.</description>
+    </item>
+    
+    <item>
+      <title>Thank You</title>
+      <link>/blog/thank-you/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/thank-you/</guid>
+      <description>Thanks again to everyone that made BSidesROC happen: our sponsors, our organizers, our volunteers, our friends and our attendees. We will update our website with stats about the conference including survey results. Check back here soon and we&amp;rsquo;ll see you in 2018.</description>
+    </item>
+    
+    <item>
+      <title>CTF</title>
+      <link>/events/ctf/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/ctf/</guid>
+      <description>BSides Rochester
+Capture The Flag This years CTF will be a two day long event filled with custom challenges with a broad subject matter. You will see Encryption, Binary Rerversing, Terminal Games, Quizes, Programming, Brainfuck, King of the Hill, and more!
+Brass Tax  Jeopardy Style CTF Pre-registration opens April 6th This is a TWO DAY Capture the Flag  Starts on April 13th at 9AM Eastern Time. Ends on April 14th 5PM Eastern Time  Capture the flag will be hosted at https://ctf.</description>
+    </item>
+    
+    <item>
+      <title>Training Day Tickets</title>
+      <link>/tickets/trainingday/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tickets/trainingday/</guid>
+      <description>BSidesROC Training Day is a all day event on April 13th, independent of the main conference. We&amp;rsquo;ve set up a full day of training opportunities for students in various subjects and hosted at RIT.
+Tickets go on sale March 2nd at 12:00PM ET. In the meantime, click on the link below to learn about classes, prices, and location.
+ Intro to Capture the Flag (CTF) (Morning) 8:00am in Room 2500</description>
+    </item>
+    
+    <item>
+      <title>Bug Branding Competition</title>
+      <link>/events/bugbranding/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/bugbranding/</guid>
+      <description>Announcing the BSidesROC Bug Branding Competition
+As we all know, the hardest part of crafting an 0-day is designing a clever name and logo. Here at BSidesROC, we want to help you get ahead on this aspect of exploit development. So, by 3pm on April 14th 2018, send us your branding ideas for any bug, real or imaginary. You may use old CVEs, current research, or your own psychosis for inspiration.</description>
+    </item>
+    
+    <item>
+      <title>Cryptoparty</title>
+      <link>/events/cryptoparty/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/cryptoparty/</guid>
+      <description>Digital Security Workshop Cryptoparty  Session 1:00pm: (1 hour) Hands on security workshop training Session 2:00pm: (1 hour) Technical deep-dive  What: Want to keep your digital life a bit secure? This is the right place to start. We will cover topics such as threat modeling, keeping passwords in check, and basic digital hygiene when browsing and talking with your friends.
+Know some of these things already and want to discuss these and other topics a bit more in depth?</description>
+    </item>
+    
+    <item>
+      <title>Artwork</title>
+      <link>/events/artwork/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/artwork/</guid>
+      <description>We believe there’s a cross-over between hackers and artists and for that reason we try to engage with local artists to develop cool shirts and signs.
+2018 T-shirt Design: Mike Turzanski
+Poster Design: TBA
+Badge Design:
+Coin Design: TBA
+2017 T-Shirt Design: Mike Turzanski
+TBA
+Sign Design: Ryan Jabbour
+2016 T-Shirt Design: SpaceMan
+Sign Design: Kathryn DeFeoa
+2015 T-Shirt Design: Justyn Iannucci
+2014 T-Shirt Design: Brian Boucheron
+2013 T-Shirt Design: Brian Boucheron</description>
+    </item>
+    
+    <item>
+      <title>Closing Remarks</title>
+      <link>/schedule/closing_remarks/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/closing_remarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crypto Challenge</title>
+      <link>/events/crypto-challenge/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/crypto-challenge/</guid>
+      <description>The BSidesROC Crypto Challenge is an event where particpants must crack a puzzle designed by our famous crypto puzzle maker, Darth Null. There are no hints this year about what it will be, and part of the challenge may be finding the challenge itself!
+Prizes will be given away to winner. Please do not build more than 3 people per team.
+Follow Darth Null on Twitter for updates.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>/events/lightning-talks/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/lightning-talks/</guid>
+      <description>Lightning Talks are a group of 5-10 minute presentations strung together that happen in the Workshop track in the afternoon. Instead of the 50 minute talks that we organize in the main track, Lightning Talks are open to the public at the day of the event. That means we don’t know what you’ll be talking about. Some ideas for your talk could be:
+ Your favorite new security tool A research project you think the crowd would enjoy An effective way to protect your enterprise Solutions to improve security and privacy  If you&amp;rsquo;re into this idea, plan to sign up for a talk at the registration desk on the day of the con.</description>
+    </item>
+    
+    <item>
+      <title>Lunch Break</title>
+      <link>/schedule/lunch/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/lunch/</guid>
+      <description>Lightning Talks are a group of 15-20 minute presentations strung together that happen in the Workshop track in the afternoon. Instead of the 50 minute talks that we organize in the main track, Lightning Talks are open to the public at the day of the event. That means we don’t know what you’ll be talking about. Some ideas for your talk could be:
+ Your favorite new security tool A research project you think the crowd would enjoy An effective way to protect your enterprise Solutions to improve security and privacy  If you&amp;rsquo;re into this idea, plan to sign up for a talk at the registration desk on the day of the con.</description>
+    </item>
+    
+    <item>
+      <title>Opening Remarks</title>
+      <link>/schedule/opening_remarks/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/opening_remarks/</guid>
+      <description>Lightning Talks are a group of 15-20 minute presentations strung together that happen in the Workshop track in the afternoon. Instead of the 50 minute talks that we organize in the main track, Lightning Talks are open to the public at the day of the event. That means we don’t know what you’ll be talking about. Some ideas for your talk could be:
+ Your favorite new security tool A research project you think the crowd would enjoy An effective way to protect your enterprise Solutions to improve security and privacy  If you&amp;rsquo;re into this idea, plan to sign up for a talk at the registration desk on the day of the con.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>/schedule/registration/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/registration/</guid>
+      <description>Lightning Talks are a group of 15-20 minute presentations strung together that happen in the Workshop track in the afternoon. Instead of the 50 minute talks that we organize in the main track, Lightning Talks are open to the public at the day of the event. That means we don’t know what you’ll be talking about. Some ideas for your talk could be:
+ Your favorite new security tool A research project you think the crowd would enjoy An effective way to protect your enterprise Solutions to improve security and privacy  If you&amp;rsquo;re into this idea, plan to sign up for a talk at the registration desk on the day of the con.</description>
+    </item>
+    
+    <item>
+      <title>Tickets</title>
+      <link>/tickets/tickets/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tickets/tickets/</guid>
+      <description>BSidesROC events will be on Friday April 13th, 2018 and Saturday April 14th, 2018. Friday will be our Training Day, and Saturday will be the con. Tickets for both days are separate. Find out more information about our Training Day.
+PURCHASE CONFERENCE TICKETS 
+PURCHASE TRAINING DAY TICKETS Free conference tickets for resume submissions Are you looking for a job? In that case, you can get a free ticket (to the con only) by reserving an &amp;ldquo;Entry (Resume Program)&amp;rdquo; ticket type, then submitting a resume by April 9th to resumes at-sign bsidesroc d0tt c0mm.</description>
+    </item>
+    
+    <item>
+      <title>ANYCon</title>
+      <link>/sponsors/anycon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/anycon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoRepeater: Automated HTTP Request Repeating With Burp Suite</title>
+      <link>/schedule/autorepeater_automated_http_request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/autorepeater_automated_http_request/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BinDbg: Easy Windows Debugging for Binary Ninja</title>
+      <link>/schedule/bindbg_easy_windows_debugging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/bindbg_easy_windows_debugging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BitCraze</title>
+      <link>/sponsors/bitcraze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/bitcraze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Hills Information Security</title>
+      <link>/sponsors/blackhills-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/blackhills-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building the Panopticon: Centralized Logging and Alerting With Free Tools</title>
+      <link>/schedule/building_the_panopticon_centralized/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/building_the_panopticon_centralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carve Systems</title>
+      <link>/sponsors/carve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/carve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civic and Humanitarian Open Source</title>
+      <link>/schedule/civic_and_humanitarian_open/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/civic_and_humanitarian_open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critical Design Associates</title>
+      <link>/sponsors/critical-design-associates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/critical-design-associates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cylance</title>
+      <link>/sponsors/cylance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/cylance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datto</title>
+      <link>/sponsors/datto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/datto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detect Me If You Can</title>
+      <link>/schedule/detect_me_if_you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/detect_me_if_you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DigitalOcean</title>
+      <link>/sponsors/digitalocean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/digitalocean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ducky-in-the-middle: Injecting keystrokes into plaintext protocols</title>
+      <link>/schedule/duckyinthemiddle_injecting_keystrokes_into/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/duckyinthemiddle_injecting_keystrokes_into/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easily Deploying and Optimizing Open Source Web Application Firewalls</title>
+      <link>/schedule/easily_deploying_and_optimizing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/easily_deploying_and_optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endgame</title>
+      <link>/sponsors/endgame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/endgame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F5</title>
+      <link>/sponsors/f5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/f5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GreyCastle Security</title>
+      <link>/sponsors/greycastle-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/greycastle-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackerboxes</title>
+      <link>/sponsors/hackerboxes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/hackerboxes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hak5</title>
+      <link>/sponsors/hak5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/hak5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description>Get ready for Security B-Sides Rochester on April 13 and 14 of 2018, once again hosted by Rochester Institute of Technology at the Golisano College of Computing (map marker). Grab your conference ticket and check out the classes for our Training Day. We have lots more coming so check back here often!
+Please don&amp;rsquo;t forget that our volunteers run this conference but our sponsors make it happen. Spread some love to them when you can.</description>
+    </item>
+    
+    <item>
+      <title>How the Cookie Crumbles: Modern HTTP State Persistence</title>
+      <link>/schedule/how_the_cookie_crumbles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/how_the_cookie_crumbles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to &amp;quot;hack&amp;quot; point of sale systems</title>
+      <link>/schedule/how_to_ampquothackampquot_point/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/how_to_ampquothackampquot_point/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hurricane Labs</title>
+      <link>/sponsors/hurricane-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/hurricane-labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT 4n6: The Growing Impact of the Internet of Things on Digital Forensics</title>
+      <link>/schedule/iot_4n6_the_growing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/iot_4n6_the_growing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT Botnet Detection System using Machine Learning</title>
+      <link>/schedule/iot_botnet_detection_system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/iot_botnet_detection_system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT Devices - And why they desperately need help.</title>
+      <link>/schedule/iot_devices__and/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/iot_devices__and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>/schedule/keynote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/keynote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn How to Expect the Unexpected: Unusual &amp;amp; Unexpected Findings in Incident Response </title>
+      <link>/schedule/learn_how_to_expect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/learn_how_to_expect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>/schedule/lightningtalks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/lightningtalks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NCC Group</title>
+      <link>/sponsors/ncc-group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/ncc-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netanium</title>
+      <link>/sponsors/netanium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/netanium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No Starch Press</title>
+      <link>/sponsors/nostarch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/nostarch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuand</title>
+      <link>/sponsors/nuand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/nuand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open source SAST and DAST tools for web app pen testing</title>
+      <link>/schedule/open_source_sast_and/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/open_source_sast_and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optiv Security</title>
+      <link>/sponsors/optiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/optiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paychex</title>
+      <link>/sponsors/paychex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/paychex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pentesting DevOps: Attacking Containers and Container Orchestration</title>
+      <link>/schedule/pentesting_devops_attacking_containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/pentesting_devops_attacking_containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhishMe</title>
+      <link>/sponsors/phishme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/phishme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positron Security</title>
+      <link>/sponsors/positron-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/positron-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RIT CSec</title>
+      <link>/sponsors/rit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/rit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSA</title>
+      <link>/sponsors/rsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/rsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red and Blue Ping Pong</title>
+      <link>/schedule/red_and_blue_ping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/red_and_blue_ping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rise of the Miners</title>
+      <link>/schedule/rise_of_the_miners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/rise_of_the_miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rochester ISSA</title>
+      <link>/sponsors/rochester-issa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/rochester-issa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Network Technologies</title>
+      <link>/sponsors/secure-network-technologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/secure-network-technologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senrio</title>
+      <link>/sponsors/senrio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/senrio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentry or: How I Learned to Stop Worrying and Delete My Accounts</title>
+      <link>/schedule/sentry_or_how_i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/sentry_or_how_i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surprise Attack Games</title>
+      <link>/sponsors/surprise-attack-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/surprise-attack-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Fractal Alligator</title>
+      <link>/sponsors/team-fractal-alligator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/team-fractal-alligator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tenable</title>
+      <link>/sponsors/tenable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/tenable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hackerground</title>
+      <link>/sponsors/hackerground/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/hackerground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top SIEM Rules You Should Implement Today</title>
+      <link>/schedule/top_siem_rules_you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/top_siem_rules_you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tresorit</title>
+      <link>/sponsors/tresorit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/tresorit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TrustedSec</title>
+      <link>/sponsors/trustedsec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/trustedsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turning Domain Data into Domain Intelligence</title>
+      <link>/schedule/turning_domain_data_into/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/turning_domain_data_into/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtualization Based Security Strengths and Weaknesses</title>
+      <link>/schedule/virtualization_based_security_strengths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/virtualization_based_security_strengths/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WITR</title>
+      <link>/sponsors/witr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/witr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>West Wind Security</title>
+      <link>/sponsors/westwind-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/westwind-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zachtronics</title>
+      <link>/sponsors/zachtronics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/zachtronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iSECURE</title>
+      <link>/sponsors/isecure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/isecure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iV4</title>
+      <link>/sponsors/iv4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/iv4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

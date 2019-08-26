@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schedule on BSidesROC</title>
+    <link>/schedule/</link>
+    <description>Recent content in Schedule on BSidesROC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 09 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/schedule/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Talks</title>
+      <link>/schedule/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closing Remarks</title>
+      <link>/schedule/closing_remarks/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/closing_remarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lunch Break</title>
+      <link>/schedule/lunch/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/lunch/</guid>
+      <description>Lightning Talks are a group of 15-20 minute presentations strung together that happen in the Workshop track in the afternoon. Instead of the 50 minute talks that we organize in the main track, Lightning Talks are open to the public at the day of the event. That means we don’t know what you’ll be talking about. Some ideas for your talk could be:
+ Your favorite new security tool A research project you think the crowd would enjoy An effective way to protect your enterprise Solutions to improve security and privacy  If you&amp;rsquo;re into this idea, plan to sign up for a talk at the registration desk on the day of the con.</description>
+    </item>
+    
+    <item>
+      <title>Opening Remarks</title>
+      <link>/schedule/opening_remarks/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/opening_remarks/</guid>
+      <description>Lightning Talks are a group of 15-20 minute presentations strung together that happen in the Workshop track in the afternoon. Instead of the 50 minute talks that we organize in the main track, Lightning Talks are open to the public at the day of the event. That means we don’t know what you’ll be talking about. Some ideas for your talk could be:
+ Your favorite new security tool A research project you think the crowd would enjoy An effective way to protect your enterprise Solutions to improve security and privacy  If you&amp;rsquo;re into this idea, plan to sign up for a talk at the registration desk on the day of the con.</description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>/schedule/registration/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/registration/</guid>
+      <description>Lightning Talks are a group of 15-20 minute presentations strung together that happen in the Workshop track in the afternoon. Instead of the 50 minute talks that we organize in the main track, Lightning Talks are open to the public at the day of the event. That means we don’t know what you’ll be talking about. Some ideas for your talk could be:
+ Your favorite new security tool A research project you think the crowd would enjoy An effective way to protect your enterprise Solutions to improve security and privacy  If you&amp;rsquo;re into this idea, plan to sign up for a talk at the registration desk on the day of the con.</description>
+    </item>
+    
+    <item>
+      <title>AutoRepeater: Automated HTTP Request Repeating With Burp Suite</title>
+      <link>/schedule/autorepeater_automated_http_request/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/autorepeater_automated_http_request/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BinDbg: Easy Windows Debugging for Binary Ninja</title>
+      <link>/schedule/bindbg_easy_windows_debugging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/bindbg_easy_windows_debugging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building the Panopticon: Centralized Logging and Alerting With Free Tools</title>
+      <link>/schedule/building_the_panopticon_centralized/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/building_the_panopticon_centralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civic and Humanitarian Open Source</title>
+      <link>/schedule/civic_and_humanitarian_open/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/civic_and_humanitarian_open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detect Me If You Can</title>
+      <link>/schedule/detect_me_if_you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/detect_me_if_you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ducky-in-the-middle: Injecting keystrokes into plaintext protocols</title>
+      <link>/schedule/duckyinthemiddle_injecting_keystrokes_into/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/duckyinthemiddle_injecting_keystrokes_into/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easily Deploying and Optimizing Open Source Web Application Firewalls</title>
+      <link>/schedule/easily_deploying_and_optimizing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/easily_deploying_and_optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How the Cookie Crumbles: Modern HTTP State Persistence</title>
+      <link>/schedule/how_the_cookie_crumbles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/how_the_cookie_crumbles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to &amp;quot;hack&amp;quot; point of sale systems</title>
+      <link>/schedule/how_to_ampquothackampquot_point/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/how_to_ampquothackampquot_point/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT 4n6: The Growing Impact of the Internet of Things on Digital Forensics</title>
+      <link>/schedule/iot_4n6_the_growing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/iot_4n6_the_growing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT Botnet Detection System using Machine Learning</title>
+      <link>/schedule/iot_botnet_detection_system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/iot_botnet_detection_system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT Devices - And why they desperately need help.</title>
+      <link>/schedule/iot_devices__and/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/iot_devices__and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>/schedule/keynote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/keynote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn How to Expect the Unexpected: Unusual &amp;amp; Unexpected Findings in Incident Response </title>
+      <link>/schedule/learn_how_to_expect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/learn_how_to_expect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>/schedule/lightningtalks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/lightningtalks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open source SAST and DAST tools for web app pen testing</title>
+      <link>/schedule/open_source_sast_and/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/open_source_sast_and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pentesting DevOps: Attacking Containers and Container Orchestration</title>
+      <link>/schedule/pentesting_devops_attacking_containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/pentesting_devops_attacking_containers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red and Blue Ping Pong</title>
+      <link>/schedule/red_and_blue_ping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/red_and_blue_ping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rise of the Miners</title>
+      <link>/schedule/rise_of_the_miners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/rise_of_the_miners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentry or: How I Learned to Stop Worrying and Delete My Accounts</title>
+      <link>/schedule/sentry_or_how_i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/sentry_or_how_i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top SIEM Rules You Should Implement Today</title>
+      <link>/schedule/top_siem_rules_you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/top_siem_rules_you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turning Domain Data into Domain Intelligence</title>
+      <link>/schedule/turning_domain_data_into/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/turning_domain_data_into/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtualization Based Security Strengths and Weaknesses</title>
+      <link>/schedule/virtualization_based_security_strengths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/virtualization_based_security_strengths/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

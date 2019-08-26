@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schedule on BSidesROC</title>
+    <link>https://www.bsidesroc.com/schedule/</link>
+    <description>Recent content in Schedule on BSidesROC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="schedule/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speakers</title>
+      <link>https://www.bsidesroc.com/schedule/speakers/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/schedule/speakers/</guid>
+      <description>Matt Arnold DNS Unbound
+Matt Arnold is a Unix Enthusiast who has tried just about every free Unix or Linux system in existence. He was previously a package maintainer in Debian and Slackware. He finds talking about himself in the third person to be goofy.
+M. Carlton Insecure Design Patterns in IoT
+M. Carlton heads the Senrio research team, focusing on product security and development. She brings strong embedded device research capabilities to the team.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://www.bsidesroc.com/schedule/talks/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/schedule/talks/</guid>
+      <description>Insecure Design Patterns in IoT M. Carlton
+This talk will explore vulnerabilities resulting from insecure design patterns in internet-connected embedded devices using real-world examples. In the course of our research, we have observed a pattern of manufacturers incorporating design choices that make an attacker’s job easier. We will explore in technical detail how these design flaws resulted in vulnerabilities in three popular devices.
+Attacking Modern SaaS Companies Sean Cassidy</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://www.bsidesroc.com/schedule/schedule/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/schedule/schedule/</guid>
+      <description>&amp;nbsp; Track 1 Track 2 Track 3   0800 Init   0830 Opening Remarks   0900 Attacking Modern SaaS Companies  How I Broke Into Your Data Center  Systematic Network Security Troubleshooting (pcaps or getout)   0930 Defeating Application Defenses Through XSS   1000 Get Low (To all STC STC STC STC)  Whose Idea Was That? Comparing Security Curriculums and Accreditations to Industry Needs  Insecure Design Patterns in IoT   1030 How Bad Is My DIY Password Manager?</description>
+    </item>
+    
+  </channel>
+</rss>
