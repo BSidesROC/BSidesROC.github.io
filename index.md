@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: landing
 ---
 # $ cat event.txt
 {:id="event"}
