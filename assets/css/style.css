@@ -22,3 +22,11 @@ a.nav-link {
 .jumbotron h2 {
 	font-size: 2.5rem;
 }
+
+main {
+	margin-top: 4rem;
+}
+
+.navbar-nav {
+	margin-right: 7rem;
+}
