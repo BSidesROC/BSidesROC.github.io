@@ -1,0 +1,32 @@
+#nav_logo {
+	background-color: rgb(170, 170, 170);
+	width: 120px;
+	height: 100px;
+	padding-left: 0.3124rem;
+	padding-right: 0.3124rem;
+	padding-top: 0.41rem;
+}
+
+#nav_logo a {
+	display: block;
+}
+
+a.nav-link {
+	font-size: 1.25rem;
+}
+
+.jumbotron p {
+	font-size: 2rem;
+}
+
+.jumbotron h2 {
+	font-size: 2.5rem;
+}
+
+main {
+	margin-top: 4rem;
+}
+
+.navbar-nav {
+	margin-right: 7rem;
+}
