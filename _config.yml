@@ -25,3 +25,5 @@ google:
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+
+exclude: [vendor, assets/archive]
