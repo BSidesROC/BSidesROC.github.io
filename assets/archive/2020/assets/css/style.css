@@ -1,3 +1,15 @@
+/*
+ * Content
+ */
+
+[role="main"] {
+	margin-top: 8rem;
+}
+
+[role="main-content"] {
+	margin-top: 2rem;
+}
+
 #nav_logo {
 	background-color: rgb(170, 170, 170);
 	width: 120px;
@@ -15,18 +27,29 @@ a.nav-link {
 	font-size: 1.25rem;
 }
 
-.jumbotron p {
-	font-size: 2rem;
-}
-
-.jumbotron h2 {
-	font-size: 2.5rem;
-}
-
-main {
-	margin-top: 4rem;
-}
-
 .navbar-nav {
 	margin-right: 7rem;
+}
+
+@media (min-width: 576px) {
+	#jumbotron {
+		padding: 4rem 2rem 0 2rem;
+	}
+}
+
+@media (min-width: 987px) {
+	#jumbotron {
+		padding: 4rem 2rem 0 2rem;
+		margin-bottom: 0;
+	}
+}
+
+.jumbotron {
+	color: lightgray;
+	margin-bottom: 2rem;
+}
+
+.jumbotron .headings {
+	font-size: 1rem;
+	margin-top: 4rem;
 }

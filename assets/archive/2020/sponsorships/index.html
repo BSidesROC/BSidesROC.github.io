@@ -27,6 +27,7 @@
 <!-- Style and scripts files -->
 <link rel="stylesheet" type="text/css" href="/assets/archive/2020/assets/css/style.css">
 <link rel="stylesheet" type="text/css" href="/assets/archive/2020/assets/css/bootstrap.slate.min.css">
+<link rel="stylesheet" type="text/css" href="/assets/archive/2020/assets/css/sidebar.css">
 
 <!-- Extra information about this page -->
 <link rel="license" type="text/plain" src="/assets/archive/2020/assets/LICENSE">
@@ -70,79 +71,79 @@
 <script src="/assets/archive/2020/assets/js/popper.min.js"></script>
 <script src="/assets/archive/2020/assets/js/bootstrap.min.js"></script>
 
-	<body style="padding-top:3.5rem;">
-		<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+	<body style="padding-top:6.5rem;">
+	    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
     <!--<a class="navbar-brand" href="/">BSidesROC</a>-->
     <div id="nav_logo" class="" >
-        <a href="/assets/archive/2020/">
+        <a href="/">
             <img src="/assets/archive/2020/assets/img/2019_logo.png"  height="100%" width="100%" />
         </a>
     </div>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
-            aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-top"
+            aria-controls="nav-top" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <div class="collapse navbar-collapse" id="nav-top">
         <ul class="navbar-nav ml-auto">
             <li class="nav-item dropdown">
                 <a id="about" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
                 <div class="dropdown-menu" aria-labelledby="about">
-                    <a class="dropdown-item" href="/assets/archive/2020/about/">About Us</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/faq/">FAQ</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/coc/">Code of Conduct</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/archives/">Archives</a>
+                    <a class="dropdown-item" href="/about/">About Us</a>
+                    <a class="dropdown-item" href="/faq/">FAQ</a>
+                    <a class="dropdown-item" href="/coc/">Code of Conduct</a>
+                    <a class="dropdown-item" href="/archives/">Archives</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
                 <a id="get_involved" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true"
                    aria-expanded="false">Get Involved</a>
                 <div class="dropdown-menu" aria-labelledby="get_involved">
-                    <a class="dropdown-item" href="/assets/archive/2020/volunteering/">Volunteering</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/cfp/">CFP</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/sponsorships/">Sponsorships</a>
+                    <a class="dropdown-item" href="/volunteering/">Volunteering</a>
+                    <a class="dropdown-item" href="/cfp/">CFP</a>
+                    <a class="dropdown-item" href="/sponsorships/">Sponsorships</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
                 <a id="events" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
                    aria-expanded="false">Events</a>
                 <div class="dropdown-menu" aria-labelledby="events">
-                    <a class="dropdown-item" href="/assets/archive/2020/workshops/">Workshops</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/ctf/">CTF</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/osint_ctf/">OSINT CTF</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/lockpick_village/">Lockpick Village</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/badge/">Badge Hacking</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/talks/">Talks</a>
+                    <a class="dropdown-item" href="/workshops/">Workshops</a>
+                    <a class="dropdown-item" href="/ctf/">CTF</a>
+                    <a class="dropdown-item" href="/osint_ctf/">OSINT CTF</a>
+                    <a class="dropdown-item" href="/lockpick_village/">Lockpick Village</a>
+                    <a class="dropdown-item" href="/badge/">Badge Hacking</a>
+                    <a class="dropdown-item" href="/talks/">Talks</a>
                 </div>
             </li>
             <li class="nav-item dropdown">
                 <a id="agenda" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
                    aria-expanded="false">Agenda</a>
                 <div class="dropdown-menu" aria-labelledby="agenda">
-                    <a class="dropdown-item" href="/assets/archive/2020/schedule/">Schedule / Tracks</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/speakers/">Speakers</a>
+                    <a class="dropdown-item" href="/schedule/">Schedule / Tracks</a>
+                    <a class="dropdown-item" href="/speakers/">Speakers</a>
                 </div>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/assets/archive/2020/location/">Location</a>
+                <a class="nav-link" href="/location/">Location</a>
             </li>
             <li class="nav-item dropdown">
                 <a id="tickets" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
                    href="#">Tickets</a>
                 <div class="dropdown-menu" aria-labelledby="tickets">
-                    <a class="dropdown-item" href="/assets/archive/2020/get_tickets/">Get Tickets!</a>
-                    <a class="dropdown-item" href="/assets/archive/2020/resumes/">Resume Ticket Exchange</a>
+                    <a class="dropdown-item" href="/get_tickets/">Get Tickets!</a>
+                    <a class="dropdown-item" href="/resumes/">Resume Ticket Exchange</a>
                 </div>
             </li>
         </ul>
     </div>
 </nav>
 
-		<main role="main">
-			<div class="container">
-				<h1 id="sponsorships">Sponsorships</h1>
+	    <div class="container-fluid">
+			<div class="row">
+				<main role="main-content" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+					<h1 id="sponsorships">Sponsorships</h1>
 
-<p>Thanks for your interest in sponsoring BSidesROC 2019!  Our <a href="/assets/archive/2020/assets/archive/2020/assets/doc/BSides_Rochester_Sponsor_Info_2019.pdf">official sponsorship information kit</a> describes the tiers offered, along with perks and costs of each.  Please send e-mail to info at bsidesroc.com to let us know which you’d like to move forward with.</p>
+<p>Thanks for your interest in sponsoring BSidesROC 2019!  Our <a href="/assets/archive/2020/assets/doc/BSides_Rochester_Sponsor_Info_2019.pdf">official sponsorship information kit</a> describes the tiers offered, along with perks and costs of each.  Please send e-mail to info at bsidesroc.com to let us know which you’d like to move forward with.</p>
 
 <p>The infographics below summarize our attendees:</p>
 
@@ -150,30 +151,57 @@
 <p>~ Coming Soon! ~</p>
 
 <h3 id="2018-attendee-demographics">2018 Attendee Demographics</h3>
-<p><a href="/assets/archive/2020/assets/archive/2020/assets/img/2018_block_0.png"><img src="/assets/archive/2020/assets/img/2018_block_0_thumb.png" alt="" /></a>
-<a href="/assets/archive/2020/assets/archive/2020/assets/img/2018_block_1.png"><img src="/assets/archive/2020/assets/img/2018_block_1_thumb.png" alt="" /></a></p>
+<p><a href="/assets/archive/2020/assets/img/2018_block_0.png"><img src="/assets/archive/2020/assets/img/2018_block_0_thumb.png" alt="" /></a>
+<a href="/assets/archive/2020/assets/img/2018_block_1.png"><img src="/assets/archive/2020/assets/img/2018_block_1_thumb.png" alt="" /></a></p>
 
-<p><a href="/assets/archive/2020/assets/archive/2020/assets/img/2018_block_2.png"><img src="/assets/archive/2020/assets/img/2018_block_2_thumb.png" alt="" /></a>
-<a href="/assets/archive/2020/assets/archive/2020/assets/img/2018_block_3.png"><img src="/assets/archive/2020/assets/img/2018_block_3_thumb.png" alt="" /></a></p>
+<p><a href="/assets/archive/2020/assets/img/2018_block_2.png"><img src="/assets/archive/2020/assets/img/2018_block_2_thumb.png" alt="" /></a>
+<a href="/assets/archive/2020/assets/img/2018_block_3.png"><img src="/assets/archive/2020/assets/img/2018_block_3_thumb.png" alt="" /></a></p>
 
 <h3 id="2017-attendee-demographics">2017 Attendee Demographics</h3>
 
-<p><a href="/assets/archive/2020/assets/archive/2020/assets/img/2017_block_1_sm.png"><img src="/assets/archive/2020/assets/img/2017_block_0_thumb.png" alt="" /></a>
-<a href="/assets/archive/2020/assets/archive/2020/assets/img/2017_block_2_sm.png"><img src="/assets/archive/2020/assets/img/2017_block_1_thumb.png" alt="" /></a>
-<a href="/assets/archive/2020/assets/archive/2020/assets/img/2017_block_3_sm.png"><img src="/assets/archive/2020/assets/img/2017_block_2_thumb.png" alt="" /></a>
-<a href="/assets/archive/2020/assets/archive/2020/assets/img/2017_block_4_sm.png"><img src="/assets/archive/2020/assets/img/2017_block_3_thumb.png" alt="" /></a></p>
+<p><a href="/assets/archive/2020/assets/img/2017_block_1_sm.png"><img src="/assets/archive/2020/assets/img/2017_block_0_thumb.png" alt="" /></a>
+<a href="/assets/archive/2020/assets/img/2017_block_2_sm.png"><img src="/assets/archive/2020/assets/img/2017_block_1_thumb.png" alt="" /></a>
+<a href="/assets/archive/2020/assets/img/2017_block_3_sm.png"><img src="/assets/archive/2020/assets/img/2017_block_2_thumb.png" alt="" /></a>
+<a href="/assets/archive/2020/assets/img/2017_block_4_sm.png"><img src="/assets/archive/2020/assets/img/2017_block_3_thumb.png" alt="" /></a></p>
 
 <h3 id="2016-attendee-demographics">2016 Attendee Demographics</h3>
 
-<p><a href="/assets/archive/2020/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_1.png"><img src="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_1-thumb.png" alt="" /></a>
-<a href="/assets/archive/2020/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_2.png"><img src="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_2-thumb.png" alt="" /></a>
-<a href="/assets/archive/2020/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_3.png"><img src="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_3-thumb.png" alt="" /></a>
-<a href="/assets/archive/2020/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_4.png"><img src="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_4-thumb.png" alt="" /></a></p>
+<p><a href="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_1.png"><img src="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_1-thumb.png" alt="" /></a>
+<a href="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_2.png"><img src="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_2-thumb.png" alt="" /></a>
+<a href="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_3.png"><img src="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_3-thumb.png" alt="" /></a>
+<a href="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_4.png"><img src="/assets/archive/2020/assets/img/bsidesroc-2016-thanks_block_4-thumb.png" alt="" /></a></p>
 
 
+				</main>
+				<nav id="sidebar" class="col-md-2 d-none d-lg-block sidebar bg-light px-2">
+    <h2 class="sidebar-heading text-center">Sponsors</h2>
+    <div class="sidebar-sticky">
+        <ul class="flex-column list-unstyled">
+            <li>
+                <img src="/assets/archive/2020/assets/img/positron_security_logo_hires_white_transparent_v2.png" height="81px" width="230px">
+            </li>
+            <li>
+                <img src="/assets/archive/2020/assets/img/siegeTech-logo-large-New.png" height="81px" width="210px">
+            </li>
+        </ul>
+    </div>
+</nav>
+				<nav id="sponsors" class="d-lg-none d-block bg-light px-2 sponsors w-100">
+    <div class="mt-2">
+        <h3 class="sidebar-heading text-center">Sponsors</h3>
+        <ul class="list-unstyled">
+            <li>
+                <img src="/assets/archive/2020/assets/img/positron_security_logo_hires_white_transparent_v2.png" height="81px" width="230px">
+            </li>
+            <li>
+                <img src="/assets/archive/2020/assets/img/siegeTech-logo-large-New.png" height="81px" width="210px">
+            </li>
+        </ul>
+    </div>
+</nav>
 			</div>
-		</main>
-		<footer>
+		</div>
+		<footer class="fixed-bottom">
 
 <a href="https://github.com/BSidesROC/BSidesROC.github.io">Github</a>
 
