@@ -4,11 +4,11 @@
 <!-- Basic information about this page -->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="icon" type="image/x-icon" href=/assets/archive/2020/assets/img/fav.ico">
+<link rel="icon" type="image/x-icon" href="/assets/archive/2020/assets/img/fav.ico">
 <title>
-	
+
 		About Us ::
-	
+
 	Security B-Sides Rochester
 </title>
 
@@ -27,6 +27,7 @@
 <!-- Style and scripts files -->
 <link rel="stylesheet" type="text/css" href="/assets/archive/2020/assets/css/style.css">
 <link rel="stylesheet" type="text/css" href="/assets/archive/2020/assets/css/bootstrap.slate.min.css">
+<link rel="stylesheet" type="text/css" href="/assets/archive/2020/assets/css/sidebar.css">
 
 <!-- Extra information about this page -->
 <link rel="license" type="text/plain" src="/assets/archive/2020/assets/LICENSE">
@@ -36,7 +37,7 @@
 <meta property="og:title" content="Security B-Sides Rochester" />
 <meta property="og:type" content="website" />
 <meta property="og:description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment." />
-<meta property="og:url" content="http://localhost:4000" />
+<meta property="og:url" content="https://bsidesroc.com" />
 <meta property="og:image:type" content="image/png" /> <!-- less than 5mB -->
 <meta property="og:image:width" content="600" />
 <meta property="og:image:height" content="315" />
@@ -49,7 +50,7 @@
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Security B-Sides Rochester" />
 <meta name="twitter:description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment." />
-<meta name="twitter:url" content="http://localhost:4000" />
+<meta name="twitter:url" content="https://bsidesroc.com" />
 <meta name="twitter:image" content="/assets/archive/2020/assets/img/cover.svg" />
 <meta name="twitter:author" content="bsidesroc" />
 
@@ -70,20 +71,19 @@
 <script src="/assets/archive/2020/assets/js/popper.min.js"></script>
 <script src="/assets/archive/2020/assets/js/bootstrap.min.js"></script>
 
-	<body style="padding-top:3.5rem;">
-		<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+	<body style="padding-top:6.5rem;">
+	    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
     <!--<a class="navbar-brand" href="/">BSidesROC</a>-->
     <div id="nav_logo" class="" >
-        <a href="/assets/archive/2020/">
+        <a href="/assets/archie/2020/">
             <img src="/assets/archive/2020/assets/img/2019_logo.png"  height="100%" width="100%" />
         </a>
     </div>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
-            aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-top"
+            aria-controls="nav-top" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <div class="collapse navbar-collapse" id="nav-top">
         <ul class="navbar-nav ml-auto">
             <li class="nav-item dropdown">
                 <a id="about" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
@@ -138,9 +138,10 @@
     </div>
 </nav>
 
-		<main role="main">
-			<div class="container">
-				<h1 id="about-us">About Us</h1>
+	    <div class="container-fluid">
+			<div class="row">
+				<main role="main-content" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+					<h1 id="about-us">About Us</h1>
 
 <p>Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment.</p>
 
@@ -202,9 +203,36 @@ Art Co-Op, AV</p>
 <p>As an Information Security Operations Manager by day, Sean leads both the vulnerability assessment and testing team, along with the threat intelligence team for a large national health care system. In his spare time, he enjoys popping locks, amateur radio, and tabletop gaming. Disappointed white male, looking for discreet friend to bring dreams to reality. Leather, lace and water sports…. Wait… wrong bio…
 Art Co-Op</p>
 
+				</main>
+				<nav id="sidebar" class="col-md-2 d-none d-lg-block sidebar bg-light px-2">
+    <h2 class="sidebar-heading text-center">Sponsors</h2>
+    <div class="sidebar-sticky">
+        <ul class="flex-column list-unstyled">
+            <li>
+                <img src="/assets/archive/2020/assets/img/positron_security_logo_hires_white_transparent_v2.png" height="81px" width="230px">
+            </li>
+            <li>
+                <img src="/assets/archive/2020/assets/img/siegeTech-logo-large-New.png" height="81px" width="210px">
+            </li>
+        </ul>
+    </div>
+</nav>
+				<nav id="sponsors" class="d-lg-none d-block bg-light px-2 sponsors w-100">
+    <div class="mt-2">
+        <h3 class="sidebar-heading text-center">Sponsors</h3>
+        <ul class="list-unstyled">
+            <li>
+                <img src="/assets/archive/2020/assets/img/positron_security_logo_hires_white_transparent_v2.png" height="81px" width="230px">
+            </li>
+            <li>
+                <img src="/assets/archive/2020/assets/img/siegeTech-logo-large-New.png" height="81px" width="210px">
+            </li>
+        </ul>
+    </div>
+</nav>
 			</div>
-		</main>
-		<footer>
+		</div>
+		<footer class="fixed-bottom">
 
 <a href="https://github.com/BSidesROC/BSidesROC.github.io">Github</a>
 
