@@ -1,0 +1,73 @@
+/* small devices */
+body {
+	font-size: 1rem;
+}
+@media (min-width: 576px) {
+	body {
+		font-size: 1.2rem;
+	}
+}
+/* medium devices */
+@media (min-width: 768px) {
+	body {
+		font-size: 1.4rem;
+	}
+}
+/* large devices */
+@media (min-width: 992px) {
+	body {
+		font-size: 1.6rem;
+	}
+}
+/* extra large devices */
+@media (min-width: 1200px) {
+	body {
+		font-size: 1.8rem;
+	}
+}
+
+
+[role="main"] {
+	margin-top: 8rem;
+}
+
+#nav_logo {
+	background-color: rgb(170, 170, 170);
+	width: 120px;
+	height: 100px;
+	padding-left: 0.3124rem;
+	padding-right: 0.3124rem;
+	padding-top: 0.41rem;
+}
+
+#nav_logo a {
+	display: block;
+}
+
+a.nav-link {
+	font-size: 1.25rem;
+}
+
+@media (min-width: 576px) {
+	#jumbotron {
+		padding: 4rem 2rem 0 2rem;
+	}
+}
+
+@media (min-width: 987px) {
+	#jumbotron {
+		padding: 4rem 2rem 0 2rem;
+		margin-bottom: 0;
+	}
+}
+
+.jumbotron {
+	color: lightgray;
+	margin-bottom: 2rem;
+	margin-left: 6rem;
+}
+
+.jumbotron .headings {
+	font-size: 1rem;
+	margin-top: 4rem;
+}
