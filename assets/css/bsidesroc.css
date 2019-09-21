@@ -1,13 +1,34 @@
-/*
- * Content
- */
+/* small devices */
+body {
+	font-size: 1rem;
+}
+@media (min-width: 576px) {
+	body {
+		font-size: 1.2rem;
+	}
+}
+/* medium devices */
+@media (min-width: 768px) {
+	body {
+		font-size: 1.4rem;
+	}
+}
+/* large devices */
+@media (min-width: 992px) {
+	body {
+		font-size: 1.6rem;
+	}
+}
+/* extra large devices */
+@media (min-width: 1200px) {
+	body {
+		font-size: 1.8rem;
+	}
+}
+
 
 [role="main"] {
 	margin-top: 8rem;
-}
-
-[role="main-content"] {
-	margin-top: 2rem;
 }
 
 #nav_logo {
@@ -27,10 +48,6 @@ a.nav-link {
 	font-size: 1.25rem;
 }
 
-.navbar-nav {
-	margin-right: 7rem;
-}
-
 @media (min-width: 576px) {
 	#jumbotron {
 		padding: 4rem 2rem 0 2rem;
@@ -47,6 +64,7 @@ a.nav-link {
 .jumbotron {
 	color: lightgray;
 	margin-bottom: 2rem;
+	margin-left: 6rem;
 }
 
 .jumbotron .headings {
