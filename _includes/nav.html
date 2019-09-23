@@ -1,15 +1,65 @@
-<nav>
-	<ul>
-		<li><a href="/">Home</a></li>
-		<li><a href="/about/">About</a></li>
-		<li><a href="/cfp/">CFP</a></li>
-		<li><a href="http://bsidesroc.com/volunteering/">Volunteering</a></li>
-		<li><a href="/sponsorships/">Sponsorships</a></li>
-		<li><a href="https://www.eventbrite.com/e/bsidesroc-tickets-54603780377">Get Tickets</a>
-		<li><a href="/ctf/">CTF</a></li>
-		<li><a href="/schedule">Schedule</a></li>
-		<li><a href="/2019Talks/">Talks</a></li>
-		<li><a href="/badge/">Badge Hacking</a></li>
-		<li><a href="/resumes/">Resume/Free Attendance</a></li>
-	</ul>
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark pr-lg-5">
+    <!--<a class="navbar-brand" href="/">BSidesROC</a>-->
+    <div id="nav_logo" class="" >
+        <a href="/">
+            <img src="/assets/img/2019_logo.png"  height="100%" width="100%" />
+        </a>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-top"
+            aria-controls="nav-top" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse pr-lg-5" id="nav-top">
+        <ul class="navbar-nav ml-auto pr-lg-5">
+            <li class="nav-item dropdown">
+                <a id="about" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+                <div class="dropdown-menu" aria-labelledby="about">
+                    <a class="dropdown-item" href="/about/">About Us</a>
+                    <a class="dropdown-item" href="/faq/">FAQ</a>
+                    <a class="dropdown-item" href="/coc/">Code of Conduct</a>
+                    <a class="dropdown-item" href="/archives/">Archives</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="get_involved" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Get Involved</a>
+                <div class="dropdown-menu" aria-labelledby="get_involved">
+                    <a class="dropdown-item" href="/volunteering/">Volunteering</a>
+                    <a class="dropdown-item" href="/cfp/">CFP</a>
+                    <a class="dropdown-item" href="/sponsorships/">Sponsorships</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="events" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Events</a>
+                <div class="dropdown-menu" aria-labelledby="events">
+                    <a class="dropdown-item" href="/workshops/">Workshops</a>
+                    <a class="dropdown-item" href="/ctf/">CTF</a>
+                    <a class="dropdown-item" href="/osint_ctf/">OSINT CTF</a>
+                    <a class="dropdown-item" href="/lockpick_village/">Lockpick Village</a>
+                    <a class="dropdown-item" href="/badge/">Badge Hacking</a>
+                    <a class="dropdown-item" href="/talks/">Talks</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="agenda" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Agenda</a>
+                <div class="dropdown-menu" aria-labelledby="agenda">
+                    <a class="dropdown-item" href="/schedule/">Schedule / Tracks</a>
+                    <a class="dropdown-item" href="/speakers/">Speakers</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/location/">Location</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="tickets" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                   href="#">Tickets</a>
+                <div class="dropdown-menu" aria-labelledby="tickets">
+                    <a class="dropdown-item" href="/get_tickets/">Get Tickets!</a>
+                    <a class="dropdown-item" href="/resumes/">Resum&egrave; Ticket Exchange</a>
+                </div>
+            </li>
+        </ul>
+    </div>
 </nav>
