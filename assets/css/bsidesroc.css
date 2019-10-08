@@ -1,31 +1,11 @@
 /* small devices */
 body {
-	font-size: 1rem;
-}
-@media (min-width: 576px) {
-	body {
-		font-size: 1.2rem;
-	}
-}
-/* medium devices */
-@media (min-width: 768px) {
-	body {
-		font-size: 1.4rem;
-	}
-}
-/* large devices */
-@media (min-width: 992px) {
-	body {
-		font-size: 1.6rem;
-	}
-}
-/* extra large devices */
-@media (min-width: 1200px) {
-	body {
-		font-size: 1.8rem;
-	}
+	font-size: 1.2rem;
 }
 
+p {
+	margin-bottom: 2rem;
+}
 
 [role="main"] {
 	margin-top: 8rem;
@@ -70,4 +50,9 @@ a.nav-link {
 .jumbotron .headings {
 	font-size: 1rem;
 	margin-top: 4rem;
+}
+
+/* OSINT CTF Customization */
+#trace-labs-will-be-running-a-full-day-osint-ctf-for-missing-persons-at-bsides-rochester-on-saturday-march-21-2020 {
+	margin-bottom: 2rem;
 }
