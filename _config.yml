@@ -26,4 +26,4 @@ google:
 markdown: kramdown
 permalink: /:categories/:title/
 
-exclude: [vendor]
+exclude: [vendor,assets/archive]

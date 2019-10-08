@@ -1,25 +1,35 @@
 ---
 layout: default
 ---
-[TRACE LABS](https://tracelabs.org) WILL BE RUNNING A FULL DAY OSINT CTF FOR MISSING PERSONS AT BSIDES ROCHESTER ON SATURDAY MARCH 21 2020
-About this Event
+# [TRACE LABS](https://tracelabs.org) WILL BE RUNNING A FULL DAY OSINT CTF FOR MISSING PERSONS AT BSIDES ROCHESTER ON SATURDAY MARCH 21 2020
+ 
+## About this Event:
 
 Trace Labs is a Not-For-Profit organization whose mission is to crowdsource the collection of Open Source Intelligence (OSINT) to generate new leads on active missing persons investigations.
+
 The missing persons issue is getting worse and requires modern and scalable solutions at various levels to help mitigate risk to society. Trace Labs leverages an intelligence platform that enables the of collection of OSINT to power these crowdsourced community CTF events. These CTF events allow missing persons to receive the attention that is needed early in the search process.
+
 For this CTF, contestants can participate as either a Solo Team or a team of up to 4.
+
 Registration for this CTF will take place onsite in the CTF room during the morning of the conference.
-How does the CTF work?
+
+## How does the CTF work?
+
 For this CTF, 8 missing persons cases will be selected for contestants to collect OSINT on to generate new leads.
+
 This isn't a typical "Theoretical CTF" where the flags are already known. All flags found by contestants are treated as new intelligence that can serve as a potential lead for an active missing persons investigation.
+
 At the start of the event, contestants will be able to view the 8 missing persons case details by logging into the CTF platform at bsidesto.tracelabs.org with their own credentials.
+
 For each "OSINT Flag" submitted on one of the missing persons that falls into any of the categories listed [here](https://tracelabs.org/getinvolved/ctf), the flag will be validated by one of our Judges prior to awarding points.
 
 Please also review our CTF rules [here](https://tracelabs.org/getinvolved/ctf/ctf-rules) for first time contestants.
 
-1st Place Prizes:
+## 1st Place Prizes:
+
 At the end of the CTF, the team with the most points on the scoreboard will claim first prize of up to 4 [Hunchly](https://hunch.ly) licenses for each of their team members
 
-How to Prepare for the Event
+## How to Prepare for the Event
 
 1.	Review Trace Labs training video(s)
   *	View our Contestant training video here: [https://www.youtube.com/watch?v=2DR7cOqy0c4](https://www.youtube.com/watch?v=2DR7cOqy0c4)
