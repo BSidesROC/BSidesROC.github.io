@@ -28,18 +28,18 @@ a.nav-link {
 	font-size: 1.25rem;
 }
 
-@media (min-width: 576px) {
-	#jumbotron {
-		padding: 4rem 2rem 0 2rem;
-	}
-}
+/*@media (min-width: 576px) {*/
+/*	#jumbotron {*/
+/*		padding: 2rem 2rem 0 2rem;*/
+/*	}*/
+/*}*/
 
-@media (min-width: 987px) {
-	#jumbotron {
-		padding: 4rem 2rem 0 2rem;
-		margin-bottom: 0;
-	}
-}
+/*@media (min-width: 987px) {*/
+/*	#jumbotron {*/
+/*		padding: 2rem 2rem 0 2rem;*/
+/*		margin-bottom: 0;*/
+/*	}*/
+/*}*/
 
 .jumbotron {
 	color: lightgray;
