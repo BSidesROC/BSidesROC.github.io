@@ -4,6 +4,10 @@ layout: default
 <div class="mb-3"><h1>BSidesROC Call For Presenters</h1></div>
 
 #### BSidesROC is looking for presenters for our 2020 event. 
+<p></p>
+#### IMPORTANT DATES
+  - CFP Closes: 2/21/2020
+  - CFP Responses Sent: 3/6/2020
 
 #### Presentations
   - 20 or 50 minute presentations
