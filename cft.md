@@ -5,8 +5,9 @@ layout: default
 
 #### BSidesROC is looking for trainers for our 2020 event. 
 
-#### Trainers:
-- Full or half day training of any kind
+The training day will be the day before the conference, and is hosted at RIT. In most cases, we can facilitate all the presentation gear like projectors, screens, and possibly workstations.
+
+#### Topics
 
 We are generally looking for any kind of security/hacking related training. But specifically to match our theme, we’d love to see workshops covering:
 
@@ -24,9 +25,16 @@ We are generally looking for any kind of security/hacking related training. But 
     Tool release
     Hacking all the things
 
-Our team will review any talk submission but our only rule is that we will not accept a talk about a service or product you or your employer is selling. Please make all training technical in nature.
+Our team will review any talk submission, but our only rule is that we will not accept a talk about a service or product you or your employer is selling.  Please make all training technical in nature.  Training sessions may be 4 hours or 8 hours.
 
 If you have a workshop and don't think it will fit with the list, submit it anyway, We love obscure content that might just what we are looking for!
+
+#### Pricing
+
+The cost structure for your class is up to you. We’re happy to charge whatever you think is reasonable for your time. We suggest that you keep in mind the number of attendees who are students, though, and try to keep ticket costs relatively low. Our past trainings have been $500 or less, with a median of about $25-50/person. BSidesROC asks for 15% of ticket sales to cover our efforts in managing the event. And if you want to run a class for free, we will charge (and keep) $20 per student simply to minimize no-shows.
+
+#### Submit
+
 The name and photo associated with your Google account will be recorded when you upload files and submit this form.
 
 [Sign Up Here!](https://docs.google.com/forms/d/e/1FAIpQLSdxT92wMLK8Jt-r_WyMPPC6abBBioZcteRvqY5go-vAMsv35Q/viewform)
