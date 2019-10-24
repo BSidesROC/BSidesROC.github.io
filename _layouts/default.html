@@ -1,12 +1,22 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 	{% include head.html %}
-	<body>
-		{% include header.html %}
-		{% include nav.html %}
-		<main>
-			{{ content }}
-		</main>
+	<body style="padding-top:6.5rem;">
+	    {% include nav.html %}
+	    <div class="container-fluid">
+			<div class="row-fluid">
+				<main role="main-content" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+					{{ content }}
+				</main>
+
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row-fluid">
+				{% include sidebar.html %}
+				{% include sponsors.html %}
+			</div>
+		</div>
 		{% include footer.html %}
 	</body>
 </html>
