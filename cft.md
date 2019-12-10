@@ -4,7 +4,10 @@ layout: default
 <div class="mb-3"><h1>BSidesROC Call For Trainers</h1></div>
 
 #### BSidesROC is looking for trainers for our 2020 event. 
-
+<p></p>
+#### IMPORTANT DATES
+  - CFT Closes: 1/24/2020
+  
 The training day will be the day before the conference, and is hosted at RIT. In most cases, we can facilitate all the presentation gear like projectors, screens, and possibly workstations.
 
 #### Topics
