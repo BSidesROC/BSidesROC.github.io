@@ -11,9 +11,7 @@ The missing persons issue is getting worse and requires modern and scalable solu
 
 For this CTF, contestants can participate as either a Solo Team or a team of up to 4.
 
-At the start of the event, contestants will be able to view the 8 missing persons case details by logging into the CTF platform at ctf.tracelabs.org with their own credentials.
-
-Registration for this CTF will take place on-site at the conference in the CTF room. At the start of the event contestents will be able to view the missing persons case to be worked on by logging on to the CTF platform at [ctf.tracelabs.org](https://ctf.tracelabs.org)
+Registration for this CTF will take place onsite in the CTF room during the morning of the conference.
 
 ## How does the CTF work?
 
@@ -21,7 +19,7 @@ For this CTF, 8 missing persons cases will be selected for contestants to collec
 
 This isn't a typical "Theoretical CTF" where the flags are already known. All flags found by contestants are treated as new intelligence that can serve as a potential lead for an active missing persons investigation.
 
-At the start of the event, contestants will be able to view the 8 missing persons case details by logging into the CTF platform at bsidesto.tracelabs.org with their own credentials.
+At the start of the event, contestants will be able to view the 8 missing persons case details by logging into the CTF platform at [ctf.tracelabs.org](https://ctf.tracelabs.org) with their own credentials.
 
 For each "OSINT Flag" submitted on one of the missing persons that falls into any of the categories listed [here](https://tracelabs.org/getinvolved/ctf), the flag will be validated by one of our Judges prior to awarding points.
 
