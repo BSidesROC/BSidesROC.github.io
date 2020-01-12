@@ -11,7 +11,9 @@ The missing persons issue is getting worse and requires modern and scalable solu
 
 For this CTF, contestants can participate as either a Solo Team or a team of up to 4.
 
-Registration for this CTF will take place onsite in the CTF room during the morning of the conference.
+At the start of the event, contestants will be able to view the 8 missing persons case details by logging into the CTF platform at ctf.tracelabs.org with their own credentials.
+
+Registration for this CTF will take place on-site at the conference in the CTF room. At the start of the event contestents will be able to view the missing persons case to be worked on by logging on to the CTF platform at [ctf.tracelabs.org](https://ctf.tracelabs.org)
 
 ## How does the CTF work?
 
