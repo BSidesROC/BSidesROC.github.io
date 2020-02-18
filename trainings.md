@@ -6,6 +6,7 @@ layout: default
 
 The following workshops will be offered on Friday, the day before the main conference:
 
+{:.table}
 |        | *CTF Track*     | *Professional Track* | *TBA* |
 |--------|-----------------|----------------------|-------|
 | *A.M.* | CTF Boot Camp   | Splunk               |       |
