@@ -8,8 +8,8 @@ The following workshops will be offered on Friday, the day before the main confe
 
 |        | *CTF Track*     | *Professional Track* | *TBA* |
 |--------|-----------------|----------------------|-------|
-| *A.M.* | CTF Boot Camp   | Pentesting           |       |
-| *P.M.* | OSINT           | Splunk               |       |
+| *A.M.* | CTF Boot Camp   | Splunk               |       |
+| *P.M.* | OSINT           | Pentesting           |       |
 
 A third track may open, depending on logistics.
 
