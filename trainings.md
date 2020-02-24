@@ -30,6 +30,15 @@ A third track may open, depending on logistics.
 Buy tickets [here!](https://www.eventbrite.com/e/95264252945)
 
 {:.h5 .text-white}
+CTF Boot Camp: 
+
+A beginner CTF event where basic penetration testing skills will be
+taught in order to enumerate machines, search for vulnerabilities,
+find and customize exploits, and finally gain the highest level of
+access on each machine. After the course, be sure to test your new
+skills in the BSidesROC CTF!
+
+{:.h5 .text-white}
 OSINT:
 
 In this 4-hour Open Source Intelligence (OSINT) workshop, taught by a
