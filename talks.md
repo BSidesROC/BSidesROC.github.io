@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{:.text-center .text-white}
+# More to be announced soon!
+
 {:.table}
 | *Presenter*  | *Title*     | *Description* | *Time* |
 |--------|-----------------|----------------------|-------|
