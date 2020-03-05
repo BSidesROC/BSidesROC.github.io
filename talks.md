@@ -2,8 +2,6 @@
 layout: default
 ---
 
-
-# This is a preliminary list of talks. More to come over the next few days - 3/5/2020
 {:.table}
 | *Presenter*  | *Title*     | *Description* | *Time* |
 |--------|-----------------|----------------------|-------|
