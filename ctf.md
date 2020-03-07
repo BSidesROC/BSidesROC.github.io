@@ -7,7 +7,7 @@ layout: default
 
 First stage begins March 10th!  
 Registration: register@definitelynotaspyagency.com  
-Rules and additional information: [http://definitelynotaspyagency.com/rules](http://definitelynotaspyagency.com/rules)
+Rules and additional information: [http://definitelynotaspyagency.com/rules.html](http://definitelynotaspyagency.com/rules.html)
 
 ## About this Event
 Quest CTF is an online and in person capture the flag competition
