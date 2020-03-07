@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
-<div class="mb-3">
+
+{:.mb-3}
 <h1>Quest CTF</h1>
-</div>
+
+First stage begins March 10th!  
+Registration: register@definitelynotaspyagency.com  
+Rules and additional information: [http://definitelynotaspyagency.com/rules](http://definitelynotaspyagency.com/rules)
 
 ## About this Event
 Quest CTF is an online and in person capture the flag competition
