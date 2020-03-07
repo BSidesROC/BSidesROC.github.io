@@ -126,3 +126,72 @@ EDUCATION
 Northeastern University – Master of Science, Cyber Security
 University of Massachusetts Boston – Master of Science, International Relations
 Arizona State University – Bachelor of Arts, Political Science
+
+{:.text-white}
+# Matthew Gracie
+
+Matthew Gracie has over a decade of experience in information
+security, working to defend networks in higher education,
+manufacturing, and financial services. He is currently an Information
+Security Engineer with BlueCross BlueShield of Western New York and
+the founder of the Infosec 716 monthly meetup. Matt enjoys good beer,
+mountain bikes, Debian-based Linux distributions, and college hockey,
+and can be found on Twitter as @InfosecGoon.
+
+{:.text-white}
+# Brian Callahan
+
+Brian Callahan is a Lecturer in the Information Technology and Web
+Science program at Rensselaer Polytechnic Institute in Troy, NY. He
+oversees the Information Security concentrations of the major at both
+the undergraduate and graduate levels, and teaches many of the
+cybersecurity courses offered. He is a long-time developer for the
+OpenBSD operating system.
+
+{:.text-white}
+# Matt Arnold
+
+Matt Arnold is a Unix Wizard for hire., in a past life he contributed
+to projects like Debian, Ubuntu, Slackware and others. His Current
+Hobbies include auditing IoT firmware for GPL compliance, and other
+issues
+
+{:.text-white}
+# Joe Gray
+
+Joe Gray joined the U.S. Navy directly out of High School and served
+for 7 years as a Submarine Navigation Electronics Technician. Joe is
+currently a Senior OSINT Specialist at Qomplx, Inc. and previously
+maintained his own blog and podcast called Advanced Persistent
+Security. Joe is the inaugural winner of the DerbyCon Social
+Engineering Capture the Flag (SECTF) and was awarded a DerbyCon Black
+Badge. As a member of the Password Inspection Agency, Joe has placed
+2nd in the HackFest Quebec Missing Persons CTF powered by TraceLabs,
+2nd in the BSides Atlanta OSINT CTF, and 3rd Place in the 2018 & 2019
+NOLACon OSINT CTFs. Joe has independently placed 2nd in the HackFest
+Quebec SECTF, 4th Place in the DerbyCon OSINT CTF, and 2nd Place in
+Hacker Jeopardy at Hack in Paris. Joe has contributed material for the
+likes of TripWire, AlienVault, ITSP Magazine, CSO Online, Forbes, and
+Dark Reading as well as his own platforms.
+
+Joe Gray is currently a Senior OSINT Specialist at Qomplx, Inc. and
+previously maintained his own blog and podcast called Advanced
+Persistent Security. Joe is currently finishing a social engineering
+and OSINT book with NoStarch press, due for publication in Fall 2020.
+Joe the inaugural winner of the DerbyCon Social Engineering Capture
+the Flag (SECTF) and was awarded a DerbyCon Black Badge. As a member
+of the Password Inspection Agency, Joe has placed 2nd in the HackFest
+Quebec Missing Persons CTF powered by TraceLabs, 2nd in the BSides
+Atlanta OSINT CTF, and 3rd Place in the 2018 & 2019 NOLACon OSINT
+CTFs. Joe has independently placed 2nd in the HackFest Quebec SECTF,
+4th Place in the DerbyCon OSINT CTF, and 2nd Place in Hacker Jeopardy
+at Hack in Paris. Joe has contributed material for the likes of
+TripWire, AlienVault, ITSP Magazine, CSO Online, Forbes, and Dark
+Reading as well as his own platforms. Joe has spoken at conferences
+such as RSA, AtlSecCon, HackFest, SecTor, Insomni’hack, Hack in Paris,
+and HackerHalted (as a keynote speaker twice.)
+
+Social Media- Twitter: https://twitter.com/C_3PJoe; LinkedIn:
+https://www.linkedin.com/in/joegrayinfosec/ ; Facebook:
+https://www.facebook.com/joegrayinfosec ; Blogs:
+https://advancedpersistentsecurity.net/
