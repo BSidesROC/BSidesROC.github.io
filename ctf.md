@@ -19,7 +19,7 @@ a group of players.
 
 ## How does this CTF work?
 The first stage of this CTF will be conducted online with the initial
-kickoff beginning two weeks before BsidesRoc on March 7th, 2020 and
+kickoff beginning two weeks before BsidesRoc on March 10th, 2020 and
 will continue up through the beginning of the conference.
 The first stage will consist of online challenges where players must
 complete a challenge on a given server or site and the flag collected
@@ -29,8 +29,7 @@ player(s) a clue on where to start the next part of the competition.
 
 
 The second phase of the CTF will officially begin during the first day
-of workshops at the BsidesRoc conference, Friday March 20th. (pending
-date)
+of workshops at the BsidesRoc conference, Friday March 20th.
 During the conference, the players will have to solve challenges
 located either online, or physically at the conference to move forward
 to the next challenge. Many of these tasks will be physical challenges
