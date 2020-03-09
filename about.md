@@ -35,7 +35,7 @@ Registration Op
 Speaker Dinner
 
 ## Bill “JustBill” Bukowski @justbill6942 (Secretary)
-JustBill is well, JustBill.  His daytime job is Director of Infrastructure for the largest market research company in the world.  His evening job is father and husband.  His freetime job is hacking, riding motorcycle, board member/haunter of the local hackerspace, and a business side operator of BsidesROC.  When you are bored or drunk hit him up on anything you want to talk about, and he'll remind you none of it really matters because of heat death.
+JustBill is well, JustBill.  His daytime job is Director of Infrastructure for the largest market research company in the world.  His evening job is father and husband.  His freetime job is hacking, riding motorcycle, board member/haunter of the local hackerspace, and a business side operator of BsidesROC.  When you are bored hit him up on anything you want to talk about, and he'll remind you none of it really matters because of heat death.
 Radio Op
 
 ## Investigatorchic @investigatorchi
@@ -60,5 +60,5 @@ Nikko is a graduate of RIT where he studied Computing Security and still works a
 Art Co-Op, AV
 
 ## Sean @ph3tt
-As an Information Security Operations Manager by day, Sean leads both the vulnerability assessment and testing team, along with the threat intelligence team for a large national health care system. In his spare time, he enjoys popping locks, amateur radio, and tabletop gaming. Disappointed white male, looking for discreet friend to bring dreams to reality. Leather, lace and water sports.... Wait... wrong bio...
+As an Information Security Operations Manager by day, Sean leads both the vulnerability assessment and testing team, along with the threat intelligence team for a large national health care system. In his spare time, he enjoys popping locks, amateur radio, and tabletop gaming.
 Art Co-Op
