@@ -107,25 +107,12 @@ Greg holds a computer science degree from Boston College, an MBA from
 RIT, and several certifications, including a CISSP, GCFA, and CySA+.
 
 {:.text-white}
-# Joe Sarkisian
+# Nick Regelman
 
-Joe is a Penetration Tester for Wolf and Company,
-P.C.’s Information Technology (IT) Assurance Services group where he
-is responsible for coordinating and conducting penetration testing
-services for clients in a variety of industries, including financial,
-healthcare, and technical sectors.
-
-He has two years experience conducting penetration testing audits with
-the Firm, and is pursuing certifications from industry-recognized
-organizations like SANS and Offensive Security.
-
-Areas of expertise consist of internal/external/wireless/physical
-penetration testing and social engineering.
-
-EDUCATION
-Northeastern University – Master of Science, Cyber Security
-University of Massachusetts Boston – Master of Science, International Relations
-Arizona State University – Bachelor of Arts, Political Science
+Working in various roles from Help Desk to Systems Administration,
+Nick has spent the past 5+ years working as a core member of a
+Security Operations team. With a passion for security and empowering
+others, Nick is a hacker at heart with a sprinkle of people skills.
 
 {:.text-white}
 # Matthew Gracie
