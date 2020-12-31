@@ -4,8 +4,6 @@ layout: default
 
 # Volunteering
 
-Call for BsidesROC 2020 Volunteers!!!
-
 Curious about what goes on behind the scenes at a Bsides?  Join us at this year’s BSidesROC 2020 as a volunteer!  No special experience necessary - just a willingness to be helpful and friendly.  :)
 
 

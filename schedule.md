@@ -1,4 +1,6 @@
 ---
 layout: default
 ---
-# ~ Coming Soon! ~ 
+
+{: .text-white }
+# Coming Soon! 
