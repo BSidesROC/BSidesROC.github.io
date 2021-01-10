@@ -25,8 +25,7 @@ are similar to what would be asked in their own organizations. Users will leave
 with a better understanding of how logs can be used to investigate incidents in
 their enterprise.
 
-If you don't have any Splunk experience, you can take the following free on-line
-class to prepare for this workshop:
+If you don't have any Splunk experience, please take the following free online class to prepare for this workshop:
 https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html
 
 {:.text-white}
