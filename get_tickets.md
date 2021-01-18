@@ -5,14 +5,14 @@ layout: default
 {:.text-white}
 ## Investigating with Splunk
 Friday, Mar 12, 2021<br>
-1:00 PM - 5:00 PM EST<br>
+8:00 AM - 12:00 PM EST<br>
 General Price - $10, No Coupon Codes<br>
 [Buy Ticket Here!](https://attendee.gototraining.com/r/4266699264025664002)
 
 {:.text-white}
 ## Advanced Introduction to OSINT Training
 Friday, Mar 12, 2021<br>
-9:00 AM - 1:00 PM EST<br>
+1:00 PM - 5:00 PM EST<br>
 General Price - $68, Use Code: 20BSidesROC21<br>
 Student Price - $40, Use Code: 20BSidesROC21EDU (requires registration with a .edu email)<br>
 [Buy Ticket Here!](https://attendee.gototraining.com/r/2708160223312300801)
