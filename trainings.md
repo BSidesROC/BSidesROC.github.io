@@ -10,6 +10,20 @@ The following workshops will be offered on Friday, the day before the main confe
 {:.h3 .text-white .mb-4}
 Date: Fri, March 12, 2021
 
+{:.h5 .text-white .mb-3}
+BSides Rochester Advanced Introduction to OSINT Training
+
+{:.h5 .mb-3}
+Instructor: Joe Gray
+
+This is a 4-hour abbreviated OSINT course to show students techniques to enhance their OSINT comprehension
+and collection techniques leveraging techniques for Business and People OSINT with some OPSEC elements as well. This is
+intended for those just entering the OSINT tradecraft as well as those with some familiarity. While the command-line
+will be demonstrated, all exercises can be completed from a browser as well.
+
+{:.text-white}
+Price: $68.  
+Student Price: $40.
 
 {:.h5 .text-white .mb-3}
 Investigating with Splunk
@@ -31,23 +45,5 @@ https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html
 {:.text-white}
 Price: $10
 
-{:.h5 .text-white .mb-3} 
-BSides Rochester Advanced Introduction to OSINT Training
-
-{:.h5 .mb-3}
-Instructor: Joe Gray
-
-This is a 4-hour abbreviated OSINT course to show students techniques to enhance their OSINT comprehension 
-and collection techniques leveraging techniques for Business and People OSINT with some OPSEC elements as well. This is
-intended for those just entering the OSINT tradecraft as well as those with some familiarity. While the command-line 
-will be demonstrated, all exercises can be completed from a browser as well.
-
-{:.text-white}
-Price: $68.  
-Student Price: $40.  
- 
-
-
-
-Buy tickets [Coming Soon!]()
+[Buy Tickets!](/get_tickets)
 
