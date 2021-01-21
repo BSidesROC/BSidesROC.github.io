@@ -18,3 +18,69 @@ Oh, and I just got called a Scottish Security Warlock....I’m kinda digging it.
 
 Twitter: Sidragon1<br>
 LinkedIn: Sidragon1
+
+{:.text-white}
+# Nick Roy
+
+Nick Roy is currently a Senior Security Specialist at Splunk focusing
+on security automation and improving blue team response. Before
+Splunk, Nick was at Phantom Cyber working with partners across the
+globe build out their security automation practices and delivering
+them to their customers.
+
+{:.text-white}
+# Mark Manning
+
+Mark Manning is a Technical Director with NCC Group and heads the
+container research practice there. He has been focused on
+containerization and orchestration technologies like Kubernetes and
+performs many of NCC Group's containerization related assessments and
+research. This includes running container breakouts and attack
+simulations on orchestration environments, performing architecture
+reviews of devops pipelines, and working with developers to assist
+with applications that leverage containerization technologies like
+namespace isolation, Linux kernel controls, syscall filtering and
+integration with products like Docker and Kubernetes.
+
+{:.text-white}
+# Brian Callahan
+
+Brian Callahan is a Lecturer in the Information Technology and Web
+Science program at Rensselaer Polytechnic Institute in Troy, NY. He
+oversees the Information Security concentrations of the major at both
+the undergraduate and graduate levels, and teaches many of the
+cybersecurity courses offered. He is a long-time developer for the
+OpenBSD operating system.
+
+{:.text-white}
+# Matt Arnold
+
+Matt Arnold is a Unix Wizard for hire., in a past life he contributed
+to projects like Debian, Ubuntu, Slackware and others. His Current
+Hobbies include auditing IoT firmware for GPL compliance, and other
+issues
+
+{:.text-white}
+# Chloé Messdaghi
+
+Chloé Messdaghi is the VP of Strategy at Point3 Security.  She is a security researcher advocate who supports safe 
+harbor and strongly believes that information security is a humanitarian issue. Besides her passion to keep people safe 
+and empowered online & offline, she is driven to change the statistics of women in InfoSec. She co-founded Women of 
+Security (WoSEC) and heads the SF Bay Area chapter. As well, she created WomenHackerz, a global online community that 
+provides support and resources for hundreds of women hackers at all levels.
+
+{:.text-white}
+# Joe Sarkisian
+
+Joe is a Penetration Tester for Wolf and Company, P.C.'s Information Technology (IT) Assurance Services group where he 
+is responsible for coordinating and conducting penetration testing services for clients in a variety of industries, 
+including financial, healthcare, and technical sectors.  He has two years experience conducting penetration testing
+audits with the Firm, and is pursuing certifications from industry-recognized organizations like SANS and Offensive 
+Security.
+
+Areas of expertise consist of internal/external/wireless/physical penetration testing and social engineering.
+
+EDUCATION
+Northeastern University - Master of Science, Cyber Security
+University of Massachusetts Boston - Master of Science, International Relations
+Arizona State University - Bachelor of Arts, Political Science
