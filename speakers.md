@@ -31,16 +31,13 @@ them to their customers.
 {:.text-white}
 # Mark Manning
 
-Mark Manning is a Technical Director with NCC Group and heads the
-container research practice there. He has been focused on
-containerization and orchestration technologies like Kubernetes and
-performs many of NCC Group's containerization related assessments and
-research. This includes running container breakouts and attack
-simulations on orchestration environments, performing architecture
-reviews of devops pipelines, and working with developers to assist
-with applications that leverage containerization technologies like
-namespace isolation, Linux kernel controls, syscall filtering and
-integration with products like Docker and Kubernetes.
+Mark Manning (@antitree) is Principal Security Architect at Snowflake where he works to help secure their data cloud 
+platform and design secure service offerings. Before that he was a security consultant at NCC Group leading a team that 
+focused on securing container technologies like Kubernetes, Istio, and CI/CD environments for a wide range of customers. 
+He's contributed to TL;DRSec related to Kubernetes, presented at hacker conferences like Shmoocon on the subject, and 
+has been asked to hack into numerous email accounts by jilted lovers via Twitter. Previously Mark organized and founded
+B-Sides Rochester and continues to organize the local security meet-up, Rochester 2600.
+
 
 {:.text-white}
 # Brian Callahan
