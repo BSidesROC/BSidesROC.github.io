@@ -63,11 +63,17 @@ issues
 {:.text-white}
 # Chloé Messdaghi
 
-Chloé Messdaghi is the VP of Strategy at Point3 Security.  She is a security researcher advocate who supports safe 
-harbor and strongly believes that information security is a humanitarian issue. Besides her passion to keep people safe 
-and empowered online & offline, she is driven to change the statistics of women in InfoSec. She co-founded Women of 
-Security (WoSEC) and heads the SF Bay Area chapter. As well, she created WomenHackerz, a global online community that 
+Chloé Messdaghi is the VP of Strategy at Point3 Security.  She is a security researcher advocate who supports safe
+harbor and strongly believes that information security is a humanitarian issue. Besides her passion to keep people safe
+and empowered online & offline, she is driven to change the statistics of women in InfoSec. She co-founded Women of
+Security (WoSEC) and heads the SF Bay Area chapter. As well, she created WomenHackerz, a global online community that
 provides support and resources for hundreds of women hackers at all levels.
+
+Twitter: @ChloeMessdaghi
+LinkedIn: [https://www.linkedin.com/in/chloemessdaghi/](https://www.linkedin.com/in/chloemessdaghi/)
+Instagram: [https://www.instagram.com/chloemessdaghi/](https://www.instagram.com/chloemessdaghi/)
+YouTube: [https://www.youtube.com/chloemessdaghi](https://www.youtube.com/chloemessdaghi)
+Website: [https://www.chloemessdaghi.com](https://www.chloemessdaghi.com)
 
 {:.text-white}
 # Joe Sarkisian
