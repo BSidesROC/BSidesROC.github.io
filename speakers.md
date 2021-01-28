@@ -87,3 +87,15 @@ EDUCATION
 Northeastern University - Master of Science, Cyber Security
 University of Massachusetts Boston - Master of Science, International Relations
 Arizona State University - Bachelor of Arts, Political Science
+
+{:.text-white}
+# Jon Bauer  
+Jon Bauer is a fourth year computing security student at RIT. He is currently president of the student run security club RITSEC. In his free time he also is on the Swimming and Diving team as a diver.
+
+{:.text-white}
+# Ayobami Emmanuel Adewale
+Ayobami Emmanuel Adewale is a third year computing security student at RIT who's trying to learn about various security topics and share his process. His interests are malware reversing, pen-testing and threat hunting.
+
+{:.text-white}
+# Sarah Swad
+Sarah (reaper) is a current IBM X-Force Red co-op. She attends the University of Central Florida and is a part of the student club Hack@UCF. She is also on UCF's CPTC team.  
