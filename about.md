@@ -17,7 +17,7 @@ The following currently fullfil the role of Board of Directors for the B-Sides R
 
 **Treasurer:** David Frier
 
-**Secretary:** Bill Bukowski
+**Secretary:** Catherine Ullman
 
 # Staff
 
@@ -34,11 +34,7 @@ Kahomono is a lucky security boffin from Baltimore via New Jersey and Florida, n
 Registration Op
 Speaker Dinner
 
-## Bill “JustBill” Bukowski @justbill6942 (Secretary)
-JustBill is well, JustBill.  His daytime job is Director of Infrastructure for the largest market research company in the world.  His evening job is father and husband.  His freetime job is hacking, riding motorcycle, board member/haunter of the local hackerspace, and a business side operator of BsidesROC.  When you are bored hit him up on anything you want to talk about, and he'll remind you none of it really matters because of heat death.
-Radio Op
-
-## Investigatorchic @investigatorchi
+## Investigatorchic @investigatorchi (Secretary)
 Investigatorchic AKA Cathy is a security researcher, speaker, and Senior Information Security Analyst at University at Buffalo with over 20 years of highly technical experience. In her current role, she is a data forensics and incident response (DFIR) specialist, performing incident management, intrusion detection, investigative services, awareness training, and personnel case resolution in a dynamic academic environment. She has presented at a number of information security conferences including DEF CON and Hacker Halted. In her (minimal) spare time, she enjoys visiting her adopted two-toed sloth Flash at the Buffalo zoo, researching death and the dead, and learning more about hacking things to make the world a more secure place.
 Sanity Check Op
 Social Media Op
@@ -46,18 +42,16 @@ AV Op
 Stay-on-Target Op
 Volunteer Op
 
+## Bill “JustBill” Bukowski @justbill6942 
+JustBill is well, JustBill.  His daytime job is Director of Infrastructure for the largest market research company in the world.  His evening job is father and husband.  His freetime job is hacking, riding motorcycle, board member/haunter of the local hackerspace, and a business side operator of BsidesROC.  When you are bored hit him up on anything you want to talk about, and he'll remind you none of it really matters because of heat death.
+Radio Op
+
 ## Alex Page
 Alex is a data scientist at URMC. His work involves database tuning, machine learning, and parallel programming, He is also interested in software-defined radio, quantum computing, and medical device security.  This is his seventh year helping at BSidesROC.
-Store Op
-Workshop Op
 
 ## IllIIIllIIllllI
 Jason aka lilillilliill is a lead network security engineer for a multinational mssp. He likes firewalls with lots of blinky lights, Linux, scripting, pcaps, dual-homing, big riffs, brown notes, pretentious existential art films, Louis Brandeis, community organizing, the outdoors, & fam time.
 Community Room Op
-
-## halpcomputa @hi_im_nikko
-Nikko is a graduate of RIT where he studied Computing Security and still works at a security software company. He's interested in hardware hacking, Internet of Things shenanigans, and ICS/SCADA. In his free time he's a pretty average Overwatch player and baker.
-Art Co-Op, AV
 
 ## Sean @ph3tt
 As an Information Security Operations Manager by day, Sean leads both the vulnerability assessment and testing team, along with the threat intelligence team for a large national health care system. In his spare time, he enjoys popping locks, amateur radio, and tabletop gaming.

@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<<<<<<< Updated upstream
 {:.text-white }
 # Workshops 2021
 
@@ -12,10 +13,19 @@ Date: Fri, March 12, 2021
 
 {:.h5 .text-white .mb-3}
 BSides Rochester Advanced Introduction to OSINT Training
+=======
+# Trainings 2022
+
+The following workshops will be offered on Friday, the day before the main conference:
+
+{:.h3 .text-white .mb-2}
+Date: Fri, March 25, 2022
+>>>>>>> Stashed changes
 
 {:.h5 .mb-3}
 Instructor: Joe Gray
 
+<<<<<<< Updated upstream
 This is a 4-hour abbreviated OSINT course to show students techniques to enhance their OSINT comprehension
 and collection techniques leveraging techniques for Business and People OSINT with some OPSEC elements as well. This is
 intended for those just entering the OSINT tradecraft as well as those with some familiarity. While the command-line
@@ -46,4 +56,8 @@ https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html
 Price: $10
 
 [Buy Tickets!](/get_tickets)
+=======
+{:.text-white }
+## Coming Soon!
+>>>>>>> Stashed changes
 
