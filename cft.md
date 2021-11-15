@@ -36,3 +36,5 @@ If you have a workshop and don't think it will fit with the list, submit it anyw
 #### Pricing
 
 The cost structure for your class is up to you. We’re happy to charge whatever you think is reasonable for your time. We suggest that you keep in mind the number of attendees who are students, though, and try to keep ticket costs relatively low. Our past trainings have been $500 or less, with a median of about $25-50/person. BSidesROC asks for 15% of ticket sales to cover our efforts in managing the event. And if you want to run a class for free, we will charge (and keep) $20 per student simply to minimize no-shows.
+
+[Sign Up Here!](https://docs.google.com/forms/d/e/1FAIpQLSfRV6hBHm-_QYaJ-qVwguLkdx5Y91xJqDNcrPNK7xKVdgjFtw/viewform)

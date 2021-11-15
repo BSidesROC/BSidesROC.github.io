@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on BSidesROC</title>
+    <link>/about/</link>
+    <description>Recent content in About on BSidesROC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 02 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>/about/contact/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/contact/</guid>
+      <description>Got something you want to say? You can reach us using social media, or our email below.
+Email info (at) bsidesroc (dot) com for any questions or comments.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>What is BSidesROC? Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment.
+Our seventh year was another action packed event that included presentations from industry professionals, games and challenges that exercised your hacker skills, as well as community involvement that represents the Rochester community.</description>
+    </item>
+    
+    <item>
+      <title>Directors</title>
+      <link>/about/organizers/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/organizers/</guid>
+      <description>Besides our crew of volunteers and operators, the organization stays above board thanks to a small group of directors. This a small elite group that takes responsibility for the less funn stuff like finances, insurance, and legal issues.
+Bill &amp;ldquo;JustBill&amp;rdquo; Bukowski (Director)
+JustBill brings expert level knowledge in the latest enterprise technology to the group. He is a “Manager” of IT for the largest market research company in the world. He no longer needs to actually know things but make sure you have your management slide ready for him just in case he cares.</description>
+    </item>
+    
+    <item>
+      <title>Operators</title>
+      <link>/about/ops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/ops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corporate Information</title>
+      <link>/about/corporate-information/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/corporate-information/</guid>
+      <description>Security B-Sides Rochester (BSidesROC) has recently become a 501(&amp;#x0063;)3 Not-For Profit organization. In order to be as transparent as possible, below you can find information about the goals for the organization, the corporate structure, and other information about the organization.
+Guidestar 501c3 Status
+Bylaws Directors: The following currently fullfil the role of Board of Directors for the B-Sides Rochester, Inc. corporation. Their responsibilities are outlined in the bylaws above.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>/about/code-of-conduct/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/code-of-conduct/</guid>
+      <description>One of the goals we have with BSidesROC is to foster open discussion between attendees, speakers, and staff. Expressing radical viewpoints is welcome, and a high degree of skepticism on all sides is expected. Regardless, we aim to make BSidesROC a safe environment for everyone. We hold to the hacker ethos that what you look like is not important, your brain is what matters. As such, insulting or harassing other participants is unacceptable.</description>
+    </item>
+    
+  </channel>
+</rss>

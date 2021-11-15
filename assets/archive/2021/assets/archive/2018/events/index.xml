@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on BSidesROC</title>
+    <link>/events/</link>
+    <description>Recent content in Events on BSidesROC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Community Room</title>
+      <link>/events/community-room/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/events/community-room/</guid>
+      <description>Our community room is a place for people in the community to share with BSidesROC attendees. This is a chance to meet some of the people in the community and see if they have something that interests you.
+AdaSpace: AdaSpace is a Hacker/Maker Space that fosters the creative exploration of DIY craft, technology, and design for women and transgender people who have been traditionally under-represented in technical fields.</description>
+    </item>
+    
+    <item>
+      <title>CTF</title>
+      <link>/events/ctf/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/ctf/</guid>
+      <description>BSides Rochester
+Capture The Flag This years CTF will be a two day long event filled with custom challenges with a broad subject matter. You will see Encryption, Binary Rerversing, Terminal Games, Quizes, Programming, Brainfuck, King of the Hill, and more!
+Brass Tax  Jeopardy Style CTF Pre-registration opens April 6th This is a TWO DAY Capture the Flag  Starts on April 13th at 9AM Eastern Time. Ends on April 14th 5PM Eastern Time  Capture the flag will be hosted at https://ctf.</description>
+    </item>
+    
+    <item>
+      <title>Bug Branding Competition</title>
+      <link>/events/bugbranding/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/bugbranding/</guid>
+      <description>Announcing the BSidesROC Bug Branding Competition
+As we all know, the hardest part of crafting an 0-day is designing a clever name and logo. Here at BSidesROC, we want to help you get ahead on this aspect of exploit development. So, by 3pm on April 14th 2018, send us your branding ideas for any bug, real or imaginary. You may use old CVEs, current research, or your own psychosis for inspiration.</description>
+    </item>
+    
+    <item>
+      <title>Cryptoparty</title>
+      <link>/events/cryptoparty/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/cryptoparty/</guid>
+      <description>Digital Security Workshop Cryptoparty  Session 1:00pm: (1 hour) Hands on security workshop training Session 2:00pm: (1 hour) Technical deep-dive  What: Want to keep your digital life a bit secure? This is the right place to start. We will cover topics such as threat modeling, keeping passwords in check, and basic digital hygiene when browsing and talking with your friends.
+Know some of these things already and want to discuss these and other topics a bit more in depth?</description>
+    </item>
+    
+    <item>
+      <title>Artwork</title>
+      <link>/events/artwork/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/artwork/</guid>
+      <description>We believe there’s a cross-over between hackers and artists and for that reason we try to engage with local artists to develop cool shirts and signs.
+2018 T-shirt Design: Mike Turzanski
+Poster Design: TBA
+Badge Design:
+Coin Design: TBA
+2017 T-Shirt Design: Mike Turzanski
+TBA
+Sign Design: Ryan Jabbour
+2016 T-Shirt Design: SpaceMan
+Sign Design: Kathryn DeFeoa
+2015 T-Shirt Design: Justyn Iannucci
+2014 T-Shirt Design: Brian Boucheron
+2013 T-Shirt Design: Brian Boucheron</description>
+    </item>
+    
+    <item>
+      <title>Crypto Challenge</title>
+      <link>/events/crypto-challenge/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/crypto-challenge/</guid>
+      <description>The BSidesROC Crypto Challenge is an event where particpants must crack a puzzle designed by our famous crypto puzzle maker, Darth Null. There are no hints this year about what it will be, and part of the challenge may be finding the challenge itself!
+Prizes will be given away to winner. Please do not build more than 3 people per team.
+Follow Darth Null on Twitter for updates.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>/events/lightning-talks/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/events/lightning-talks/</guid>
+      <description>Lightning Talks are a group of 5-10 minute presentations strung together that happen in the Workshop track in the afternoon. Instead of the 50 minute talks that we organize in the main track, Lightning Talks are open to the public at the day of the event. That means we don’t know what you’ll be talking about. Some ideas for your talk could be:
+ Your favorite new security tool A research project you think the crowd would enjoy An effective way to protect your enterprise Solutions to improve security and privacy  If you&amp;rsquo;re into this idea, plan to sign up for a talk at the registration desk on the day of the con.</description>
+    </item>
+    
+  </channel>
+</rss>
