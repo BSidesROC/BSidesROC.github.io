@@ -7,3 +7,4 @@
 - [2017](/assets/archive/2017/index.html)
 - [2018](/assets/archive/2018/index.html)
 - [2019](/assets/archive/2019/index.html)
+- [2021](/assets/archive/2021/index.html)

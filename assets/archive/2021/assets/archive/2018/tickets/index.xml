@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tickets on BSidesROC</title>
+    <link>/tickets/</link>
+    <description>Recent content in Tickets on BSidesROC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tickets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Training Day Tickets</title>
+      <link>/tickets/trainingday/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tickets/trainingday/</guid>
+      <description>BSidesROC Training Day is a all day event on April 13th, independent of the main conference. We&amp;rsquo;ve set up a full day of training opportunities for students in various subjects and hosted at RIT.
+Tickets go on sale March 2nd at 12:00PM ET. In the meantime, click on the link below to learn about classes, prices, and location.
+ Intro to Capture the Flag (CTF) (Morning) 8:00am in Room 2500</description>
+    </item>
+    
+    <item>
+      <title>Tickets</title>
+      <link>/tickets/tickets/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tickets/tickets/</guid>
+      <description>BSidesROC events will be on Friday April 13th, 2018 and Saturday April 14th, 2018. Friday will be our Training Day, and Saturday will be the con. Tickets for both days are separate. Find out more information about our Training Day.
+PURCHASE CONFERENCE TICKETS 
+PURCHASE TRAINING DAY TICKETS Free conference tickets for resume submissions Are you looking for a job? In that case, you can get a free ticket (to the con only) by reserving an &amp;ldquo;Entry (Resume Program)&amp;rdquo; ticket type, then submitting a resume by April 9th to resumes at-sign bsidesroc d0tt c0mm.</description>
+    </item>
+    
+  </channel>
+</rss>

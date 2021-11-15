@@ -1,0 +1,6 @@
+Sitemap: https://www.bsidesroc.com/sitemap.xml
+Sitemap: https://www.bsidesroc.com/news-sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

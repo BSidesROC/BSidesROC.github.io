@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BSidesROC</title>
+    <link>/sponsors/</link>
+    <description>Recent content on BSidesROC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ANYCon</title>
+      <link>/sponsors/anycon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/anycon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BitCraze</title>
+      <link>/sponsors/bitcraze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/bitcraze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Hills Information Security</title>
+      <link>/sponsors/blackhills-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/blackhills-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carve Systems</title>
+      <link>/sponsors/carve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/carve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critical Design Associates</title>
+      <link>/sponsors/critical-design-associates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/critical-design-associates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cylance</title>
+      <link>/sponsors/cylance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/cylance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datto</title>
+      <link>/sponsors/datto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/datto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DigitalOcean</title>
+      <link>/sponsors/digitalocean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/digitalocean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endgame</title>
+      <link>/sponsors/endgame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/endgame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F5</title>
+      <link>/sponsors/f5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/f5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GreyCastle Security</title>
+      <link>/sponsors/greycastle-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/greycastle-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackerboxes</title>
+      <link>/sponsors/hackerboxes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/hackerboxes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hak5</title>
+      <link>/sponsors/hak5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/hak5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hurricane Labs</title>
+      <link>/sponsors/hurricane-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/hurricane-labs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NCC Group</title>
+      <link>/sponsors/ncc-group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/ncc-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netanium</title>
+      <link>/sponsors/netanium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/netanium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No Starch Press</title>
+      <link>/sponsors/nostarch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/nostarch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuand</title>
+      <link>/sponsors/nuand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/nuand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optiv Security</title>
+      <link>/sponsors/optiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/optiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paychex</title>
+      <link>/sponsors/paychex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/paychex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhishMe</title>
+      <link>/sponsors/phishme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/phishme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positron Security</title>
+      <link>/sponsors/positron-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/positron-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RIT CSec</title>
+      <link>/sponsors/rit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/rit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSA</title>
+      <link>/sponsors/rsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/rsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rochester ISSA</title>
+      <link>/sponsors/rochester-issa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/rochester-issa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Network Technologies</title>
+      <link>/sponsors/secure-network-technologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/secure-network-technologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senrio</title>
+      <link>/sponsors/senrio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/senrio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surprise Attack Games</title>
+      <link>/sponsors/surprise-attack-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/surprise-attack-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team Fractal Alligator</title>
+      <link>/sponsors/team-fractal-alligator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/team-fractal-alligator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tenable</title>
+      <link>/sponsors/tenable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/tenable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hackerground</title>
+      <link>/sponsors/hackerground/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/hackerground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tresorit</title>
+      <link>/sponsors/tresorit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/tresorit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TrustedSec</title>
+      <link>/sponsors/trustedsec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/trustedsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WITR</title>
+      <link>/sponsors/witr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/witr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>West Wind Security</title>
+      <link>/sponsors/westwind-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/westwind-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zachtronics</title>
+      <link>/sponsors/zachtronics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/zachtronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iSECURE</title>
+      <link>/sponsors/isecure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/isecure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iV4</title>
+      <link>/sponsors/iv4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsors/iv4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
