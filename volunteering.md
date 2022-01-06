@@ -9,7 +9,7 @@ Curious about what goes on behind the scenes at a Bsides?  Join us at this yearâ
 
 Details:
 
-We are looking for volunteers to assist on Friday 3/25 and/or Saturday 3/26 with the setup, running, and teardown of the conference.
+We are looking for volunteers to assist on Friday 3/18 and/or Saturday 3/19 with the setup, running, and teardown of the conference.
 
 Friday 3/25: 
 Training day assistant - Help the trainers with whatever they need

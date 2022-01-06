@@ -2,7 +2,7 @@
 layout: default
 ---
 # Location
-The next BSidesROC is scheduled for Saturday March 26, 2022 at the RIT Inn & Conference Center -  5257 West Henrietta Road, Henrietta, NY 14467
+The next BSidesROC is scheduled for Saturday March 19, 2022 at the RIT Inn & Conference Center -  5257 West Henrietta Road, Henrietta, NY 14467
 
 Stay Tuned for more details!
 
