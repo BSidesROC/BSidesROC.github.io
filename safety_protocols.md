@@ -11,8 +11,8 @@ The BSidesROC Board values the health and safety of participants and staff. As p
 ## Vaccination or Negative Test Required
 
 In order to attend, all participants must be fully vaccinated or provide a negative test within 72 hours of BSides Rochester. This mean that one has received either
-* A single shot of Johnson & Johnson Covid Vaccine not sooner than 14 days prior to March 18
-* 2 shots of either Moderna or Pfizer/BioNTECH Covid vaccine not sooner than 14 days prior to March 18
+* A single shot of Johnson & Johnson Covid Vaccine no later than March 4
+* 2 shots of either Moderna or Pfizer/BioNTECH Covid vaccine no later than March 4
 
 {:.text-white}
 **OR** 
