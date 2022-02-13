@@ -41,4 +41,7 @@ Our team will review any talk submission but our only rule is that we will not a
 If you have a talk and don't think it will fit with the list, submit it anyway, We love obscure content that might just what we are looking for!
 The name and photo associated with your Google account will ****be recorded when you upload files and submit this form.
 
-[Sign Up Here!](https://docs.google.com/forms/d/e/1FAIpQLScntzAWiwSVHtuca986zFFFvzpKQK0KwfiKwCdiVAbH7zTc_w/viewform?usp=send_form)
+***
+
+{:.text-white .text-center}
+# \*** CFP Now Closed **\*
