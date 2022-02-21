@@ -2,12 +2,13 @@
 layout: default
 ---
 
-{:.mb-3}
+{:.mb-3 .text-white}
 # Hard Place CTF
 
 We are pleased to announce the B-Sides ROC capture the flag cyber security event on Saturday March 19, 2022.
 
-## About this Event 
+{:.text-white}
+#### About this Event 
 This capture the flag is a jeopardy style game with some practical exercises mixed in. Points will be awarded through a 
 CTFd-style dashboard that must be registered for when it becomes available. We anticipate it will be a day or two before
 the B-Side ROC event, at which time you'll need to sign-up using a valid email address.
@@ -16,7 +17,8 @@ You will need to be armed with at least some core level Information Technology, 
 knowledge that you'll use to answer questions, riddles and to capture flags hidden around the Internet. Yes, you can use
 the Google's if needed.
 
-## How does this CTF Work?
+{:.text-white}
+#### How does this CTF Work?
 This CTF is designed for beginners and experts alike and participants can play as alone or as a team. Yes, there are a 
 TON of simple low-hanging fruit questions, but there are also some rather challenging technical problems as well as one 
 or two brain breakers.
@@ -30,5 +32,6 @@ on the B-Side ROC Discord, discuss the questions, brainstorm the answers, intera
 a minute. Make a drinking game out of it, make some new friends, or just create yet another reason to razz your friend 
 Pat.
 
+{:.text-white}
 I really hope you enjoy the event -
 Jayson aka SilentKoala
