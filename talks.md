@@ -1,11 +1,26 @@
 ---
 layout: default
 ---
+# Talks 2022
+
+The following talks will be offered on Saturday:
+
+{:.h3 .text-white .mb-2}
+Date: Sat, March 19, 2022
 
 {:.table}
 | *Presenter*  | *Title*     | *Description* | *Time* |
 |--------|-----------------|----------------------|-------|
-| [*Lesley Carhart*](/speakers#lesley-carhart) | TBD | TBD | 50 minutes |
-
-{:.text-white .text-center}
-## More Coming Soon!
+| [*Lesley Carhart*](/speakers#keynote---lesley-carhart) | TBD | TBD | 50 minutes |
+| [Clint Dovholuk](/speakers#clint-dovholuk) | Leverage OpenZiti To Embed Zero Trust Directly Into Applications | This is a basic talk about security of networks. What is considered "good enough" security for the most part... this talk illustrates a couple of zero trust pillars and takes it to the next level through zero trust IN your application | 50 minutes |
+| [Matthew Gracie](/speakers#matthew-gracie) | Investigating Windows Endpoints With Free Tools | This talk will cover various logging use cases and options in a Windows environment, and provide architectures for generating, collecting, parsing, and investigating those logs using free tools. | 50 minutes |
+| [Michael Vaughn](/speakers#michael-vaughan) | Intro to VX (or How to Write a Virus Without Getting on the News) | An introduction to the world of computer viruses, basic teminology, how they work, and how they have evolved over the years. Implementations in Python and x64 Assembly are considered. | 50 minutes |
+| [Nick Roy](/speakers#nick-roy) | Listening To the City, a Different Approach To War Driving |  Wardriving has traditionally been focused on discovering wifi networks in a certain area. If we build off of that idea and combine it with data that has already been collected, we can learn interesting details about devices in the area. We’ll examine what these devices are, how to gather and analyze this data, review data that was gathered about public wifi networks, and finally some custom tools that were used for this and will be made available. | 25 minutes |
+| [Robert Wagner](/speakers#robert-wagner) | Beating the Blue Team Budget Blues | There is never enough budget or time to solve every security problem an organization faces. However, there are a lot of free or inexpensive tactics and techniques that every organization can leverage to make it harder for attackers to enter your environment.  | 50 minutes | 
+| [Joe Gray](/speakers#joe-gray) | NetflOSINT: taking an often-overlooked data source and operationalizing it | When we think Network Forensics, we often immediately gravitate toward packet captures (PCAPs) and logs from routing devices. There is no disputing the importance and value in either, but this leaves another source frequently overlooked – enter Netflow. Many devices natively generate Netflow or IPFIX, but do we really analyze the data?  Many may be aware, but what if you were told that there are tools to extract Netflow data FROM PCAPs? This provides a means of more efficient statistic and in-depth analysis using a variety of methods with smaller files to help gain context in what to query or follow in PCAP streams.   This presentation will include demonstrations in Microsoft Excel, ELK, and Jupyter notebooks to allow a simple jumping point for integration into other aspects of an investigation using OSINT vectors.| 50 minutes |
+| [Tyler Hudak](/speakers#tyler-hudak) | Computer Forensics Case Files | Computer forensic cases of the past can teach us a lot. This talk will discuss two public cases in which computer forensics played a key part and what we can learn from them.| 50  minutes | 
+| [Richard Smith](/speakers#richard-smith) | Securing Virtual Infrastructure | Virtualization has changed the face of enterprise infrastructure and revolutionized how businesses manage their digital assets.  This has brought many benefits, but if deployed improperly it can expose your data to significant risks involving all aspects of the CIA triad.  In this presentation, we’ll explore some of the ways virtual environments can be hardened against security risks, as well as exploring the significant role of Backup and Data Recovery in securing virtual infrastructure.| 50 minutes |
+| [William Bukowski](/speakers#bill-justbill-bukowski) | So you too want to be a company shill |  A non traditional path into IT leadership | 25 minutes | 
+| [Rob Olson](/speakers#rob-olson) | Getting Started with Windows Implant Development | This talk will cover the basics of building custom Windows malware, from constructing your environment to achieving code execution. Unfortunately, content around the Windows API is often relatively inaccessible to those new to the industry. Security talks in this area are often directed towards experienced practitioners rather that novices. The intent of this talk is to demonstrate that, with a little bit of C and some Windows API documentation, you can do some real damage. Specific techniques covered will include AppCertDLLs (T1546.009), droppers, and Process Injection (T1055.002). This talk will also attempt to present custom malware development as a software engineering process that has very real challenges and real costs to adversaries. The target audience is one that is familiar with C, memory management, and concepts typically taught in an Operating Systems course. | 50 minutes | 
+| [Mark Manning](/speakers#mark-manning) | Kubernetes Software Supply Kill Chains | Hack k8s, demo backdoor, DNS exfil, profit. | 50 minutes | 
+| [Gotham Sharma](/speakers#gotham-sharma) | 10 things we learned from 10,000 Cybersecurity Job Postings. | What can we learn about the infosec industry by reviewing 10,000 cybersecurity job postings? A lot, apparently.  | 25 minutes |
