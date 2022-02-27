@@ -92,7 +92,7 @@ Student Price: $50 ( with .edu address ).
 Tactical Windows Forensics
 
 {:.h5 .mb-3}
-Length: 4 hours
+Length: 1 day
 
 {:.h5 .mb-3}
 Instructor: Tyler Hudak
