@@ -8,8 +8,10 @@ layout: default
 
 The following workshops will be offered on Friday, the day before the main conference:
 
-{:.h3 .text-white .mb-2}
+{:.h3 .text-white}
 Date: Fri, March 18, 2022
+
+***
 
 {:.h5 .text-white .mb-3}
 A Survey of Linux Forensic Techniques
@@ -33,6 +35,8 @@ recommended.
 {:.text-white}
 Price: $20
 
+***
+
 {:.h5 .text-white .mb-3}
 Hands-on Ethical Hacking: Preventing and Writing Exploits for Buffer Overflows.
 
@@ -48,6 +52,8 @@ protections mechanisms, non-executable stacks and of course programming to preve
 
 {:.text-white}
 Price: $45
+
+***
 
 {:.h5 .text-white .mb-3}
 Alternative & Advanced Search Engine Intelligence (ASSEI)
@@ -67,7 +73,11 @@ This course counts toward The OSINTion Black Badge.
 
 {:.text-white}
 Price: $80.
+
+{:.text-white}
 Student Price: $50 ( with .edu address ).
+
+***
 
 {:.h5 .text-white .mb-3}
 Introduction to Cryptocurrency Investigations (ICI)
@@ -86,13 +96,17 @@ This course counts toward The OSINTion Black Badge.
 
 {:.text-white}
 Price: $80.
+
+{:.text-white}
 Student Price: $50 ( with .edu address ).
+
+***
 
 {:.h5 .text-white .mb-3}
 Tactical Windows Forensics
 
 {:.h5 .mb-3}
-Length: 1 day
+Length: 8 hours
 
 {:.h5 .mb-3}
 Instructor: Tyler Hudak
@@ -102,6 +116,8 @@ other courses, students will start with the labs and learn by doing.
 
 {:.text-white}
 Price: $50.
+
+***
 
 {:.h5 .text-white .mb-3}
 Intro to Threat Hunting: A Hands on Blueteam Battleground!
