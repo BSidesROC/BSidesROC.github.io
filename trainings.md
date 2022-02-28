@@ -3,18 +3,28 @@ layout: default
 ---
 # Trainings 2022
 
-{:.text-white}
-## [Get Your Training Tickets Here!](https://events.eventzilla.net/e/bsides-rochester-2022--training-workshops-2138818190)
+#### [Get Your Training Tickets Here!](https://events.eventzilla.net/e/bsides-rochester-2022--training-workshops-2138818190)
 
+{:.text-white .pt-3}
 The following workshops will be offered on Friday, the day before the main conference:
 
 {:.h3 .text-white}
 Date: Fri, March 18, 2022
 
+{:.text-white .table .mb-4 .pt-3}
+| Track | 8AM - 12PM | 1PM - 5PM |
+| 1 | [Alternative & Advanced Search Engine Intelligence (ASSEI)](#alternative--advanced-search-engine-intelligence-assei)  | [A Survey of Linux Forensic Techniques](#a-survey-of-linux-forensic-techniques)  |  
+| 2 | [Introduction to Cryptocurrency Investigations (ICI)](#introduction-to-cryptocurrency-investigations-ici) | [Intro to Threat Hunting: A Hands on Blueteam Battleground!](#intro-to-threat-hunting-a-hands-on-blueteam-battleground) |
+| 3 | | [Hands-on Ethical Hacking: Preventing and Writing Exploits for Buffer Overflows.](#hands-on-ethical-hacking-preventing-and-writing-exploits-for-buffer-overflows) |
+| 4 | [Tactical Windows Forensics](#tactical-windows-forensics) | [Tactical Windows Forensics ( Cont. )](#tactical-windows-forensics) |
+
+{:.text-warning }
+***NOTE: All classes require a laptop***
+
 ***
 
 {:.h5 .text-white .mb-3}
-A Survey of Linux Forensic Techniques
+#### A Survey of Linux Forensic Techniques
 
 {:.h5 .mb-3}
 Length: 4 hours
@@ -38,7 +48,7 @@ Price: $20
 ***
 
 {:.h5 .text-white .mb-3}
-Hands-on Ethical Hacking: Preventing and Writing Exploits for Buffer Overflows.
+#### Hands-on Ethical Hacking: Preventing and Writing Exploits for Buffer Overflows.
 
 {:.h5 .mb-3}
 Length: 4 hours
@@ -50,13 +60,18 @@ A brief but intense hands-on course where you will find a buffer overflow vulner
 a stack based buffer overflow.  We'll also discuss and test mitigating techniques such as address randomization, stack
 protections mechanisms, non-executable stacks and of course programming to prevent buffer overflows.
 
+Laptop Requirements:
+• At least 8Gb RAM
+• Recent Virtual Box installed to host a LinuxVM.
+• Administrator or root privileges for the laptop.
+
 {:.text-white}
 Price: $45
 
 ***
 
 {:.h5 .text-white .mb-3}
-Alternative & Advanced Search Engine Intelligence (ASSEI)
+#### Alternative & Advanced Search Engine Intelligence (ASSEI)
 
 {:.h5 .mb-3}
 Length: 4 hours
@@ -80,7 +95,7 @@ Student Price: $50 ( with .edu address ).
 ***
 
 {:.h5 .text-white .mb-3}
-Introduction to Cryptocurrency Investigations (ICI)
+#### Introduction to Cryptocurrency Investigations (ICI)
 
 {:.h5 .mb-3}
 Length: 4 hours
@@ -103,7 +118,7 @@ Student Price: $50 ( with .edu address ).
 ***
 
 {:.h5 .text-white .mb-3}
-Tactical Windows Forensics
+#### Tactical Windows Forensics
 
 {:.h5 .mb-3}
 Length: 8 hours
@@ -114,13 +129,23 @@ Instructor: Tyler Hudak
 This class will take students through multiple labs that are designed to teach them key Windows forensics skills. Unlike
 other courses, students will start with the labs and learn by doing.
 
+Course requirements  -
+
+Students should bring a laptop with two VMs:
+- One Windows VM
+- One forensic VM (https://tsurugi-linux.org/ is good)
+
+VM software should be able to take snapshots.
+
+All other materials will be supplied.
+
 {:.text-white}
 Price: $50.
 
 ***
 
 {:.h5 .text-white .mb-3}
-Intro to Threat Hunting: A Hands on Blueteam Battleground!
+#### Intro to Threat Hunting: A Hands on Blueteam Battleground!
 
 {:.h5 .mb-3}
 Length: 4 hours
