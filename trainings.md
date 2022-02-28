@@ -3,7 +3,14 @@ layout: default
 ---
 # Trainings 2022
 
+{:.mb-3}
 #### [Get Your Training Tickets Here!](https://events.eventzilla.net/e/bsides-rochester-2022--training-workshops-2138818190)
+
+{:.text-white .mb-n1}
+### Training Location: Rochester Institute of Technology 1 Lomb Memorial Drive, Rochester, NY, 14623, United States
+
+{:.mb-n1 .text-warning}
+Specific classroom details will be sent to ticket holders.
 
 {:.text-white .pt-3}
 The following workshops will be offered on Friday, the day before the main conference:
