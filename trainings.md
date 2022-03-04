@@ -136,6 +136,20 @@ Instructor: Tyler Hudak
 This class will take students through multiple labs that are designed to teach them key Windows forensics skills. Unlike
 other courses, students will start with the labs and learn by doing.
 
+Computer forensics is a skill that is widely in demand and with good reason. As organizations obtain more visibility 
+into their environments, more compromises are detected and the need to determine what happened grows.
+
+In my experience, skills are learned faster by doing rather than watching. Therefore, this course will be taught 
+differently than most in that it is solely composed of labs. Participants will work through a number of exercises where
+they analyze various aspects of Microsoft Windows using computer forensics on one or more compromised systems. Each lab
+will start with a brief introduction, followed by the lab itself. After an allotted time has passed, the techniques used
+to analyze the system and answer the questions will be discussed.
+
+Sample skills that will be utilized in the labs include analyzing logs, the file system, the registry, and memory. In 
+addition to the class labs, students will be given additional labs to perform on their own and at their own pace. This 
+course is designed for those with different Windows forensics skill levels - from beginners to experts, so there will be
+challenges for everyone. However, labs chosen will be tailored to the overall skill level of the class.
+
 Course requirements  -
 
 Students should bring a laptop with two VMs:
