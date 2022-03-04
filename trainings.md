@@ -55,29 +55,6 @@ Price: $20
 ***
 
 {:.h5 .text-white .mb-3}
-#### Hands-on Ethical Hacking: Preventing and Writing Exploits for Buffer Overflows.
-
-{:.h5 .mb-3}
-Length: 4 hours
-
-{:.h5 .mb-3}
-Instructor: Ralph Durkee
-
-A brief but intense hands-on course where you will find a buffer overflow vulnerability and then develop an exploit for
-a stack based buffer overflow.  We'll also discuss and test mitigating techniques such as address randomization, stack
-protections mechanisms, non-executable stacks and of course programming to prevent buffer overflows.
-
-Laptop Requirements:
-• At least 8Gb RAM
-• Recent Virtual Box installed to host a LinuxVM.
-• Administrator or root privileges for the laptop.
-
-{:.text-white}
-Price: $45
-
-***
-
-{:.h5 .text-white .mb-3}
 #### Alternative & Advanced Search Engine Intelligence (ASSEI)
 
 {:.h5 .mb-3}
