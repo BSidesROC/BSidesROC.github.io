@@ -36,7 +36,7 @@ Date: Fri, March 18, 2022
 Length: 4 hours
 
 {:.h5 .mb-3}
-Instructor: Jared Stroud
+Instructor: [Jared Stroud](/trainers#jared_stroud)
 
 According to recent industry reports, Linux focused malware has grown in the past year by over 30%. With the rise in 
 Cloud Computing it's no surprised that attackers are looking beyond traditional Windows environments to profit off of 
@@ -60,7 +60,7 @@ Price: $20
 Length: 4 hours
 
 {:.h5 .mb-3}
-Instructor: Joe Gray
+Instructor: [Joe Gray](/trainers#joe_gray)
 
 Alternative & Advanced Search Engine Intelligence (ASSEI) is a fast paced course to amplify students' existing
 OSINT/Intelligence and Search Engines Knowledge. The course will introduce students to non-Google, regional, and 
@@ -84,7 +84,7 @@ Student Price: $50 ( with .edu address ).
 Length: 4 hours
 
 {:.h5 .mb-3}
-Instructor: Joe Gray
+Instructor: [Joe Gray](/trainers#joe_gray)
 
 Introduction to Cryptocurrency Investigations (ICI) is a foundational course to help students with zero knowledge about 
 cryptocurrency and blockchain get the basic comprehension for the technologies then thrust into introductory 
@@ -107,7 +107,7 @@ Student Price: $50 ( with .edu address ).
 Length: 8 hours
 
 {:.h5 .mb-3}
-Instructor: Tyler Hudak
+Instructor: [Tyler Hudak](/trainers#tyler_hudak)
 
 This class will take students through multiple labs that are designed to teach them key Windows forensics skills. Unlike
 other courses, students will start with the labs and learn by doing.
@@ -148,7 +148,7 @@ Price: $50.
 Length: 4 hours
 
 {:.h5 .mb-3}
-Instructor: Adam "Abe" Abernethy
+Instructor: [Adam "Abe" Abernethy](/trainers#adam-abe-abernethy)
 
 This interactive classroom involves learning the basics of using a SIEM.  From there we'll quickly advance to running 
 simulated attacks (or real attacks if you want!) on a Windows Server.
