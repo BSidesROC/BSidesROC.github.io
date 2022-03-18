@@ -36,7 +36,7 @@ Pat.
 I really hope you enjoy the event -
 Jayson aka SilentKoala
 
-{:.text-white .h3 .mb-n1}
+{:.text-white .h3}
 Registration is now open: [https://ctf.raidparty.com/](https://ctf.raidparty.com/)
 
 {:.text-white .h5}
