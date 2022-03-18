@@ -18,3 +18,12 @@ McCryptoFace.  The URL for the challenge will be provided when the contest
 opens.
 
 All contestants must be present on-site to win.
+
+{:.text-white .h3 .mb-3}
+Registration is now open: [https://bsidesroc.ctfd.io](https://bsidesroc.ctfd.io)
+
+{:.text-white .h3 .mb-4}
+Competition will begin Saturday, March 19th 2022 at 9AM EDT and close at 4PM EDT
+
+{:.h3}
+Good Luck!
