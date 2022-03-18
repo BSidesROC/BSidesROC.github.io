@@ -21,8 +21,9 @@ Date: Fri, March 18, 2022
 {:.text-white .table .mb-4 .pt-3}
 | Track | 8AM - 12PM | 1PM - 5PM |
 | 1 | [Alternative & Advanced Search Engine Intelligence (ASSEI)](#alternative--advanced-search-engine-intelligence-assei)  | [A Survey of Linux Forensic Techniques](#a-survey-of-linux-forensic-techniques)  |  
-| 2 | [Introduction to Cryptocurrency Investigations (ICI)](#introduction-to-cryptocurrency-investigations-ici) | [Intro to Threat Hunting: A Hands on Blueteam Battleground!](#intro-to-threat-hunting-a-hands-on-blueteam-battleground) |
+| 2 |  | [Intro to Threat Hunting: A Hands on Blueteam Battleground!](#intro-to-threat-hunting-a-hands-on-blueteam-battleground) |
 | 3 | [Tactical Windows Forensics](#tactical-windows-forensics) | [Tactical Windows Forensics ( Cont. )](#tactical-windows-forensics) |
+| 4 | | [Introduction to Cryptocurrency Investigations (ICI)](#introduction-to-cryptocurrency-investigations-ici) |
 
 {:.text-warning }
 ***NOTE: All classes require a laptop***
