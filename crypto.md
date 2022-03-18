@@ -19,8 +19,13 @@ opens.
 
 All contestants must be present on-site to win.
 
+
 {:.text-white .h3 .mb-3}
-Registration is now open: [https://bsidesroc.ctfd.io](https://bsidesroc.ctfd.io)
+Registration is now open: [https://bsidesroc.ctfd.io](https://bsidesroc.ctfd.io)*
+
+{:.text-white .h4 .mb-3}
+* If you registered before 3/18/2022 you will need to re-register in the platform.
+
 
 {:.text-white .h3 .mb-4}
 Competition will begin Saturday, March 19th 2022 at 9AM EDT and close at 4PM EDT
