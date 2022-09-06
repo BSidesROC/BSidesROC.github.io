@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BSidesROC</title>
+    <link>https://www.bsidesroc.com/</link>
+    <description>Recent content on BSidesROC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 03 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017 Survey Results</title>
+      <link>https://www.bsidesroc.com/blog/2017-survey-results/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/2017-survey-results/</guid>
+      <description>Below you will find some of the results from the 2017 Attendee Survey. We asked you what you felt about various subjects and almost half of the attendees responded.</description>
+    </item>
+    
+    <item>
+      <title>Thank You</title>
+      <link>https://www.bsidesroc.com/blog/thank-you/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/thank-you/</guid>
+      <description>Thanks again to everyone that made BSidesROC happen: our sponsors, our organizers, our volunteers, our friends and our attendees. We will update our website with stats about the conference including survey results. Check back here soon and we&amp;rsquo;ll see you in 2018.</description>
+    </item>
+    
+    <item>
+      <title>Food Update</title>
+      <link>https://www.bsidesroc.com/blog/food-update/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/food-update/</guid>
+      <description>Here is an update on plans for Breakfast and Lunch:
+Breakfast: We will have coffee and water available for all attendees to start their morning. But no actual food will be served. RIT has restaurants that will be open if you get hungry in the morning.
+Lunch: For lunch, we&amp;rsquo;ve contacted Whole-E Roasters and The Meatball Co. food trucks wich will pull up to the north entrance of the GCCIS building where BSIdesROC will be.</description>
+    </item>
+    
+    <item>
+      <title>Speakers</title>
+      <link>https://www.bsidesroc.com/schedule/speakers/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/schedule/speakers/</guid>
+      <description>Matt Arnold DNS Unbound
+Matt Arnold is a Unix Enthusiast who has tried just about every free Unix or Linux system in existence. He was previously a package maintainer in Debian and Slackware. He finds talking about himself in the third person to be goofy.
+M. Carlton Insecure Design Patterns in IoT
+M. Carlton heads the Senrio research team, focusing on product security and development. She brings strong embedded device research capabilities to the team.</description>
+    </item>
+    
+    <item>
+      <title>T-Shirt Tickets Available Until Wednesday 4/5</title>
+      <link>https://www.bsidesroc.com/blog/t-shirt-tickets-available-until-wednesday-4/5/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/t-shirt-tickets-available-until-wednesday-4/5/</guid>
+      <description>This coming Wednesday, April 5th at noon, the option to pre-purchase a T-shirt with your ticket will come to an end. This is the only way you can be sure that you&amp;rsquo;ll get your hands on this year&amp;rsquo;s design. Yes, we will be selling shirts day of the conference but we will have a small number of them and, as with every year, they will sell out. Grab your T-shirt ticket today!</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://www.bsidesroc.com/schedule/talks/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/schedule/talks/</guid>
+      <description>Insecure Design Patterns in IoT M. Carlton
+This talk will explore vulnerabilities resulting from insecure design patterns in internet-connected embedded devices using real-world examples. In the course of our research, we have observed a pattern of manufacturers incorporating design choices that make an attacker’s job easier. We will explore in technical detail how these design flaws resulted in vulnerabilities in three popular devices.
+Attacking Modern SaaS Companies Sean Cassidy</description>
+    </item>
+    
+    <item>
+      <title>Rochester InfraGard Will Be There</title>
+      <link>https://www.bsidesroc.com/blog/rochester-infragard-will-be-there/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/rochester-infragard-will-be-there/</guid>
+      <description>We&amp;rsquo;re pleased to announce the Rochester chapter of InfraGard will join us at BSidesROC 2017. They will have a table setup; stop by and meet alliance members!
+Find out more about the Rochester chapter.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - NCC Group</title>
+      <link>https://www.bsidesroc.com/blog/sponsor-announcement---ncc-group/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/sponsor-announcement---ncc-group/</guid>
+      <description>NCC Group will sponsor BSidesROC again this year! NCC Group is a trusted security firm with an unrivaled suite of services. More than 2000 employees in 35 offices around the world provide their expert skills to over 15,000 clients. Did you know they have a Rochester presence? Talk to the organizers if you would like to get in touch.
+NCC Group is hiring everywhere!</description>
+    </item>
+    
+    <item>
+      <title>Tickets on sale again</title>
+      <link>https://www.bsidesroc.com/blog/tickets-on-sale-again/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/tickets-on-sale-again/</guid>
+      <description>Despite what you may have heard, tickets are for sale. You can still sign up for training and for entry into the con. Hint: Grab your ticket shirts this week!</description>
+    </item>
+    
+    <item>
+      <title>Training Day Announcement!</title>
+      <link>https://www.bsidesroc.com/blog/training-day-announcement/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/training-day-announcement/</guid>
+      <description>Come one come all to the BSidesROC Training Day. We&amp;rsquo;re finally announcing the classes that we&amp;rsquo;ll have available the day before the BSidesROC conference. Today, attendees can sign up for classes related to network penetration testing, malware analysis, WiFi hacking, and social engineering. We&amp;rsquo;ve worked with our trainers to keep the classes at a reasonably low price.
+Visit our Training Day page for details and directions for buying a ticket.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - F5</title>
+      <link>https://www.bsidesroc.com/blog/sponsor-announcement---f5/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/sponsor-announcement---f5/</guid>
+      <description>This week we have confirmed that our new friends at F5 are supporting BSidesROC 2017 as a Gold Sponsor! Many thanks to them and their team. If you want to learn more about how interesting F5 is, you&amp;rsquo;ll have a chance to talk with them at their table this year.
+Find out more information here.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - GreyCastle Security</title>
+      <link>https://www.bsidesroc.com/blog/sponsor-announcement---greycastle-security/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/sponsor-announcement---greycastle-security/</guid>
+      <description>We&amp;rsquo;re happy to announce that GreyCastle Security are sponsors of BSidesROC, again! GreyCastle Security is the leading cybersecurity services provider dedicated exclusively to cybersecurity and the practical management of cybersecurity risks. By the way, did you know they have a Rochester office?
+Find out more about career opportunties here.</description>
+    </item>
+    
+    <item>
+      <title>Résumélee</title>
+      <link>https://www.bsidesroc.com/events/resumeele/</link>
+      <pubDate>Sun, 19 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/resumeele/</guid>
+      <description>Résumélee is a challenge to get your résumé into the hands of people that want to hire you&amp;hellip; but with a twist. Each résumé should be delivered in whatever way you feel like it &amp;ndash; the geekier the better. Just like last year, you will get a free ticket to the conference if you enter your résumé into the competition.
+Rules: We take our résumélee event seriously but it&amp;rsquo;s also a lot of fun.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.bsidesroc.com/about/about/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/about/about/</guid>
+      <description>What is BSidesROC? Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment.
+Our seventh year was another action packed event that included presentations from industry professionals, games and challenges that exercised your hacker skills, as well as community involvement that represents the Rochester community.</description>
+    </item>
+    
+    <item>
+      <title>Hacker Capture-The-Flag</title>
+      <link>https://www.bsidesroc.com/events/hacker-ctf/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/hacker-ctf/</guid>
+      <description>THE COMPETITION BEGINS ON APRIL 22 AT 9:00AM
+Did we say capture-the-flag? We lied.
+This year, we are going to do a hacker challenge in the form of a Jeopardy-style scoreboard. Don&amp;rsquo;t think that this is some lame trivia-type game, though. Contestants will be challenged with cryptography, reverse engineering, and penetration testing puzzles of increasing difficulty. Hours of fun!!
+Just like in the classic Jeopardy game, harder challenges grant more points.</description>
+    </item>
+    
+    <item>
+      <title>Key-Signing-Party</title>
+      <link>https://www.bsidesroc.com/events/key-signing/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/key-signing/</guid>
+      <description> Join us for another installment of the BSidesROC Key-Signing Party. We will again facilitate a room that lets people join in and sign other people&amp;rsquo;s OpenPGP keys.
+How to get involved  If you haven&amp;rsquo;t already, generate an OpenPGP key Print out, or write down the long version of your key&amp;rsquo;s fingerprint gpg --keyid-format LONG -k 0xDEADBEEF Bring an ID or proof that you own the key Show up at 1pm at the designated room Take the other person&amp;rsquo;s public key Go home and sign their key Send them a copy of the key back to them Receive a copy of your key signed by another person Upload it to one of the key servers  </description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>https://www.bsidesroc.com/events/keynote/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/keynote/</guid>
+      <description>One of the most exciting parts of BSidesROC is the industry experts that we bring in every year to present on various subjects. This ranges from infosec topics, to hacker themes alike.
+Keynote We&amp;rsquo;re pleased to announce this year&amp;rsquo;s keynote will be int0x80!
+int0x80 is the rapper in Dual Core. Drink all the booze, Hack all the things!</description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>https://www.bsidesroc.com/about/organizers/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/about/organizers/</guid>
+      <description>BSidesROC – The Organization Security BSidesROC is run by volunteers; people that feel the need to help create a hacker conference in Rochester so strongly that they give up weekends and free time to make it happen.
+We help divide up the workload by making “Op” positions for the various facets of the conference. Ops are in charge of keeping track of their project’s money, managing the volunteers that help them, and coming up with awesome ways to get things done.</description>
+    </item>
+    
+    <item>
+      <title>Sponsorship Info</title>
+      <link>https://www.bsidesroc.com/sponsorship-info/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/sponsorship-info/</guid>
+      <description>Sponsorship Thanks for your intereste in sponsoring BSidesROC. Below is an infographic that summarizes the demographics that normally attend the conference.
+Sponsorship Info Pack    
+If you would like to see the sponsorship tiers for this year, please take a look at our info packet. When you&amp;rsquo;re ready you can email info at bsidesroc.com and we would be happy to help you get involved.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://www.bsidesroc.com/schedule/schedule/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/schedule/schedule/</guid>
+      <description>&amp;nbsp; Track 1 Track 2 Track 3   0800 Init   0830 Opening Remarks   0900 Attacking Modern SaaS Companies  How I Broke Into Your Data Center  Systematic Network Security Troubleshooting (pcaps or getout)   0930 Defeating Application Defenses Through XSS   1000 Get Low (To all STC STC STC STC)  Whose Idea Was That? Comparing Security Curriculums and Accreditations to Industry Needs  Insecure Design Patterns in IoT   1030 How Bad Is My DIY Password Manager?</description>
+    </item>
+    
+    <item>
+      <title>CFP</title>
+      <link>https://www.bsidesroc.com/cfp/</link>
+      <pubDate>Thu, 09 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/cfp/</guid>
+      <description>The Call For Presentations for BSidesROC 2017 is now open! Submit CFP Important Dates  CFP Closes: March 17 CFP Responses Sent: March 24  CFP Guideline We are looking for a variety of topics to be presented at this year’s con. Additionally, this year, we are seeking a mix of shorter, simple talks and longer, more detailed talks. We’re targeting 20 and 50 minutes respectively.
+We are generally looking for any kind of security/hacking related talks.</description>
+    </item>
+    
+    <item>
+      <title>Artwork</title>
+      <link>https://www.bsidesroc.com/events/artwork/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/artwork/</guid>
+      <description>We believe there’s a cross-over between hackers and artists and for that reason we try to engage with local artists to develop cool shirts and signs.
+2017 T-Shirt Design: Mike Turkanski
+TBA
+Sign Design: Ryan Jabbour
+2016 T-Shirt Design: SpaceMan
+Sign Design: Kathryn DeFeoa
+2015 T-Shirt Design: Justyn Iannucci
+2014 T-Shirt Design: Brian Boucheron
+2013 T-Shirt Design: Brian Boucheron</description>
+    </item>
+    
+    <item>
+      <title>Community Room</title>
+      <link>https://www.bsidesroc.com/events/community-room/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/community-room/</guid>
+      <description>Our community room is a place for people in the community to share with BSidesROC attendees. This is a chance to meet some of the people in the community and see if they have something that interests you.
+TOOOL Rochester: TOOOL will be running a lock pick village the whole day to teach people about physical security.
+Infragard: Visit Infragard if you want to hear about the local Rochester chapter.</description>
+    </item>
+    
+    <item>
+      <title>Crypto Challenge</title>
+      <link>https://www.bsidesroc.com/events/crypto-challenge/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/crypto-challenge/</guid>
+      <description> The BSidesROC Crypto Challenge is an event where particpants must crack a puzzle designed by our famous crypto puzzle maker, Darth Null. There are no hints this year about what it will be, and part of the challenge may be finding the challenge itself!
+Prizes will be given away to winner. Please do not build more than 3 people per team.
+Follow Darth Null on Twitter for updates.
+OVTZSMHNJRUIEWCDQPKBVGXFA0L ILTG4MDOQPEXSYJKVWBCZAHUNFR UMDGZRJBQTXC5SLYFPNIVOHKWAE PFWMYKGXCZTROAEVDQULIBSJ3HN  -- </description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://www.bsidesroc.com/events/events/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/events/</guid>
+      <description>Here’s a list of the events that will be going on during BSidesROC:
+ Presentations &amp;ndash; listen and learn from industry experts Keynote &amp;ndash; attend our keynote at 11am Training Day &amp;ndash; get learned up in the latest skills for your career and fun Hacker Capture-The-Flag – score points by breaking into computers and applications Lightning Talks – attend and give quick and concentrated talks Community Room – pick locks, talk to the hackerspace, and more.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>https://www.bsidesroc.com/events/lightning-talks/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/lightning-talks/</guid>
+      <description>Lightning Talks are a group of 15-20 minute presentations strung together that happen in the Workshop track in the afternoon. Instead of the 50 minute talks that we organize in the main track, Lightning Talks are open to the public at the day of the event. That means we don’t know what you’ll be talking about. Some ideas for your talk could be:
+ Your favorite new security tool A research project you think the crowd would enjoy An effective way to protect your enterprise Solutions to improve security and privacy  If you&amp;rsquo;re into this idea, plan to sign up for a talk at the registration desk on the day of the con.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - RIT Department of Computing Security (CSEC)</title>
+      <link>https://www.bsidesroc.com/blog/sponsor-announcement---rit-department-of-computing-security-csec/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/sponsor-announcement---rit-department-of-computing-security-csec/</guid>
+      <description>If you’ve been to more than one BSidesROC before, you may have noticed the difference in venues over the years. Starting last year, BSidesROC has been lucky to partner with RIT’s CSEC department and have them host us on their campus in the GCCIS building. CSEC is on the front line of security and continues to be one of the top colleges in the nation for infosec.
+Find out more information about their program.</description>
+    </item>
+    
+    <item>
+      <title>Training Day</title>
+      <link>https://www.bsidesroc.com/events/training-day/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/events/training-day/</guid>
+      <description>Just like last year, we will be doing a training day, the day before the conference. This is an opportunity for people to learn the latest infosec or hacking techniques.
+Below are the details about the tickets or you can go directly to the checkout:
+Training Day Tickets    Time Yara NPT WiFi WiFi2     08:00 x x x    09:00 x x x    10:00 x x x    11:00 x x x    12:00 x x x    01:00 x x  x   02:00 x x  x   03:00 x x  x   04:00 x x  x   05:00 x x  x    YARA Training Trainer: Monty St John</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://www.bsidesroc.com/about/code-of-conduct/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/about/code-of-conduct/</guid>
+      <description>One of the goals we have with BSidesROC is to foster open discussion between attendees, speakers, and staff. Expressing radical viewpoints is welcome, and a high degree of skepticism on all sides is expected. Regardless, we aim to make BSidesROC a safe environment for everyone. We hold to the hacker ethos that what you look like is not important, your brain is what matters. As such, insulting or harassing other participants is unacceptable.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.bsidesroc.com/contact/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/contact/</guid>
+      <description>Got something you want to say? You can reach us using social media, or our email below.
+Email info (at) bsidesroc (dot) com for any questions or comments.</description>
+    </item>
+    
+    <item>
+      <title>Corporate Information</title>
+      <link>https://www.bsidesroc.com/about/corporate-information/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/about/corporate-information/</guid>
+      <description>Security B-Sides Rochester (BSidesROC) has recently become a 501(&amp;#x0063;)3 Not-For Profit organization. In order to be as transparent as possible, below you can find information about the goals for the organization, the corporate structure, and other information about the organization.
+Bylaws Directors: The following currently fullfil the role of Board of Directors for the B-Sides Rochester, Inc. corporation. Their responsibilities are outlined in the bylaws above.
+Coordinator: Mark Manning</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>https://www.bsidesroc.com/sponsors/</link>
+      <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/sponsors/</guid>
+      <description>If you&amp;rsquo;re interested in sponsoring this year&amp;rsquo;s BSidesROC event, please visit this page for more information.
+Gold 
+Secure Network Technologies, Inc. is a full service information security firm dedicated to providing superior security services and delivering actionable, real world results. Secure Network staff understands what it takes to build a security program that fits the unique needs of any business. That’s why all of our services are customized to fit the requirements of any risk management situation.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor Announcement - Secure Network Technologies</title>
+      <link>https://www.bsidesroc.com/blog/sponsor-announcement---secure-network-technologies/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/blog/sponsor-announcement---secure-network-technologies/</guid>
+      <description>Once again, we are pleased to announce that Secure Network Technologies has signed on to help make BSidesROC successful! If you’ve never heard of them, you’re missing out on an awesome company. They do everything from traditional pen testing to full scale red team physical security evaluations. They also go above &amp;amp; beyond to help the community, providing critical support to BSides events, donating high-quality gear to the local hacker space, and more.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://www.bsidesroc.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bsidesroc.com/home/</guid>
+      <description>Security B-Sides Rochester 2017 was April 21st and 22nd hosted at Rochester Institute of Technology. BSidesROC is Rochester&amp;rsquo;s open hacker conference made up of attendees and speakers from all over the country. Whether you&amp;rsquo;re a leet hacker or infosec newb, there were lots of opportunties to learn, share, and meet new people. We had a variety of events to keep you engaged including a CTF and multiple tracks of presentations from industry experts.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+<!-- Basic information about this page -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" type="image/x-icon" href="/assets/img/fav.ico">
+<title>
+	
+	Security B-Sides Rochester
+</title>
+
+<!-- Meta tag looking for mobile devices -->
+<meta name="theme-color" content="#232323">
+
+<!-- Good information about this page -->
+<meta name="description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment.">
+<meta name="keywords" content="security, bsides, rochester, ny, newyork">
+<meta name="author" content="BSidesRoc">
+
+<!-- Feed links -->
+<link rel="alternate" type="application/rss+xml" title="BSidesRoc's RSS Feed" href="/rss.xml">
+<link rel="alternate" type="application/atom+xml" title="BSidesRoc's Atom Feed" href="/atom.xml">
+
+<!-- Style and scripts files -->
+<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.slate.min.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/bsidesroc.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/sidebar.css">
+
+<!-- Extra information about this page -->
+<link rel="license" type="text/plain" src="/assets/LICENSE">
+
+<!-- Facebook, Linkedin, Reddit and many others Open Graph -->
+<meta property="og:site_name" content="BSidesRoc" />
+<meta property="og:title" content="Security B-Sides Rochester" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment." />
+<meta property="og:url" content="http://localhost:4000" />
+<meta property="og:image:type" content="image/png" /> <!-- less than 5mB -->
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="315" />
+<meta property="og:image" content="/assets/img/cover.svg" />
+<meta property="og:locale" content="en" />
+<meta property="og:locale:alternate" content="" />
+<meta property="fb:page_id" content="" />
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Security B-Sides Rochester" />
+<meta name="twitter:description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment." />
+<meta name="twitter:url" content="http://localhost:4000" />
+<meta name="twitter:image" content="/assets/img/cover.svg" />
+<meta name="twitter:author" content="bsidesroc" />
+
+<!-- Linkedin OGP cards -->
+<meta property="og:image" content="/assets/img/cover.svg" />
+<meta property="og:image:width" content="180" />
+<meta property="og:image:height" content="110" />
+
+<!-- Google+ OGP cards -->
+<meta itemprop="name" content="Security B-Sides Rochester" />
+<meta itemprop="author" content="" />
+<meta itemprop="description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment." />
+<meta itemprop="image" content="/assets/img/cover.svg" />
+
+
+
+<script src="/assets/js/jquery-3.4.1.slim.min.js"></script>
+<script src="/assets/js/popper.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+
+	<body style="padding-top:6.5rem;">
+	    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark pr-lg-5">
+    <!--<a class="navbar-brand" href="/">BSidesROC</a>-->
+    <div id="nav_logo" class="" >
+        <a href="/">
+            <img src="/assets/img/2019_logo.png"  height="100%" width="100%" />
+        </a>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-top"
+            aria-controls="nav-top" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse pr-lg-5" id="nav-top">
+        <ul class="navbar-nav ml-auto pr-lg-5">
+            <li class="nav-item dropdown">
+                <a id="about" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+                <div class="dropdown-menu" aria-labelledby="about">
+                    <a class="dropdown-item" href="/assets/archive/2021/about">About Us</a>
+                    <a class="dropdown-item" href="/assets/archive/2021/faq">FAQ</a>
+                    <a class="dropdown-item" href="/assets/archive/2021/coc">Code of Conduct</a>
+                    <a class="dropdown-item" href="/assets/archive/2021/archives">Archives</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="get_involved" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Get Involved</a>
+                <div class="dropdown-menu" aria-labelledby="get_involved">
+                    <a class="dropdown-item d-none" href="/assets/archive/2021/volunteering">Volunteering</a>
+                    <a class="dropdown-item d-none" href="/assets/archive/2021/cfp">CFP</a>
+                    <a class="dropdown-item d-none" href="/assets/archive/2021/cft">CFT</a>
+                    <a class="dropdown-item" href="/assets/archive/2021/sponsorships">Sponsorships</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="events" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Events</a>
+                <div class="dropdown-menu" aria-labelledby="events">
+                    <a class="dropdown-item" href="/assets/archive/2021/trainings">Trainings</a>
+		            <a class="dropdown-item d-none" href="/assets/archive/2021/crypto">Crypto Challenge</a>
+                    <a class="dropdown-item d-none" href="/assets/archive/2021/ctf">Quest CTF</a>
+                    <a class="dropdown-item d-none" href="/assets/archive/2021/osint_ctf">OSINT CTF</a>
+                    <a class="dropdown-item d-none" href="/assets/archive/2021/lockpick_village">Lockpick Village</a>
+                    <a class="dropdown-item d-none" href="/assets/archive/2021/badge">Badge Hacking</a>
+                    <a class="dropdown-item" href="/assets/archive/2021/talks">Talks</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="agenda" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Agenda</a>
+                <div class="dropdown-menu" aria-labelledby="agenda">
+                    <a class="dropdown-item" href="/assets/archive/2021/schedule">Schedule</a>
+                    <a class="dropdown-item" href="/assets/archive/2021/speakers">Speakers</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/assets/archive/2021/location">Location</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="tickets" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                   href="#">Tickets</a>
+                <div class="dropdown-menu" aria-labelledby="tickets">
+                    <a class="dropdown-item" href="/assets/archive/2021/get_tickets">Get Tickets!</a>
+                    <a class="dropdown-item d-none" href="/assets/archive/2021/resumes">Resum&egrave; Ticket Exchange</a>
+                </div>
+            </li>
+	    <li class="nav-item">
+                <a class="nav-link" href="https://discord.gg/YWU5t5p">Community Discord</a>
+            </li>	
+        </ul>
+    </div>
+</nav>
+
+	    <div class="container-fluid">
+			<div class="row-fluid">
+				<main role="main-content" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+					<h1 class="text-white" id="keynote---chris-roberts">Keynote - Chris Roberts</h1>
+
+<p><img style="height: 285px;width:285px;" src="/assets/img/sidragon_coffee.jpg" /></p>
+
+<p>Hacker, InfoSec, Safety, CyberStuff Researcher, Advisor, @Hacknotcrime henchman, and various other names on the technical side of the world vCISO, Executive, consultant, leadership, and other words that have been leveled against me describing some of the other work undertaken over the years.</p>
+
+<p>I’ve been fortunate to be elbow deep in technology for more years than I care to remember, and these days am involved in both tactical and strategic discussions with clients across the spectrum of industries talking maturity, risk, and how to effect change.</p>
+
+<p>Oh, and I just got called a Scottish Security Warlock….I’m kinda digging it.</p>
+
+<p><img style="width: 138px; height:174px" src="/assets/img/sidragon_over_exposed.png" />
+<img style="width: 121px; height:174px;" src="/assets/img/sidragon_purple_beard.jpg" /></p>
+
+<p>Twitter: Sidragon1<br />
+LinkedIn: Sidragon1</p>
+
+<h1 class="text-white" id="nick-roy">Nick Roy</h1>
+
+<p>Nick Roy is currently a Senior Security Specialist at Splunk focusing
+on security automation and improving blue team response. Before
+Splunk, Nick was at Phantom Cyber working with partners across the
+globe build out their security automation practices and delivering
+them to their customers.</p>
+
+<h1 class="text-white" id="mark-manning">Mark Manning</h1>
+
+<p>Mark Manning (@antitree) is Principal Security Architect at Snowflake where he works to help secure their data cloud 
+platform and design secure service offerings. Before that he was a security consultant at NCC Group leading a team that 
+focused on securing container technologies like Kubernetes, Istio, and CI/CD environments for a wide range of customers. 
+He’s contributed to TL;DRSec related to Kubernetes, presented at hacker conferences like Shmoocon on the subject, and 
+has been asked to hack into numerous email accounts by jilted lovers via Twitter. Previously Mark organized and founded
+B-Sides Rochester and continues to organize the local security meet-up, Rochester 2600.</p>
+
+<h1 class="text-white" id="brian-callahan">Brian Callahan</h1>
+
+<p>Brian Callahan is a Lecturer in the Information Technology and Web
+Science program at Rensselaer Polytechnic Institute in Troy, NY. He
+oversees the Information Security concentrations of the major at both
+the undergraduate and graduate levels, and teaches many of the
+cybersecurity courses offered. He is a long-time developer for the
+OpenBSD operating system.</p>
+
+<h1 class="text-white" id="matt-arnold">Matt Arnold</h1>
+
+<p>Matt Arnold is a Unix Wizard for hire., in a past life he contributed
+to projects like Debian, Ubuntu, Slackware and others. His Current
+Hobbies include auditing IoT firmware for GPL compliance, and other
+issues</p>
+
+<h1 class="text-white" id="chloé-messdaghi">Chloé Messdaghi</h1>
+
+<p>Chloé Messdaghi is the VP of Strategy at Point3 Security.  She is a security researcher advocate who supports safe
+harbor and strongly believes that information security is a humanitarian issue. Besides her passion to keep people safe
+and empowered online &amp; offline, she is driven to change the statistics of women in InfoSec. She co-founded Women of
+Security (WoSEC) and heads the SF Bay Area chapter. As well, she created WomenHackerz, a global online community that
+provides support and resources for hundreds of women hackers at all levels.</p>
+
+<p>Twitter: @ChloeMessdaghi
+LinkedIn: <a href="https://www.linkedin.com/in/chloemessdaghi/">https://www.linkedin.com/in/chloemessdaghi/</a>
+Instagram: <a href="https://www.instagram.com/chloemessdaghi/">https://www.instagram.com/chloemessdaghi/</a>
+YouTube: <a href="https://www.youtube.com/chloemessdaghi">https://www.youtube.com/chloemessdaghi</a>
+Website: <a href="https://www.chloemessdaghi.com">https://www.chloemessdaghi.com</a></p>
+
+<h1 class="text-white" id="joe-sarkisian">Joe Sarkisian</h1>
+
+<p>Joe is a Penetration Tester for Wolf and Company, P.C.’s Information Technology (IT) Assurance Services group where he 
+is responsible for coordinating and conducting penetration testing services for clients in a variety of industries, 
+including financial, healthcare, and technical sectors.  He has two years experience conducting penetration testing
+audits with the Firm, and is pursuing certifications from industry-recognized organizations like SANS and Offensive 
+Security.</p>
+
+<p>Areas of expertise consist of internal/external/wireless/physical penetration testing and social engineering.</p>
+
+<p>EDUCATION
+Northeastern University - Master of Science, Cyber Security
+University of Massachusetts Boston - Master of Science, International Relations
+Arizona State University - Bachelor of Arts, Political Science</p>
+
+<h1 class="text-white" id="jon-bauer">Jon Bauer</h1>
+<p>Jon Bauer is a fourth year computing security student at RIT. He is currently president of the student run security club RITSEC. In his free time he also is on the Swimming and Diving team as a diver.</p>
+
+<h1 class="text-white" id="ayobami-emmanuel-adewale">Ayobami Emmanuel Adewale</h1>
+<p>Ayobami Emmanuel Adewale is a third year computing security student at RIT who’s trying to learn about various security topics and share his process. His interests are malware reversing, pen-testing and threat hunting.</p>
+
+<h1 class="text-white" id="sarah-swad">Sarah Swad</h1>
+<p>Sarah (reaper) is a current IBM X-Force Red co-op. She attends the University of Central Florida and is a part of the student club Hack@UCF. She is also on UCF’s CPTC team.</p>
+
+				</main>
+
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row-fluid">
+				<nav id="sidebar" class="col-md-2 d-none d-lg-block sidebar bg-light px-2">
+    <h2 class="sidebar-heading text-center">Sponsors</h2>
+    <div class="sidebar-sticky">
+        <ul class="flex-column list-unstyled">
+            <li style="height: 200px; max-width: 200px; margin-left: auto; margin-right: auto" class="mb-3">
+                <a href="https://theosintion.com" target="_blank">
+                    <img src="/assets/img/sponsors/Logo%20The%20OSINTion%20200%20x%20200.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px;">
+                <a href="https://www.positronsecurity.com/" target="_blank">
+                    <img src="/assets/img/sponsors/positron_security_logo_white_small.png" height="100%" width="100%">
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px;" class="mt-3">
+                <a href="https://www.siegetechnologies.com/" target="_blank">
+                    <img src="/assets/img/siegeTech-logo-large-New.png" height="100%" width="100%">
+                </a>
+            </li>            <li style="height: 81px; max-width: 250px;" class="mt-3">
+                <a href="https://logrhythm.com" target="_blank">
+                    <img src="/assets/img/sponsors/logrhythm.jpg" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px;" class="mt-3">
+                <a href="https://securenetworkinc.com" target="_blank">
+                    <img src="/assets/img/sponsors/secure-network-technologies.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px;" class="mt-3">
+                <a href="https://proarch.com" target="_blank">
+                    <img src="/assets/img/sponsors/ProArch%20Logo-02.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px;" class="mt-3">
+                <a href="https://rocissa.org" target="_blank">
+                    <img src="/assets/img/sponsors/RochesterISSAChapterLogo.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px;" class="mt-3">
+                <a href="https://securityriskadvisors.com" target="_blank">
+                    <img src="/assets/img/sponsors/SRA-logo-primary-ADVISORS-COLOR.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px;" class="mt-3">
+                <a href="https://proofpoint.com" target="_blank">
+                    <img src="/assets/img/sponsors/Proofpoint.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px;" class="mt-3">
+                <a href="https://proofpoint.com" target="_blank">
+                    <img src="/assets/img/sponsors/Updated%20No%20Starch%20logo_long.png" height="100%" width="100%"/>
+                </a>
+            </li>
+        </ul>
+    </div>
+</nav>
+				<nav id="sponsors" style="">
+    <div class="mt-2 d-lg-none d-block bg-light px-2 sponsors w-100">
+        <h3 class="sidebar-heading text-center">Sponsors</h3>
+        <ul class="flex-column list-unstyled ml-md-auto">
+            <li style="height: 200px; max-width: 200px; margin-left: auto; margin-right: auto" class="mb-3">
+                <a href="https://theosintion.com" target="_blank">
+                    <img src="/assets/img/sponsors/Logo%20The%20OSINTion%20200%20x%20200.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px; margin-left: auto; margin-right: auto">
+                <a href="https://www.positronsecurity.com/" target="_blank">
+                    <img src="/assets/img/sponsors/positron_security_logo_white_small.png" height="100%" width="100%">
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px; margin-left: auto; margin-right: auto" class="mt-3">
+                <a href="https://www.siegetechnologies.com/" target="_blank">
+                    <img src="/assets/img/siegeTech-logo-large-New.png" height="100%" width="100%">
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px; margin-left: auto; margin-right: auto" class="mt-3">
+                <a href="https://logrhythm.com" target="_blank">
+                    <img src="/assets/img/sponsors/logrhythm.jpg" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px; margin-left: auto; margin-right: auto" class="mt-3">
+                <a href="https://securenetworkinc.com" target="_blank">
+                    <img src="/assets/img/sponsors/secure-network-technologies.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px; margin-left: auto; margin-right: auto" class="mt-3">
+                <a href="https://proarch.com" target="_blank">
+                    <img src="/assets/img/sponsors/ProArch%20Logo-02.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px; margin-left: auto; margin-right: auto" class="mt-3">
+                <a href="https://rocissa.org" target="_blank">
+                    <img src="/assets/img/sponsors/RochesterISSAChapterLogo.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px; margin-left: auto; margin-right: auto" class="mt-3">
+                <a href="https://securityriskadvisors.com" target="_blank">
+                    <img src="/assets/img/sponsors/SRA-logo-primary-ADVISORS-COLOR.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px; margin-left: auto; margin-right: auto" class="mt-3">
+                <a href="https://proofpoint.com" target="_blank">
+                    <img src="/assets/img/sponsors/Proofpoint.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            <li style="height: 81px; max-width: 250px; margin-left: auto; margin-right: auto" class="mt-3">
+                <a href="https://proofpoint.com" target="_blank">
+                    <img src="/assets/img/sponsors/Updated%20No%20Starch%20logo_long.png" height="100%" width="100%"/>
+                </a>
+            </li>
+        </ul>
+    </div>
+</nav>
+			</div>
+		</div>
+		<footer class="fixed-bottom">
+
+</footer>
+
+	</body>
+</html>
