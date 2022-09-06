@@ -1,0 +1,89 @@
+Introducing the BSidesROC Coding Challenge!
+
+This event will be a competition based purely on coding skill. Note that this is <strong>not</strong> an exploitation contest, it is purely building.
+<h3>PROCESS Requirements:</h3>
+<ol start="1">
+	<li>Register your team before starting work, get the test data.
+<ol>
+	<li>Details on where and how to register will be provided during the con bootup</li>
+</ol>
+</li>
+	<li>One of the following languages must be used: Basic, C, C++, COBOL, Fortran, or Pascal.  Yes, these are old* and they lack a lot of intrinsic text-processing capability.  The same can be said of the judge.  So there.</li>
+	<li>The result of the build must be a single executable that can be run from the command line.  It must be able to be timed using the /usr/bin/time command.  Expect the text input from STDIN.  Send the output to STDOUT.</li>
+	<li>Submit the source code.  Package source file(s) with the makefile in &lt;TeamName&gt;.zip or &lt;TeamName&gt;.tar  <strong>One submission per team.</strong></li>
+	<li><strong>No binaries will be accepted. </strong> Your submission will be built and tested on the judge's laptop, which is running Linux Mint Maya and the compilers listed.  The submitted program must compile without error.  Any compile or link warnings will be considered in the subjective portion of the scoring.</li>
+	<li>If any libraries not included by the metapackages for these compilers are required, notify the judge at the time of submission.  But he reserves the right to refuse to install any such libs, so be prepared to make a compelling case for it.  Or maybe you could consider not using any non-standard libs.  In any case,<strong> DO NOT include any libraries</strong> in the submission package.</li>
+</ol>
+<table width="480" border="1" cellspacing="1" cellpadding="1">
+<thead>
+<tr>
+<th scope="col">Language</th>
+<th scope="col">Compiler Version Installed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Basic</strong></td>
+<td><a href="http://www.nicholson.com/rhn/basic/">Chipmunk Basic 3.6.6b0</a></td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td>gcc 4:4.6.3-1ubuntu5</td>
+</tr>
+<tr>
+<td><strong>C++</strong></td>
+<td>g++ 4:4.6.3-1ubuntu5</td>
+</tr>
+<tr>
+<td><strong>COBOL</strong></td>
+<td>open-cobol 1.0-5build1</td>
+</tr>
+<tr>
+<td><strong>FORTRAN</strong></td>
+<td>gfortran 4:4.6.3-1ubuntu5</td>
+</tr>
+<tr>
+<td><strong>Pascal</strong></td>
+<td>fp-compiler 2.4.4-3.1</td>
+</tr>
+</tbody>
+</table>
+<h3></h3>
+<small><i>* - Next year we will add one language to this mix. Submit your votes for which one you'd like to see. Voting will scored as follows: (#votes * Age of language). Only submit languages for which there exists a FOSS compiler that runs on Mint. Vote at the <a href="https://www.facebook.com/pages/B-Sides-Rochester-Coding-Challenge/441287969279937">Facebook page for "B Sides Rochester Coding Challenge"</a></i></small>
+
+&nbsp;
+
+<hr />
+
+&nbsp;
+<h3>Scoring:</h3>
+<ol start="1">
+	<li>Objective criteria:
+<ol start="1">
+	<li>Error-free compile: needed just to qualify the code to continue.</li>
+	<li>Successfully complete primary task: 100 points.
+<ol>
+	<li>Completing this task is both necessary and sufficient to be scored on all remaining categories.</li>
+	<li>The judge will liberally consider minor variations from his nominal output file, and may award as few as 90 points while still allowing the code to compete in the remaining trials.</li>
+</ol>
+</li>
+	<li>Fastest run times: 50, 30 and 20 points for top three.</li>
+</ol>
+</li>
+	<li>Subjective criteria (judge's decision is final)
+<ol start="1">
+	<li>Warnings during build: -1 to -10 points</li>
+	<li>Error or warning messages during runtime: -1 to -30 points</li>
+	<li>Code readability: -15 to +15 points</li>
+	<li>Comments quality: 0 to +20 points (also contributes to readability)</li>
+</ol>
+</li>
+	<li>How to get disqualified (The judge suggests you not try these things)
+<ol>
+	<li>Suppress or redirect runtime error or warning messages</li>
+	<li>Summon help from the Internet
+<em>This means anything like having your code download a wordlist-builder and run it.  You may, of course, do all the online research you wish while building your source.</em></li>
+	<li>Emit shell scripts and execute them.</li>
+</ol>
+</li>
+</ol>
