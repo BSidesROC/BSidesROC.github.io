@@ -4,20 +4,20 @@ layout: default
 {:.mb-3 .text-white}
 # Volunteering
 
-Curious about what goes on behind the scenes at a Bsides?  Join us at this year’s BSidesROC 2022 as a volunteer!  No special experience necessary - just a willingness to be helpful and friendly.  :)
+Curious about what goes on behind the scenes at a Bsides?  Join us at this year’s BSidesROC 2023 as a volunteer!  No special experience necessary - just a willingness to be helpful and friendly.  :)
 
 {:.text-white .mb-n1}
 **Details:**
 
-We are looking for volunteers to assist on Friday 3/18 and/or Saturday 3/19 with the setup, running, and teardown of the conference.
+We are looking for volunteers to assist on Friday 3/17 and/or Saturday 3/18 with the setup, running, and teardown of the conference.
 
 {:.text-white .mb-n1}
-**Friday 3/18:**
+**Friday 3/17:**
 
 Training day assistant - Help the trainers with whatever they need
 
 {:.text-white .mb-n1}
-**Saturday 3/19:**
+**Saturday 3/18:**
 * Conference Setup - [as many as possible] Friday night/Sat AM: helping set up everything as needed (all hands available)
 * Registration – [4 needed] Assisting people with signing in for the day, t-shirt sales, speaker wrangling, and providing general information to attendees.
 * Security - [as many as possible] Verifying mask and badge requirements are met for each room.
