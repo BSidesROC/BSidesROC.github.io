@@ -5,12 +5,11 @@ layout: default
 # BSidesROC Call For Presenters
 
 {:.mt-3 }
-#### BSidesROC is looking for presenters for our 2022 event. 
+#### BSidesROC is looking for presenters for our 2023 event. 
 
 {:.mt-3 .text-white}
 #### IMPORTANT DATES
-  - CFP Closes: 2/12/2022
-  - CFP Responses Sent: 2/18/2022
+  - TBD!
 
 {:.text-white}
 #### Presentations
@@ -44,4 +43,4 @@ The name and photo associated with your Google account will ****be recorded when
 ***
 
 {:.text-white .text-center}
-# \*** CFP Now Closed **\*
+# \*** CFP Coming Soon! **\*

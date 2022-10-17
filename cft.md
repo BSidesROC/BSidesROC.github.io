@@ -5,12 +5,11 @@ layout: default
 # BSidesROC Call For Trainers!
 
 {:.mt-3}
-#### BSidesROC is looking for trainers for our 2022 event. 
+#### BSidesROC is looking for trainers for our 2023 event. 
 
 {:.mt-3 .text-white}
 #### IMPORTANT DATES
-  - CFT Closes: 2/12/2022
-  - CFT Responses Sent: 2/18/2022
+  - TBD!
   
 The training day will be the day before the conference, and is hosted at RIT. In most cases, we can facilitate all the presentation gear like projectors, screens, and possibly workstations.
 
@@ -48,4 +47,4 @@ The cost structure for your class is up to you. We’re happy to charge whatever
 ***
 
 {:.text-white .text-center}
-# \*** CFT Now Closed **\*
+# \*** CFT Coming Soon! **\*
