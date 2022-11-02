@@ -48,4 +48,4 @@ The cost structure for your class is up to you. We’re happy to charge whatever
 ***
 
 {:.text-white .text-center}
-# \*** CFT Coming Soon! **\*
+# \*** Now Open! **\*

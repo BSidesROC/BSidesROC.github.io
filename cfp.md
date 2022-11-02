@@ -44,4 +44,4 @@ The name and photo associated with your Google account will ****be recorded when
 ***
 
 {:.text-white .text-center}
-# \*** CFP Coming Soon! **\*
+# \*** Now Open! **\*
