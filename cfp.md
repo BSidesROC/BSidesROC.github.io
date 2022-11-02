@@ -9,7 +9,8 @@ layout: default
 
 {:.mt-3 .text-white}
 #### IMPORTANT DATES
-  - TBD!
+  - CFP Closes: 1/31/2023
+  - CFP Responses Sent: 2/21/2023
 
 {:.text-white}
 #### Presentations
