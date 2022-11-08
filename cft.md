@@ -4,6 +4,9 @@ layout: default
 {:.text-white .mb-3}
 # BSidesROC Call For Trainers!
 
+{:.text-white .text-center}
+# \*** [Now Open!](https://forms.gle/JpHFWDr9HSMH5KUW8) **\*
+
 {:.mt-3}
 #### BSidesROC is looking for trainers for our 2023 event. 
 
@@ -47,5 +50,3 @@ The cost structure for your class is up to you. We’re happy to charge whatever
 
 ***
 
-{:.text-white .text-center}
-# \*** Now Open! **\*
