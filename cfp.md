@@ -4,6 +4,9 @@ layout: default
 {:.mb-3 .text-white}
 # BSidesROC Call For Presenters
 
+{:.text-white .text-center}
+# \*** [Now Open!](https://forms.gle/FU36QBuPHdVcb3RL7) **\*
+
 {:.mt-3 }
 #### BSidesROC is looking for presenters for our 2023 event. 
 
@@ -43,5 +46,3 @@ The name and photo associated with your Google account will ****be recorded when
 
 ***
 
-{:.text-white .text-center}
-# \*** Now Open! **\*
