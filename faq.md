@@ -12,7 +12,8 @@ If you're interested in this year's volunteer opportunities, you can email volun
 While this is not a child oriented event, all are welcome.
 
 **What should I bring into the event?**
-Masks may be required stay tuned for more information.  
+Wearing a mask while in the BSidesRoc space will be required. No exceptions.
+Persons who do not meet this requirement, will not be admitted.
 
 Laptops are recommended if you're interested in playing the CTF or crypto challenge. If you're interested in career opportunities, we'd recommend bringing a hard copy of your resume.
 
