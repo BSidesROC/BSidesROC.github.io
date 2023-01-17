@@ -5,7 +5,7 @@ layout: default
 {:.text-white}
 # Sponsorships
 
-Thanks for your interest in sponsoring BSidesROC 2023! [Our official sponsorship information kit](/assets/doc/FINAL_BSides_Rochester_Sponsor_Info_2022.pdf), describes the tiers offered, along with perks and costs of each.  Please send e-mail to info at bsidesroc.com to let us know which you'd like to move forward with.
+Thanks for your interest in sponsoring BSidesROC 2023! [Our official sponsorship information kit](/assets/doc/FINAL__BSides_Rochester_Sponsor_Info_2023.pdf), describes the tiers offered, along with perks and costs of each.  Please send e-mail to info at bsidesroc.com to let us know which you'd like to move forward with.
 
 The infographics below summarize our attendees:
 
