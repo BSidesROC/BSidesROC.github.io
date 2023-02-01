@@ -5,7 +5,7 @@ layout: default
 # BSidesROC Call For Trainers!
 
 {:.text-white .text-center}
-# \*** [Now Open!](https://forms.gle/JpHFWDr9HSMH5KUW8) **\*
+# \*** Now Closed! **\*
 
 {:.mt-3}
 #### BSidesROC is looking for trainers for our 2023 event. 
