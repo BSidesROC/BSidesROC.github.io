@@ -5,7 +5,7 @@ layout: default
 # BSidesROC Call For Presenters
 
 {:.text-white .text-center}
-# \*** [Now Open!](https://forms.gle/FU36QBuPHdVcb3RL7) **\*
+# \*** Now Closed! **\*
 
 {:.mt-3 }
 #### BSidesROC is looking for presenters for our 2023 event. 
