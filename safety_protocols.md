@@ -3,7 +3,6 @@ layout: default
 ---
 {:.text-white}
 # COVID-19 INFORMATION
-**BSIDESROC WILL FOLLOW ALL GUIDANCE AND RESTRICTIONS DIRECTED BY THE CDC, STATE OF NEW YORK, CITY OF HENRIETTA, AND THE RIT INN AND CONFERENCE CENTER.**
 
 The BSidesROC Board values the health and safety of participants and staff. As part of our return to a physical venue, 
 we continue to evaluate the current situation as it pertains to the COVID-19 pandemic. The following details our safety 
