@@ -140,12 +140,14 @@ Polytechnic Institute cybersecurity programs.
 
 Security Analyst at Sedara Security
 
+{:.text-white}
 ## Nick Ascoli
 
 Nick Ascoli is a cybersecurity researcher and the founder and CEO of Foretrace, an External Attack Surface Management 
 (EASM) solution. Nick has been a guest on the Cyber Wire podcast, and a speaker at GrrCON, Defcon Skytalks, Blackhat 
 Arsenal, Shmoocon, SANS, and B-Sides conferences on SIEM, Recon, and UEBA topics.
 
+{:.text-white}
 ##  Craig Chamberlain
 
 Craig has seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion, C-beams glittering 
