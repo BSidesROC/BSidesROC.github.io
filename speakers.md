@@ -41,7 +41,7 @@ RSA, GITEX Global & BSides.
 {:.text-white}
 ## Paul Michaud
 
-Paul is a Principal Incident Handler on Red Canary's Cyber Incident Response Team (CIRT). He works with customers and
+Paul is a Principal Threat Hunter on Red Canary's Cyber Incident Response Team (CIRT). He works with customers and
 the community to help teams to improve their security posture, reduce their exposure to risk, and shut down cyber 
 threats. He's an active maintainer of Atomic Red Team, an open-source library that security teams can use to 
 validate their infrastructure and security controls. His background includes threat hunting, purple teaming, and 
