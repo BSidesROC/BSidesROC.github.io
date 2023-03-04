@@ -100,22 +100,6 @@ Price: $75.
 ***
 
 {:.h5 .text-white .mb-3}
-#### How to Pick a Pocket or Two
-
-{:.h5 .mb-3}
-Length: 4 hours, 1PM - 5PM
-
-{:.h5 .mb-3}
-Instructor: James Harrison
-
-The instructor will cover the basics of how pickpocketing works and how to best avoid being a victim.
-
-{:.text-white}
-Price: $50
-
-***
-
-{:.h5 .text-white .mb-3}
 #### Defense-in-depth Engineering
 
 {:.h5 .mb-3}
