@@ -35,14 +35,3 @@ Investigations Journal, Chair of DFIR Review, 2nd VP on the International Execut
 Investigation Association, and advisory board for Cyber Sleuths Lab. Her previous roles include Director of Forensics 
 at Magnet Forensics, Senior Mobile Exploitation Analyst for Basis Technology, Senior at EY, and Senior Electrical 
 Engineer at American Systems. Jessica is also proud to be a veteran of the United States Marine Corps.
-
-{:.text-white}
-James Harrison
-
-James has been practicing and demonstrating picking pocket for over 20 years. You might know him as Pickpocket James 
-from YouTube [https://www.youtube.com/@pickpocketjames](https://www.youtube.com/@pickpocketjames). He would love to 
-share his passion about this very unique skill set with folks who would appreciate it.
-
-
-
- 

@@ -22,21 +22,12 @@ technologically connected world.
 
 
 {:.text-white}
-## Brian Contos
+## Chris Maulding
 
-Chief Security Officer, Phosphorus Cybersecurity
-
-With two IPOs & eight acquisitions Brian has helped build some of the most successful security companies in the world. 
-He has over 25 years in the security industry as security company entrepreneur, board advisor, investor, and author. 
-After getting his start with the Defense Information Systems Agency (DISA) and later Bell Labs, Brian began the process 
-of building security startups and taking multiple companies through successful IPOs and acquisitions including: Riptech,
-ArcSight, Imperva, McAfee, Solera Networks, Cylance, JASK, Verodin, and Mandiant.
-
-Brian has worked in over 50 countries across six continents. He authored the book Enemy at the Water Cooler, and he 
-co-authored Physical & Logical Security Convergence with former NSA Deputy Director William Crowell. He was featured 
-in the cyberwar documentary 5 Eyes alongside General Michael Hayden, former NSA, and CIA Director. Brian has written 
-for and been interviewed by security and business press and regularly presents at conferences worldwide like Black Hat, 
-RSA, GITEX Global & BSides.
+I am the Lead Security Engineer at Entegral, I also co-founded consulting company Adirondack Information Security, 
+I also teach a cyber accelerator with CyberX Elite to help students get a head start on the career path. I have 12+ 
+years of security experience in both the offensive and defensive sides of security. I prefer the defensive side and the
+analytics that come with it, there is always something new to learn.
 
 {:.text-white}
 ## Paul Michaud
@@ -58,22 +49,11 @@ and the BSides Buffalo technology conference. He enjoys good beer, mountain bike
 college hockey, and can be found on Mastodon as @blueteamgoon@infosec.exchange.
 
 {:.text-white}
-## Robert Esposito
+## Josh Grant
 
-As Director of Security Strategy at Phosphorus Cybersecurity, Robert helps organizations address xIoT attack surface 
-management and preventative risk mitigation, enabling organizations to safely embrace an increasingly Thing-based world.
-He has been a cybersecurity professional in Silicon Valley for over 20 years, with his early career focused on 
-environmental industrial control systems (ICS) for major semiconductor manufacturers' photolithography processes. 
-Since then he has been part of several successful cybersecurity companies and system integrators in roles such as field
-engineer, systems engineer, solutions architect, and technical advisor. His career highlights include a Boeing/Narus 
-patent for behavioral-based botnet beacon detection, pen testing on Boeing's 787 Dreamliner, SecOps program wins for 
-Singapore and Japan, working with the DoD, DHS, and DOE, including Boeing Energy Project 1304 – a partnership with DOE 
-& PJM Interconnection RTO for cyber security enhancements for the Smart Grid Demonstration Program. Robert has a deep 
-understanding of SecOps and often speaks with clients regarding their security and identity programs, automation, 
-orchestration, and visibility.
-
-Social Media Links:
-https://www.linkedin.com/in/esposito/
+Josh Grant has been working in test automation for over a decade. He's worked with end-to-end UI test automation, API 
+test automation and, recently, fuzz testing. He's currently a Developer Relations Advocate at Code Intelligence and 
+resides in Toronto, Ontario, Canada.
 
 {:.text-white}
 ## Ryan LaBouve 
