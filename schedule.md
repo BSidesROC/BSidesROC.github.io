@@ -12,7 +12,7 @@ layout: default
 |--------------|------------------|------------------|
 | 08:45 - 09:00 | Opening | BSidesROC Staff | Opening | BSidesROC Staff |
 | 09:00 - 10:00 | [Keynote](/speakers#keynote---alyssa-miller) | *Alyssa Miller*| [Keynote](/speakers#keynote---alyssa-miller) | *Alyssa Miller* |
-| 10:00 - 10:30 | [Talk Crit Get Hit: Examining Automated Scanners for Penetration Testing](/talks#talk_crit_get_hit)| Nicholas Doemer | [What The Fuzz? Introduction to Fuzz Testing)](/talks#what_the_fuzz) | Josh Grant |
+| 10:00 - 10:30 | [Talk Crit Get Hit: Examining Automated Scanners for Penetration Testing](/talks#talk_crit_get_hit)| Nicholas Doerner | [What The Fuzz? Introduction to Fuzz Testing)](/talks#what_the_fuzz) | Josh Grant |
 | 10:30 - 11:00 | [TikTok Under Attack: Attacker Uses a Popular TikTok Challenge to Lure Users Into Installing Malicious Package](/talks#tiktok_under_attack) | Guy Nachshon | [Hardware Hacking: A Brief Primer on Reverse Engineering Bluetooth Transmissions](/talks#hardware_hacking) | Edward Warren |
 | 11:00 - 12:00 | [Don't Roll a One: Lessons Learned from Incident Response Tabletop Exercises](/talks#dont_roll_a_one) | Tyler Hudak | [Hunting Supply Chain Threats Using Anomaly Detection](/talks#hunting_supply_chain_threats) |  Craig Chamberlain  |
 | 12:00 - 01:30 | Lunch | | Lunch | | 
