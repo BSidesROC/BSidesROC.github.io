@@ -16,6 +16,9 @@ All contestants must be present on-site to win.
 {:.text-white .h3 .mb-3}
 Registration is now open: [https://bsidesroc2023.ctfd.io](https://bsidesroc2023.ctfd.io)
 
+{:.text-white .h3 .mb-3}
+The password for registration is: doyouwanttoplayagame 
+
 {:.text-white .h3 .mb-4}
 Competition will begin Saturday, March 18th 2023 at 9AM EDT and close at 4PM EDT
 
