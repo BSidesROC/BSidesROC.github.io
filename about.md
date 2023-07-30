@@ -5,7 +5,7 @@ layout: default
 
 Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment.
 
-Security B-Sides Rochester (BSidesROC) has recently become a 501(&#x0063;)3 Not-For Profit organization. In order to be as transparent as possible, below you can find information about the goals for the organization, the corporate structure, and other information about the organization.
+Security B-Sides Rochester (BSidesROC) has recently become a Not-For Profit organization. In order to be as transparent as possible, below you can find information about the goals for the organization, the corporate structure, and other information about the organization.
 
 ## [Bylaws](https://docs.google.com/document/d/1O3WdOIBZkW2LS4vU25udph1amSMv9_QLQBbpmYysfRc/edit?usp=sharing)
 
@@ -25,7 +25,14 @@ Security BSidesROC is run by volunteers; people that feel the need to help creat
 We help divide up the workload by making “Op” positions for the various facets of the conference. Ops are in charge of keeping track of their project’s money, managing the volunteers that help them, and coming up with awesome ways to get things done.
 
 ## Investigatorchic @investigatorchi (President)
-Investigatorchic AKA Cathy is a security researcher, speaker, and Senior Information Security Analyst at University at Buffalo with over 20 years of highly technical experience. In her current role, she is a data forensics and incident response (DFIR) specialist, performing incident management, intrusion detection, investigative services, awareness training, and personnel case resolution in a dynamic academic environment. She has presented at a number of information security conferences including DEF CON and Hacker Halted. In her (minimal) spare time, she enjoys visiting her adopted two-toed sloth Flash at the Buffalo zoo, researching death and the dead, and learning more about hacking things to make the world a more secure place.
+Investigatorchic AKA Cathy is a security researcher, speaker, and Principal Technology Architect, Security at University
+at Buffalo with over 20 years of highly technical experience. In her current role, she is a data forensics and incident 
+response (DFIR) specialist, performing incident management, intrusion detection, investigative services, awareness 
+training, and personnel case resolution in a dynamic academic environment. She has presented at a number of information
+security conferences including DEF CON and CypherCon. In her (minimal) spare time, she enjoys visiting her adopted 
+two-toed sloth Flash at the Buffalo zoo, researching death and the dead, and learning more about hacking things to make
+the world a more secure place.
+
 Sanity Check Op
 Social Media Op
 AV Op
@@ -45,5 +52,4 @@ foodie.
 
 ## Alex Page
 Alex is a data scientist at URMC. His work involves database tuning, machine learning, and parallel programming, He is
-also interested in software-defined radio, quantum computing, and medical device security. This is his seventh year
-helping at BSidesROC.
+also interested in software-defined radio, quantum computing, and medical device security.

@@ -2,29 +2,12 @@
 layout: default
 ---
 {:.text-white}
-# Talks 2023
+# Talks 2024
 
 The following talks will be offered on Saturday:
 
 {:.h3 .text-white .mb-2}
-Date: Sat, March 18, 2023
+Date: Sat, March 23, 2024
 
-{:.table .text-white .mb-2}
-| *Presenter*  | *Title*     | *Description* | *Time* |
-|--------|-----------------|----------------------|-------|
-| [*Alyssa Miller*](/speakers#keynote---alyssa-miller) | <span id="keynote">Keynote</span> | In her keynote, Alyssa Miller will share her origin story of how she navigated a journey from a 4 year-old who loved taking things apart, to a teen with a passion for technology, through her various roles in tech, and now finds herself in the C-Suite. She’ll tell the tales of crazy hacks, serendipitous opportunities, and the lessons she learned along the journey. You’ll learn how she tries to use her presence as a hacker in the boardroom, to normalize and pave the way for hackers to follow the same route. | 50 minutes |
-| [Nicholas Doerner](/speakers#nicholas-doerner) | <span id="talk_crit_get_hit">Talk Crit Get Hit: Examining Automated Scanners for Penetration Testing</span> | Vulnerability scanners such as Nessus will often flag issues such as SSL/TLS as critical rated problems. However, these types of vulnerabilities will be unlikely to gain a penetration tester domain admin or even a foothold within a targeted network. This talk examines the output from such tools and the impact of lower severity findings when chained together to gain full domain administrative access within a targeted network. | 25 minutes |
-| [Matthew Gracie](/speakers#matthew-gracie) | <span id="catching_more_flies"> Catching More Flies - Spotting the Adversary With Honey Techniques</span> | Detection Engineering traditionally centers around defining and alerting on known malicious adversary actions in your environment. Deception Engineering, on the other hand, uses techniques like honeypots and honeycreds to trick an intruder into seemingly harmless actions that will generate immediate, high fidelity alerts. This talk will outline some free tools and techniques that you can deploy in your environment to spot attacker reconnaissance and lateral movement early in the attack chain. | 50 minutes |
-| [Josh Grant](/speakers#josh-grant) | <span id="what_the_fuzz"> What The Fuzz? Introduction to Fuzz Testing</span> | Fuzz Testing is powerful and cool. But what is it? | 25 minutes |
-| [Guy Nachshon](/speakers#guy-nachshon) | <span id="ticktok_under_attack">TikTok Under Attack: Attacker Uses a Popular TikTok Challenge to Lure Users Into Installing Malicious Package</span> | This talk will cover a recent supply chain attack in which malicious software was hidden inside a package hosted on a trending GitHub repository and promoted through social engineering tactics. The attack was successful in attracting a large number of users and highlights the importance of being cautious when installing software from untrusted sources and the need for secure supply chain management. The attack also demonstrated the severity and far-reaching consequences of supply chain attacks. | 25 minutes |
-| [Robert Wagner](/speakers#robert-wagner) | <span id="hacking_defending_apis"> Hacking and Defending APIs</span> | APIs are a leading attack vector that often get pushed into production without proper security testing. This presentation will provide an overview of each of the OWASP API Security Top 10 vulnerabilities from an adversarial perspective, along with blue-team strategies on how to build and test effective defenses on an API security stack. | 50 minutes |
-| [Tyler Hudak](/speakers#tyler-hudak) | <span id="dont_roll_a_one"> Don't Roll a One: Lessons Learned from Incident Response Tabletop Exercises </span> | In this talk, I will explain the purpose and benefits of Tabletop Exercises, share some common lessons learned I have observed and provide suggestions for addressing these issues. | 50  minutes |
-| [Richard Smith](/speakers#richard-smith) | <span id="enriching_your_soc">Enriching Your SOC Investigations with Insights from Active Directory</span> | Most SOC defenders have basic knowledge of MS Active Directory, but aren't aware of just how useful AD can be for their investigations.  In this talk, we will explore some of the ways you can leverage AD to complete end-to-end SOC investigations and enrich escalations with helpful information. | 50 minutes |
-| [Eric Woodruff](/speakers#eric-woodruff) | <span id="mind_the_management_plane"> Mind the Management Plane: The Risks of High Privilege in Cloud Computing</span> | Discussion regarding the management plane/metastructure for cloud environments and the dangers faced when organizations do not take the steps to securing such. | 25 minutes |
-| [Edward Warren](/speakers#edward-warren) | <span id="hadware_hacking"> Hardware Hacking: A Brief Primer on Reverse  Engineering Bluetooth Transmissions</span> | An introduction to exploring the Bluetooth interface for aspiring hardware hackers. | 25 minutes |
-| [Ryan LaBouve](/speakers#ryan-labouve) | <span id="hunting_before_zero_day"> Hunting Before Day Zero</span> |"Hunting Before Day Zero" is a talk that will delve into details of file and network access on Linux to expose signals of compromise that might indicate our systems are infected and possibly by a zero-day vulnerability! | 25 minutes |
-| [Paul Michaud](/speakers#paul-michaud) | <span id="rips_reps"> Rips, Reps and Revelations!</span> | Creating cyber fire drills with Atomic Red Team to continuously improve your team's capabilities. | 50 minutes |
-| [Chris Maulding](/speakers#chris-maulding) | <span id="you_got_a_siem"> You got a SIEM now what?!</span> | The talk will cover what steps you should take after purchasing a SIEM to get the most out of your investment, and a step by step process of how to configure the basics | 50 minutes |
-| [Nick Ascoli](/speakers#nick-ascoli)| <span id="catching_some_phisherman">Catching some Phisherman</span>| During what seemed like a routine domain investigation, a few breadcrumbs left in the adversaries code led us down a rabbit hole to uncovering a cybercrime group behind what is perhaps the largest Facebook credential harvesting campaign ever uncovered. | 50 minutes |
-| [Craig Chamberlain](/speakers#craig-chamberlain) | <span id="hunting_supply_chain_threats">Hunting Supply Chain Threats Using Anomaly Detection </span> | Come see a case detailed study of a supply chain incident and how it was detected by applying anomaly detection to Cloud API logs. | 50 minutes |
-
+{: .mb-3 .text-white}
+TBD
