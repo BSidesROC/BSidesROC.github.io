@@ -1,17 +1,17 @@
 ---
 layout: default
 ---
+{.text-white}
 # About Us
 
 Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment.
 
 Security B-Sides Rochester (BSidesROC) has recently become a Not-For Profit organization. In order to be as transparent as possible, below you can find information about the goals for the organization, the corporate structure, and other information about the organization.
 
-## [Bylaws](https://docs.google.com/document/d/1O3WdOIBZkW2LS4vU25udph1amSMv9_QLQBbpmYysfRc/edit?usp=sharing)
+{.text-white}
+# Directors:
 
-#### Directors:
-
-The following currently fullfil the role of Board of Directors for the B-Sides Rochester, Inc. corporation. Their responsibilities are outlined in the bylaws above.
+The following currently fullfil the role of Board of Directors for the B-Sides Rochester, Inc. corporation.
 
 **President:** Catherine Ullman
 
@@ -19,12 +19,12 @@ The following currently fullfil the role of Board of Directors for the B-Sides R
 
 **Secretary:** Jason Taylor
 
+{.text-white}
 # Staff
-
 Security BSidesROC is run by volunteers; people that feel the need to help create a hacker conference in Rochester so strongly that they give up weekends and free time to make it happen.
-We help divide up the workload by making “Op” positions for the various facets of the conference. Ops are in charge of keeping track of their project’s money, managing the volunteers that help them, and coming up with awesome ways to get things done.
 
-## Investigatorchic @investigatorchi (President)
+{.text-white}
+## Investigatorchic @investigatorchi
 Investigatorchic AKA Cathy is a security researcher, speaker, and Principal Technology Architect, Security at University
 at Buffalo with over 20 years of highly technical experience. In her current role, she is a data forensics and incident 
 response (DFIR) specialist, performing incident management, intrusion detection, investigative services, awareness 
@@ -33,23 +33,20 @@ security conferences including DEF CON and CypherCon. In her (minimal) spare tim
 two-toed sloth Flash at the Buffalo zoo, researching death and the dead, and learning more about hacking things to make
 the world a more secure place.
 
-Sanity Check Op
-Social Media Op
-AV Op
-Stay-on-Target Op
-Volunteer Op
-
-## Susan Lupiani (Treasurer)
+{.text-white}
+## Susan Lupiani
 Susan Lupiani is a Senior Cybersecurity Threat Analyst on the Logging and Monitoring team at Florida Blue. Susan spent
 15 years with the FBI as an Intelligence Analyst before joining the healthcare sector. In her spare time she enjoys
 reading John Sandford books, watching Scandinavian and Nordic Noir on Netflix, and spending time with her husband, son,
 and three bad cats.
 
-## Jason Taylor (Secretary)
+{.text-white}
+## Jason Taylor
 Jason is a Rochester native specializing in governance, risk, and compliance. He likes teaching, learning, and exploring
 countless leads to answer "how do you know that you know?" When he'd not doing cybersecurity he's probably being a
 foodie.
 
+{.text-white}
 ## Alex Page
 Alex is a data scientist at URMC. His work involves database tuning, machine learning, and parallel programming, He is
 also interested in software-defined radio, quantum computing, and medical device security.

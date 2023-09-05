@@ -4,7 +4,7 @@ layout: default
 {:.mb-3 .text-white}
 # Volunteering
 
-Curious about what goes on behind the scenes at a Bsides?  Join us at this year’s BSidesROC 2023 as a volunteer!  No special experience necessary - just a willingness to be helpful and friendly.  :)
+Curious about what goes on behind the scenes at a Bsides?  Join us at this year’s BSidesROC 2024 as a volunteer!  No special experience necessary - just a willingness to be helpful and friendly.  :)
 
 {:.text-white .mb-n1}
 **Details:**
