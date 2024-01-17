@@ -12,10 +12,8 @@ layout: default
 
 {:.mt-3 .text-white}
 #### IMPORTANT DATES
-- CFT Closes: 01/14/2024
-- CFT Responses Sent: 02/05/2024
-
-
+- CFT Closes: 01/26/2024
+- CFT Responses Sent: 02/12/2024
 
 The training day will be the day before the conference, and is hosted at RIT. In most cases, we can facilitate all the presentation gear like projectors, screens, and possibly workstations.
 

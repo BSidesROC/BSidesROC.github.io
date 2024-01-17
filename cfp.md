@@ -14,8 +14,8 @@ layout: default
 
 {:.mt-3 .text-white}
 #### IMPORTANT DATES
-- CFP Closes: 01/14/2024
-- CFP Responses Sent: 02/05/2024
+- CFP Closes: 01/26/2024
+- CFP Responses Sent: 02/12/2024
 
 {:.text-white}
 #### Presentations
