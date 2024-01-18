@@ -1,0 +1,19 @@
+- name: rocissa
+  url: //https://www.rocissa.org/
+  image: RocISSALogo-brief.png
+
+- name: sra
+  url: https://sra.io/
+  image: SRA-logo-primary.jpg
+
+- name: nuspire
+  url: https://nuspire.com
+  image: Nuspire_Logo_Web.jpg
+
+- name: sedara
+  url: https://sedarasecurity.com
+  image: Sedara_Logo.png
+
+- name: bluecycle
+  url: https://www.bluecycle.net
+  image: blue-cycle-horizontal.png
