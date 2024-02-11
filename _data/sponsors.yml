@@ -17,3 +17,6 @@
 - name: bluecycle
   url: https://www.bluecycle.net
   image: blue-cycle-horizontal.png
+- name: ICR
+  url: https://icr-team.com/
+  image: icr.png
