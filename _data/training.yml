@@ -1,0 +1,49 @@
+year: 2024
+date: Friday, March 22nd 2024
+url: https://events.eventzilla.net/e/bsides-rochester-2024--trainings-2138608764
+location: Rochester Institute of Technology 1 Lomb Memorial Drive, Rochester, NY, 14623, United States
+classes:
+  - title: 'Empire Operations: Tactics (APT28)'
+    time_frame: '8:00 a.m. - 5:00 p.m'
+    instructors:
+      - 'Anthony "Coin" Rose'
+      - 'Dominic "Cryillic" Cunningham'
+    description: |
+      Tactics (APT28) is an intermediate-level course that focuses on executing Advanced Persistent
+      Threat (APT) Tactics, Techniques, and Procedures (TTPs) using Empire. In this hands-on course, students will
+      evaluate the 2021-2022 exploitation campaign from Fancy Bear (APT 28) using MSHTML RCE (CVE-2021-40444)
+      in macro-enabled docs, OneDrive C2 communications, and C# payloads. Next, attendees will learn the individual
+      components of Empire and how to apply them to execute a red team operation. Key topics that will be taught are
+      building C2 infrastructure, deploying customized payloads in C# and PowerShell, and creating tailored scripts for
+      engagements. Finally, the Empire TTPs learned throughout the course will be tested on a comprehensive range using
+      an emulation plan provided on APT 28. Hardware/Software Requirements - Laptop with 8GB of RAM and Modern Web
+      Browser (Chrome, Firefox, etc).
+    prices:
+      regular: '$100'
+      student: 'Pay-what-you-can, minimum $25 (requires valid .edu address)'
+  - title: 'Social Engineering Crash Course'
+    time_frame: '8am - Noon'
+    instructor: 'Joe Gray'
+    description: |
+      This intensive 4-hour crash course delves into the dynamic world of social engineering, offering a practical and
+      insightful exploration of influence, manipulation, and human psychology. Based on the principles outlined in
+      "Practical Social Engineering," this course empowers participants with the knowledge and skills to recognize,
+      understand, and ethically counter social engineering attacks. Attendees will learn through a blend of theoretical
+      insights and real-world examples, equipping them with the tools to enhance personal and organizational security
+      in today's interconnected world. Laptop encouraged, but not required.
+    prices:
+      regular: '$75'
+  - title: 'OSINT for Social Engineering'
+    time_frame: '1pm to 5pm'
+    instructor: 'Joe Gray'
+    description: |
+      This course, inspired by "Practical Social Engineering," offers a deep dive into the utilization of Open Source
+      Intelligence (OSINT) for social engineering purposes. Over four hours, participants will explore how to ethically
+      gather and analyze publicly available information to enhance social engineering strategies. The course will cover
+      the fundamentals of OSINT, practical techniques for information gathering, and the application of this intelligence
+      in planning and executing social engineering operations. Participants will gain an understanding of the ethical
+      boundaries, legal considerations, and the role of OSINT in enhancing security and awareness. Laptop encouraged,
+      but not required.
+    prices:
+      regular: '$75'
+

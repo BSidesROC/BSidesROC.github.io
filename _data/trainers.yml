@@ -1,0 +1,25 @@
+- name: Anthony "Coin" Rose, CISSP
+  bio:  |
+    Anthony is a Lead Security Researcher and Chief Operating Officer at BC Security, where he specializes in adversary
+    tactic emulation planning, Red and Blue Team operations, and embedded systems security. He has presented at numerous
+    security conferences, including Black Hat, DEF CON, HackMiami, and RSA conferences. Anthony is the author of various
+    offensive security tools, including Empire and Starkiller, which he actively develops and maintains. He is
+    recognized for his work, revealing wide-spread vulnerabilities in Bluetooth devices and is the co-author of a
+    cybersecurity blog at <a href="https://www.bc-security.org/blog/">https://www.bc-security.org/blog/</a>.
+- name: Dominic "Cryillic" Cunningham
+  bio: |
+    Dominic  is a Red Team Content Engineer for TryHackMe, a large cybersecurity education platform. He is currently
+    pursuing a degree in Computer Science with a Minor in Psychology. His work includes general adversary emulation,
+    offensive operations, and evasion. He specializes in researching and documentation of Evasion Techniques, Windows
+    Internals, and Active Directory. Most of his work and research has been published at
+    <a href="https://www.tryhackme.com/">https://www.tryhackme.com/</a>, where he has also developed and released
+    numerous CTF boxes and enterprise-level ranges.
+- name: Joe Gray
+  bio: |
+    Joe Gray is a celebrated U.S. Navy Submarine Force veteran who has made significant strides in cybersecurity and
+    OSINT, becoming the inaugural winner of the DerbyCon Social Engineering Capture the Flag and a prominent figure in
+    the field. As the Founder and Principal Instructor of The OSINTion, he imparts his extensive knowledge, further
+    highlighted by his success in various Capture the Flag competitions, including DEFCON and HackFest. His expertise
+    is recognized with features in Forbes and Dark Reading, and he is also the author of "Practical Social Engineering,"
+    as well as the creator of innovative OSINT tools. Gray continues to redefine cybersecurity and OSINT with his
+    technical skill and creative approaches.
