@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Trainings 2024
 ---
 
 # Trainings {{ site.data.training.year }}
