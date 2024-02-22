@@ -1,22 +1,21 @@
 - name: rocissa
   url: //https://www.rocissa.org/
   image: RocISSALogo-brief.png
-
 - name: sra
   url: https://sra.io/
   image: SRA-logo-primary.jpg
-
 - name: nuspire
   url: https://nuspire.com
   image: Nuspire_Logo_Web.jpg
-
 - name: sedara
   url: https://sedarasecurity.com
   image: Sedara_Logo.png
-
 - name: bluecycle
   url: https://www.bluecycle.net
   image: blue-cycle-horizontal.png
 - name: ICR
   url: https://icr-team.com/
   image: icr.png
+- name: RIT ESL Global Cybersecurity Insitute
+  url: https://www.rit.edu/cybersecurity
+  image: rit_esl_global_cybersecurity_institute.png
