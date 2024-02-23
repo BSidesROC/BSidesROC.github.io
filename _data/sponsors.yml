@@ -19,3 +19,6 @@
 - name: RIT ESL Global Cybersecurity Insitute
   url: https://www.rit.edu/cybersecurity
   image: rit_esl_global_cybersecurity_institute.png
+- name: MetaCTF
+  url: https://metactf.com/
+  image: MetaCTF.png
