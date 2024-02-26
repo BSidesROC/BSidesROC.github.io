@@ -86,7 +86,7 @@
     abstract: This is the story of how me and my friend gained a root shell on a lexmark printer for pwn2own. We’ll dive into the fields of web and memory corruption hunting. The talk is full full of firmware dumping and emulation, fuzzing, binary exploitation, and privesc.
     length: 50m
 
-- name: Miachel Weiskopff
+- name: Michael Weiskopff
   bio: Mr. Weiskopff is the Division Chief of the Extended Offerings and Projects Division of the DoD Defense Collaborative Information Sharing Environment (DCISE), operating within the Department of Defense Cyber Crime Center (DC3). DCISE is the action arm of DoD CIO’s Defense Industrial Base (DIB) Cyber Security – which helps protect Controlled Unclassified Information (CUI) on DIB networks. Michael Weiskopff is an adjunct professor at Utica University teaching cybersecurity for both graduate and under graduate students. Mr. Weiskopff holds a BS in IT from RIT and an MS in Cybersecurity from Utica University as well as COMPTIA A+, Net+, Sec+, GIAC GPEN certifications and a general class amateur radio license. Mr. Weiskopff has earned the Meritorious Civil Service Award, Joint Service Commendation Medal, National Intelligence Meritorious Unit Citation, Bronze Star medal, Iraqi Campaign Medal (with two campaign stars), Overseas Tour Ribbon (with a numeral three device), Army Commendation medal (with one oakleaf cluster), Combat Action Badge, Global War on Terror Service Medal, National Defense Service Medal, Retired Officer Association Award, and Boy Scouts of America Eagle Scout Award.
   talk:
     keynote: false
