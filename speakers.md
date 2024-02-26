@@ -26,3 +26,12 @@ medium.com/@marcellelee<br/>
 linkedin.com/in/marcellelee<br/>
 twitter.com/marcellelee<br/>
 infosec.exchange/@marcelle<br/>
+
+{% for speaker in site.data.speakers %}
+{% if speaker.talk.keynote == false %}
+{:.text-white}
+## {{ speaker.name }}
+
+{{ speaker.bio }}
+{% endif %}
+{% endfor %}
