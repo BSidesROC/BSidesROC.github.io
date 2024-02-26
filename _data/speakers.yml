@@ -1,0 +1,103 @@
+- name: Marcelle Lee
+  bio: test bio
+  talk:
+    keynote: true
+    title: "Beyond Ransomware: Examining the Shifting Cyber Landscape"
+    abstract: Ransomware has been around for what seems like forever and still organizations are struggling with the threat. But threat actors are crafting increasingly subtle and covert attacks. These stealthy threats pose significant challenges for traditional security measures, demanding heightened vigilance and innovative detection techniques. This talk will be a discussion of the realities of enterprise security - the landscape is shifting, are we up to the challenge?
+    length: 50m
+
+- name: Olivia Gallucci
+  bio: Olivia Gallucci is an offensive security engineer, freelance penetration tester, and security researcher. She is an undergraduate student at the Rochester Institute of Technology—double-majoring in Cybersecurity and Computer Science, and minoring in Free and Open Source Software and Freedom Culture—and ranks in the top 1% of her class. In addition, Olivia maintains a blog on security, open source software, and productivity. Outside of cybersecurity, she enjoys competitive sailing, political debate clubs, and biographies of famous computer nerds.
+  talk:
+    keynote: false
+    title: Exploit and Malicious Tool Development Utilizing Open Source Software
+    abstract: This talk demystifies (legal) exploit development, providing attendees with a comprehensive understanding of how corporate and freelance hackers utilize open source software (OSS) for offensive purposes. Here, the audience will delve into the mechanics of exploit development using OSS. Additionally, participants will gain insights into the tools and platforms commonly employed in creating exploits, walking through a step-by-step development process. Real-world examples underscore the significance of incorporating OSS into cybersecurity practices and the potential consequences of neglecting this aspect. The final segment sheds light on the common misconceptions surrounding professional exploit development, and provides a nuanced perspective on the tools and techniques involved.
+    length: 50m
+
+- name: Jack Hatwick
+  bio: Jack has been an infosec professional for almost 10 years. Lately he has been a vulnerability management leader for a fortune 1000 company.
+  talk:
+    keynote: false
+    title: "Styrofoam in a Landfill: CVSS Never Changes"
+    abstract: The days of “patch all the things” or “just patch the criticals” is over. These old practices no longer serve modern enterprise environments well. Zero days are now a common monthly and sometimes weekly occurrence, non-zero days are being weaponized faster than ever, and attackers continue to develop malware and exploits for old CVEs. Yet CVSS scores NEVER change. We have to change our methods, processes, and mindset to keep up.
+    length: 50m
+
+- name: Qasim Ijaz
+  bio: Qasim Ijaz is a Director of Offensive Security at Blue Bastion Security and specializes in healthcare security and penetration testing. He has conducted hundreds of penetration tests in small to large environments with a focus on networks and web applications testing. His areas of interest include healthcare security, Active Directory, cybersecurity policy, and the "dry" business side of hacking. Qasim is a penetration test lead during the day and a teacher in the after-hours. Qasim has presented and taught at cybersecurity conferences, including BSides and Blackhat, on offensive security topics.
+  talk:
+    keynote: false
+    title: Unleash the Hash Monster
+    abstract: Gobble Gobble! Active Directory loves spewing hashes, all kinds of them. This talk will focus on NetNTLM (or NTLM, call it what you will) hashes. We'll chat about how they can be obtained and used for privilege escalation and lateral movement.
+    length: 50m
+
+- name: Jeff Man
+  bio: Jeff is a respected Information Security advocate, advisor, evangelist, mentor, teacher, international speaker, keynoter, former host of Security & Compliance Weekly, co-host on Paul's Security Weekly, Tribe of Hackers (TOH) contributor, Certified National Security Agency Cryptanalyst, and a member of the Cabal of the Curmudgeons. Jeff currently serves as a PCI QSA and Trusted Advisor for Online Business Systems. He previously held security research, management and product development roles with NSA, the DoD and private-sector enterprises, and was a pioneering member of the first penetration testing "red team" at NSA. For the past twenty-eight years has been a pen tester, security architect, consultant, QSA, and PCI SME, providing consulting and advisory services to many of the nation's best known companies.
+  talk:
+    keynote: false
+    title: "Tales From the Crypt...Analyst: The After Life"
+    abstract: The speaker began his career in InfoSec at the National Security Agency first as a Cryptologist, designing and fielding the first software-based cryptosystem ever produced by NSA, and later becoming the primary architect of the first NSA Red Team. This talk will focus on his transition from NSA to the private sector in the early days of Information Security consulting. He will recount stories from the days of trying to convince companies to think about Information Security from a strategic perspective rather than just selling them a bunch of blinky boxes and telling them where to place them. Of course, we've solved all these problems from the early days...or maybe, just maybe there are still lessons to be learned.
+    length: 50m
+
+- name: Dan Megalo
+  bio: Dan is the head of cybersecurity for a biotech company. He is a seasoned professional with extensive experience in safeguarding digital landscapes across both public and private sectors. His dedication to practical and innovative strategies underscores his forward-thinking leadership style. He likes the challenge of navigating the complexities of cyber defense while delivering robust cybersecurity solutions that align with organizational goals.
+  talk:
+    keynote: false
+    title: "Zero Trust Unleashed: Halt the Hack with Microsoft Conditional Access"
+    abstract: "MFA is not enough. This presentation will explain how to use Microsoft Entra Conditional Access policies to protect against the primary methods attackers are using to access organizations: the use of stolen credentials and phishing."
+    length: 50m
+
+- name: Stephen Nelson
+  bio: Steve is a Penetration Tester at Wolf and Company's DenSecure group. He coordinates and conducts penetration testing services and red team operations for clients in various industries, including financial, healthcare, and software. His expertise includes internal, external, mobile, and web penetration testing, offensive tool development, offensive infrastructure development, and social engineering. Steve has over 2 years of experience performing security assessments. He holds such certifications as Certified Red Team Operator (CRTO), GIAC Mobile Security Analyst (GMOB), and eLearn Security Junior Penetration Tester (eJPT).
+  talk:
+    keynote: false
+    title: "Holistic Approach to Attack Surface Management: Protecting Your Personal and Corporate Digital Realms"
+    abstract: Attack Surface Management (ASM) has traditionally focused on internal processes, assisting corporations in assessing the scope of their network assets and identifying potential attack vectors. However, this presentation delves deeper, shedding light on the multifaceted nature of cyber threats in both personal and corporate domains. It emphasizes the importance of understanding what's on the network and how attackers can navigate from seemingly innocuous entry points to full-scale network compromise.
+    length: 50m
+
+- name: Matt Scheurer
+  bio: Matt Scheurer is a show host for the ThreatReel Podcast, and also works as an Assistant Vice President of Computer Security and Incident Response in a large enterprise environment. Matt has many years of hands-on technical experience, including Digital Forensics and Incident Response (DFIR). He volunteers as a "Hacking is NOT a Crime" Advocate and as a technical mentor for the Women's Security Alliance (WomSA). He has presented numerous Information Security topics at many technology meetup groups, prominent Information Security and Hacker conferences, including keynotes at the Information Security Summit and Queen City Con. Matt is also a 2019 comSpark "Rising Tech Stars Award" winner and was named a "Top 12 Hacking Influencer" by Bishop Fox in 2023.
+  talk:
+    keynote: false
+    title: Lies, Telephony, and Hacking History
+    abstract: You find yourself here at a BSides security conference, but have you ever wondered “How did we get here?” Once upon a time, not long ago, there was no cybersecurity industry or careers. This talk transports attendees on a retrospective journey through time to highlight the advancements which paved the way here. We further explore historic attack vectors to understand how they relate to the cyberattacks of today. Topics include when Social Engineering first intertwined with technology following previous milestones in telecommunications. Our expedition highlights the technological origins of Phone Phreaking, Computer Hacking, Social Engineering, and how these activities relate to modern attacks. The speaker brought numerous hardware relics from the past to show the crowd and demo throughout this presentation. Come learn about what the underground phone phreak and early computer hacker scenes were like, and get ready for some “Show & Telecom”!
+    length: 50m
+
+- name: Richard Smith
+  bio: Richard Smith is a Senior Consultant with Security Risk Advisors, working primarily on security data pipeline efficiency and onboarding clients into SRA's XDR solution, SCALR. This is his third year presenting at BSidesROC.
+  talk:
+    keynote: false
+    title: "Microsoft at your BEC and (API) Call: Auditing Mailbox Item Access for Incident Response"
+    abstract: Concerned about business email compromise (BEC) attacks? Until recently, organizations using Office 365 for email had no way to audit access to individual mailbox items unless they paid for the premium E5-level license. Under intense pressure, Microsoft has enabled all customers to access these logs - but accessing them and getting the data into an actionable format is still a daunting task. In this talk I'll show how you can leverage readily-available technologies to pull the mailbox audit logs into your SIEM and datalake solution, giving visibility into individual mailbox item access logs, and potentially reducing your PHI/PII exposure risk in the event of a cybersecurity incident.
+    length: 50m
+
+- name: Justin Taft
+  bio: Justin Taft is a hacker at heart, starting back in the Window 95 days. He initially broke into the scene by writing video game trainers, exploiting file inclusion bugs in PHP, and reversing with Soft Ice to make keygens. Over 20+ years, he focused his skills on software development & exploitation. A few achievements he’s proud of include gaining RCE by attacking shared memory through a GPU, and gaining RCE by Fragging Players in Counter-Strike via memory corruption. x
+  talk:
+    keynote: false
+    title: "PostScript Pirates: A tale of Memory Corruption"
+    abstract: This is the story of how me and my friend gained a root shell on a lexmark printer for pwn2own. We’ll dive into the fields of web and memory corruption hunting. The talk is full full of firmware dumping and emulation, fuzzing, binary exploitation, and privesc.
+    length: 50m
+
+- name: Miachel Weiskopff
+  bio: Mr. Weiskopff is the Division Chief of the Extended Offerings and Projects Division of the DoD Defense Collaborative Information Sharing Environment (DCISE), operating within the Department of Defense Cyber Crime Center (DC3). DCISE is the action arm of DoD CIO’s Defense Industrial Base (DIB) Cyber Security – which helps protect Controlled Unclassified Information (CUI) on DIB networks. Michael Weiskopff is an adjunct professor at Utica University teaching cybersecurity for both graduate and under graduate students. Mr. Weiskopff holds a BS in IT from RIT and an MS in Cybersecurity from Utica University as well as COMPTIA A+, Net+, Sec+, GIAC GPEN certifications and a general class amateur radio license. Mr. Weiskopff has earned the Meritorious Civil Service Award, Joint Service Commendation Medal, National Intelligence Meritorious Unit Citation, Bronze Star medal, Iraqi Campaign Medal (with two campaign stars), Overseas Tour Ribbon (with a numeral three device), Army Commendation medal (with one oakleaf cluster), Combat Action Badge, Global War on Terror Service Medal, National Defense Service Medal, Retired Officer Association Award, and Boy Scouts of America Eagle Scout Award.
+  talk:
+    keynote: false
+    title: Is Physical Security Also Cybersecurity?
+    abstract: If you look at security like a Venn diagram, you will notice several aspects of security over lap. So the question is, how does physical security overlap with cybersecurity? Here we will discuss one of the ways this can happen through radio waves.
+    length: 25m
+
+- name: Gary Freas
+  bio: Gary Freas is a senior cyber threat intelligence analyst at Mandiant (Now part of Google Cloud). He has 15 years experience in security operations, spending the better part of the last seven tracking nation-state level threat actors, focusing primarily on the DPRK problem.
+  talk:
+    keynote: false
+    title: DMARC-y Mark and Phishy Bunch
+    abstract: Despite all the investments and implementations of anti-phishing solutions, DPRK threat actors are easily bypassing these measures by exploiting organizations missing DMARC policies. In this session, I'll provide an overview on the importance of implementing a DMARC policy, showcase inauthentic email samples that spoofed legitimate orgs, as well as reveal an on-going campaign by a North Korean nation-state actor that's leveraging poor DMARC practices at think tanks, NGOs, and other government-affiliated entities to successfully target experts involved in Korean affairs, SEAsian affairs, and nuclear non-proliferation efforts. Lastly, you'll learn the basics of properly configuring SPF/DKIM/DMARC policies, and strategies for working with your IT teams to implement these changes.
+    length: 25m
+
+- name: Eric Woodruff
+  bio: Throughout his 23-year career in the IT field, Eric has sought out and held a diverse range of roles, including technical manager in the public sector, Sr. Premier Field Engineer at Microsoft, and Security and Identity Architect in the Microsoft Partner Ecosystem. Currently he serves as a Product Technical Specialist at Semperis, focusing on ITDR and cloud identity resilience. Eric is a Microsoft MVP for security, recognized for his expertise in the Microsoft identity ecosystem. Outside of work, Eric supports the professional community, providing his insights and expertise at conferences, participating on the IDPro Body of Knowledge Committee, and blogging about Entra and related cloud security topics.
+  talk:
+    keynote: false
+    title: Active Directory ain’t going anywhere, so we might as well secure it
+    abstract: Despite the hopes and dreams of moving to a cloud-centric identity, the reality is Active Directory (AD) is not retiring anytime soon for the organizations that use it. The complexities of how woven into the fabric of a business Active Directory is will put the brakes on even the most ambitious cloud-centric modernization programs. And while Active Directory tends to receive no love from the business, it certainly does from the threat actors – Mandiant has reported that 90% of all breaches they investigate involve Active Directory. Since things are not changing anytime soon, we might as well give AD a little bit of the security TLC. In this session we’ll explore the most common blockers preventing organizations from parting ways with Active Directory. And since this staple directory service is sticking around, we’ll look at the most common threat patterns against Active Directory, and the critical security controls to help keep our users and business secure for as long as AD is here to stay.
+    length: 50m
