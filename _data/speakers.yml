@@ -6,6 +6,14 @@
     abstract: Ransomware has been around for what seems like forever and still organizations are struggling with the threat. But threat actors are crafting increasingly subtle and covert attacks. These stealthy threats pose significant challenges for traditional security measures, demanding heightened vigilance and innovative detection techniques. This talk will be a discussion of the realities of enterprise security - the landscape is shifting, are we up to the challenge?
     length: 50m
 
+- name: Gary Freas
+  bio: Gary Freas is a senior cyber threat intelligence analyst at Mandiant (Now part of Google Cloud). He has 15 years experience in security operations, spending the better part of the last seven tracking nation-state level threat actors, focusing primarily on the DPRK problem.
+  talk:
+    keynote: false
+    title: DMARC-y Mark and Phishy Bunch
+    abstract: Despite all the investments and implementations of anti-phishing solutions, DPRK threat actors are easily bypassing these measures by exploiting organizations missing DMARC policies. In this session, I'll provide an overview on the importance of implementing a DMARC policy, showcase inauthentic email samples that spoofed legitimate orgs, as well as reveal an on-going campaign by a North Korean nation-state actor that's leveraging poor DMARC practices at think tanks, NGOs, and other government-affiliated entities to successfully target experts involved in Korean affairs, SEAsian affairs, and nuclear non-proliferation efforts. Lastly, you'll learn the basics of properly configuring SPF/DKIM/DMARC policies, and strategies for working with your IT teams to implement these changes.
+    length: 25m
+
 - name: Olivia Gallucci
   bio: Olivia Gallucci is an offensive security engineer, freelance penetration tester, and security researcher. She is an undergraduate student at the Rochester Institute of Technology—double-majoring in Cybersecurity and Computer Science, and minoring in Free and Open Source Software and Freedom Culture—and ranks in the top 1% of her class. In addition, Olivia maintains a blog on security, open source software, and productivity. Outside of cybersecurity, she enjoys competitive sailing, political debate clubs, and biographies of famous computer nerds.
   talk:
@@ -84,14 +92,6 @@
     keynote: false
     title: Is Physical Security Also Cybersecurity?
     abstract: If you look at security like a Venn diagram, you will notice several aspects of security over lap. So the question is, how does physical security overlap with cybersecurity? Here we will discuss one of the ways this can happen through radio waves.
-    length: 25m
-
-- name: Gary Freas
-  bio: Gary Freas is a senior cyber threat intelligence analyst at Mandiant (Now part of Google Cloud). He has 15 years experience in security operations, spending the better part of the last seven tracking nation-state level threat actors, focusing primarily on the DPRK problem.
-  talk:
-    keynote: false
-    title: DMARC-y Mark and Phishy Bunch
-    abstract: Despite all the investments and implementations of anti-phishing solutions, DPRK threat actors are easily bypassing these measures by exploiting organizations missing DMARC policies. In this session, I'll provide an overview on the importance of implementing a DMARC policy, showcase inauthentic email samples that spoofed legitimate orgs, as well as reveal an on-going campaign by a North Korean nation-state actor that's leveraging poor DMARC practices at think tanks, NGOs, and other government-affiliated entities to successfully target experts involved in Korean affairs, SEAsian affairs, and nuclear non-proliferation efforts. Lastly, you'll learn the basics of properly configuring SPF/DKIM/DMARC policies, and strategies for working with your IT teams to implement these changes.
     length: 25m
 
 - name: Eric Woodruff
