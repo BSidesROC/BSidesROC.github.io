@@ -22,3 +22,7 @@
 - name: MetaCTF
   url: https://metactf.com/
   image: MetaCTF.png
+- name: Hak5
+  url: https://shop.hak5.org
+  image: Hak5_White-1024x576.png
+  
