@@ -45,21 +45,19 @@
     title: "Tales From the Crypt...Analyst: The After Life"
     abstract: The speaker began his career in InfoSec at the National Security Agency first as a Cryptologist, designing and fielding the first software-based cryptosystem ever produced by NSA, and later becoming the primary architect of the first NSA Red Team. This talk will focus on his transition from NSA to the private sector in the early days of Information Security consulting. He will recount stories from the days of trying to convince companies to think about Information Security from a strategic perspective rather than just selling them a bunch of blinky boxes and telling them where to place them. Of course, we've solved all these problems from the early days...or maybe, just maybe there are still lessons to be learned.
     length: 50m
-
+- name: Christopher Maulding
+  bio: Chris is the CTO of AlchemyCore LLC, he has been working in information security for 10 years and continues to love the changes and challenges he faces in the industry. When he is not learning or working he is spending time with his family and friends.
+  talk:
+    keynote: false
+    title: "Paths to a Job in Security"
+    abstract: "No one takes the same path to their dream job. We will cover a three people in this talk who tool different paths to their current job in information security showing that there is no single way to get into the field."  
+    length: 50m  
 - name: Dan Megalo
   bio: Dan is the head of cybersecurity for a biotech company. He is a seasoned professional with extensive experience in safeguarding digital landscapes across both public and private sectors. His dedication to practical and innovative strategies underscores his forward-thinking leadership style. He likes the challenge of navigating the complexities of cyber defense while delivering robust cybersecurity solutions that align with organizational goals.
   talk:
     keynote: false
     title: "Zero Trust Unleashed: Halt the Hack with Microsoft Conditional Access"
     abstract: "MFA is not enough. This presentation will explain how to use Microsoft Entra Conditional Access policies to protect against the primary methods attackers are using to access organizations: the use of stolen credentials and phishing."
-    length: 50m
-
-- name: Stephen Nelson
-  bio: Steve is a Penetration Tester at Wolf and Company's DenSecure group. He coordinates and conducts penetration testing services and red team operations for clients in various industries, including financial, healthcare, and software. His expertise includes internal, external, mobile, and web penetration testing, offensive tool development, offensive infrastructure development, and social engineering. Steve has over 2 years of experience performing security assessments. He holds such certifications as Certified Red Team Operator (CRTO), GIAC Mobile Security Analyst (GMOB), and eLearn Security Junior Penetration Tester (eJPT).
-  talk:
-    keynote: false
-    title: "Holistic Approach to Attack Surface Management: Protecting Your Personal and Corporate Digital Realms"
-    abstract: Attack Surface Management (ASM) has traditionally focused on internal processes, assisting corporations in assessing the scope of their network assets and identifying potential attack vectors. However, this presentation delves deeper, shedding light on the multifaceted nature of cyber threats in both personal and corporate domains. It emphasizes the importance of understanding what's on the network and how attackers can navigate from seemingly innocuous entry points to full-scale network compromise.
     length: 50m
 
 - name: Matt Scheurer
