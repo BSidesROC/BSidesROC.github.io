@@ -25,4 +25,7 @@
 - name: Hak5
   url: https://shop.hak5.org
   image: Hak5_White-1024x576.png
+- name: Pentesterlab
+  url: https://pentesterlab.com/
+  image: pentesterlab_logo_text_black.svg
   
