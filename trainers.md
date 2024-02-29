@@ -4,7 +4,8 @@ layout: default
 {:.text-white}
 # Trainers
 
-{% for trainer in site.data.trainers %}
+{% for class in site.data.training.classes %}
+{% for trainer in class.instructors %}
 {:.text-white .mb-2} 
 ### {{ trainer.name }}
 
@@ -12,4 +13,5 @@ layout: default
 {{ trainer.bio }}
 
 ***
+{% endfor %}
 {% endfor %}

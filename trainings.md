@@ -31,20 +31,14 @@ Date: {{ site.data.training.date }}
 {:.h5 .mb-2}
 Length: {{ class.time_frame }}
 
-{% if class.instructor %}
-{:.h5 .mb-2}
-Instructor: {{ class.instructor }}
-{% endif %}
 
-{% if class.instructors %}
 {:.h5}
 Instructors:
 <ul class="mb-2">
 {% for instructor in class.instructors %} 
-<li>{{ instructor }}</li>
+<li>{{ instructor.name }}</li>
 {% endfor %}
 </ul>
-{% endif %}
 
 {{ class.description }}
 
