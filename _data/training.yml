@@ -52,7 +52,8 @@ classes:
             student: 'Pay-what-you-can, minimum $25 (requires valid .edu address)'
     -   title: 'Social Engineering Crash Course'
         time_frame: '8am - Noon'
-        instructor: 'Joe Gray'
+        instructors:
+            - *joe
         description: |
             This intensive 4-hour crash course delves into the dynamic world of social engineering, offering a practical and
             insightful exploration of influence, manipulation, and human psychology. Based on the principles outlined in
