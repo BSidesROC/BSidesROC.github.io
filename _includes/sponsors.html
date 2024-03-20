@@ -5,7 +5,7 @@
         <h3 class="sidebar-heading text-center">Sponsors</h3>
         <ul class="flex-column list-unstyled ml-md-auto">
             {% for sponsor in site.data.sponsors %}
-            <li style="height: 81px; max-width: 250px;" class="mt-3">
+            <li style="{{ sponsor.style }}" class="mt-3">
                 <a href="{{ sponsor.url }}" target="_blank">
                     <img src="/assets/img/sponsors/{{ sponsor.image }}" height="100%" width="100%"/>
                 </a>
