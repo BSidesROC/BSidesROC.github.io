@@ -57,4 +57,4 @@
 - name: Frederick Ullman
   url: "#"
   image: memory_of_don_ullman.png
-  style: "height:250px; max-width: 250px;"
+  style: "max-height:250px; max-width: 250px;"
