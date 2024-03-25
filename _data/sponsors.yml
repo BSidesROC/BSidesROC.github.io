@@ -58,3 +58,6 @@
   url: "#"
   image: memory_of_don_ullman.png
   style: "max-height:250px; max-width: 250px;"
+- name: Black Hills Information Security
+  url: https://www.blackhillsinfosec.com/
+  image: BHIS_TEXT.png
