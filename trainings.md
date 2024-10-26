@@ -3,13 +3,19 @@ layout: default
 title: Trainings 2024
 ---
 
+{% if site.data.training.tbd %}
+# Trainings
+
+{:.mb-n1 .text-warning}
+## TBD
+
+{% else %}
 # Trainings {{ site.data.training.year }}
 
 {:.mb-3}
 <h1 class="mb-3 text-white">Get Your Training Tickets <a href="{{ site.data.training.url }}" style="color: green;">Here!</a></h1>
 
 {:.text-white .mb-n1}
-
 ### Training Location: {{ site.data.training.location }}
 
 {:.mb-n1 .text-warning}
@@ -55,3 +61,6 @@ Price: {{ class.prices.regular }}
 
 ***
 {% endfor %}
+{% endif %}
+
+
