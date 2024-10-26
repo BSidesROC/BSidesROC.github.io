@@ -1,0 +1,6 @@
+sed -i -e "s/
+\(<span id=\"unlockedCount\">\)\(<\/span>\)/
+\1${unlockedCount}\2/
+g" index.html
+
+sed -i -e 's|\"\/assets\/\([^\"]+\)\"|\/assets\/archive\/2024\/\1\"|g' index.html
