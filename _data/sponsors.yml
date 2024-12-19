@@ -2,3 +2,7 @@
   url: https://orbitalfire.com/
   image: OrbitalFire_Logo_Horizontal_Color.png
   style: "height: 87px; max-width: 487px;"
+- name: RocISSA
+  url: https://www.rocissa.org/
+  image: RocISSALogo-brief.png
+  style: "height: 81px; max-width: 250px;"
