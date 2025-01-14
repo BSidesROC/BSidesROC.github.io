@@ -14,7 +14,7 @@ layout: default
 
 {:.mt-3 .text-white}
 #### IMPORTANT DATES
-- CFP Closes: 01/12/2025
+- CFP Closes: 01/24/2025
 - CFP Responses Sent: 02/07/2025
 
 {:.text-white}
