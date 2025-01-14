@@ -12,7 +12,7 @@ layout: default
 
 {:.mt-3 .text-white}
 #### IMPORTANT DATES
-- CFT Closes: 01/12/2025
+- CFT Closes: 01/24/2025
 - CFT Responses Sent: 02/07/2025
 
 
