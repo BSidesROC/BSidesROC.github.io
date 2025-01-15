@@ -14,3 +14,7 @@
   url: https://icr-team.com/
   image: icr.png
   style: "height: 81px; max-width: 250px;"
+- mame: University of Rochester
+  url: https://www.rochester.edu/
+  image: UR_Logo_Light.png
+  style: "height: 81px; max-width: 120px; margin-right: auto; margin-left: auto"
