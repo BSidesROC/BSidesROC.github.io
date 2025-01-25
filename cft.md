@@ -5,7 +5,7 @@ layout: default
 # BSidesROC Call For Trainers!
 
 {:.text-white .text-center}
-# \*** [Click Here to Submit!](https://docs.google.com/forms/d/e/1FAIpQLSejU2Vqwiw2vVTxWEEFC9hE9uhs68o96Tt355P0Zw3I-VayrA/viewform?usp=sf_link) **\*
+# \*** Now Closed! **\*
 
 {:.mt-3}
 #### BSidesROC is looking for trainers for our 2025 event.

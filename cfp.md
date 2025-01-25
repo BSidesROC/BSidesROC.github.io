@@ -5,7 +5,7 @@ layout: default
 # BSidesROC Call For Presenters
 
 {:.text-white .text-center}
-# \*** [Click Here to Submit!](https://docs.google.com/forms/d/e/1FAIpQLSdbVMIzhJKw0zq_9BsIUvWPj5o9L4qqpAdVcjr5c4L_do_F4g/viewform?usp=sf_link) **\*
+# \*** Now Closed! **\*
 
 {:.mt-3 }
 #### BSidesROC is looking for presenters for our 2025 event.
