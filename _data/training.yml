@@ -10,8 +10,10 @@ trainers:
       Bachelor of Science in Network and Computer Security at SUNY Polytechnic Institute, Andrew combines academic 
       excellence with hands-on experience in cutting-edge technologies. Andrew has gained practical expertise through a
       5G research internship, where he conducted experiments on a 5G testbed and co-authored a research paper on 5G 
-      security and trends. Additionally, he has earned the Google Cybersecurity Professional Certificate, reflecting his
-      commitment to advancing his technical skills.
+      security and trends. Additionally, he has earned the Google Cybersecurity Professional Certificate, reflecting 
+      his commitment to advancing his technical skills" to "Additionally, he has won multiple awards at SUNY Polytechnic
+      Institute for his research, including 1st place in the Engineering and Technology category at the annual student
+      showcase.
   -  &saurabh
     name: Saurabh Singh
     bio: |
@@ -41,7 +43,7 @@ classes:
         experimentation platform where researchers can learn more about mobile networks with simulated equipment that 
         matches today's networking standards. You will learn more about the core components needed to create a 5G 
         network and experiment with a wireless mobile network.
-      requirements: Laptop with latest version of Ubuntu installed
+      requirements: Laptop with latest version of Ubuntu installed or a laptop that can run a virtual machine with Ubuntu.
       prices:
         regular: '$50'
   -   title: 'A Bug Hunters Way of Assessing Web application Security'
