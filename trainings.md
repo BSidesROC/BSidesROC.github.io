@@ -12,8 +12,10 @@ title: Trainings 2024
 {% else %}
 # Trainings {{ site.data.training.year }}
 
+{% if site.data.training.url %}
 {:.mb-3}
 <h1 class="mb-3 text-white">Get Your Training Tickets <a href="{{ site.data.training.url }}" style="color: green;">Here!</a></h1>
+{% endif %}
 
 {:.text-white .mb-n1}
 ### Training Location: {{ site.data.training.location }}
@@ -47,9 +49,14 @@ Instructors:
 </ul>
 
 {{ class.description }}
+{% if class.requirements %}
+{:.h5 .mb2}
+Requirements:
+
+{{ class.requirements }}
+{% endif %}
 
 {:.text-white}
-
 {% if class.prices.student %}
 {:.text-white}
 Price: {{ class.prices.regular }}<br>

@@ -1,7 +1,7 @@
 - name: OrbitalFire Cybersecurity
   url: https://orbitalfire.com/
   image: OrbitalFire_Logo_Horizontal_Color.png
-  style: "height: 87px; max-width: 487px;"
+  style: "height: 81px; max-width: 250px;"
 - name: RocISSA
   url: https://www.rocissa.org/
   image: RocISSALogo-brief.png
@@ -14,7 +14,19 @@
   url: https://icr-team.com/
   image: icr.png
   style: "height: 81px; max-width: 250px;"
-- mame: University of Rochester
+- name: University of Rochester
   url: https://www.rochester.edu/
   image: UR_Logo_Light.png
   style: "height: 81px; max-width: 120px; margin-right: auto; margin-left: auto"
+- name: SANS Offensive Operations
+  url: https://www.sans.org/offensive-operations/
+  image: SANS-Offensive-Operations_Logo-Black-wSANSText.png
+  style: "height: 81px; max-width: 250px;"
+- name: No Starch Press
+  url: https://nostarch.com
+  image: nostarch-2018-bronze.png
+  style: "height: 49px; max-width: 250px; background-color: #292929"
+- name: Hotiron Creative
+  url: https://hotironcreative.com/
+  image: HotironCreative_RGB_vector_WEB.svg
+  style: "height: 81px; max-width: 250px;"

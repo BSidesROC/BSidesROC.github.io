@@ -1,5 +1,73 @@
 year: 2025
 date: Friday, March 21nd 2025
-url: https://events.eventzilla.net/e/bsides-rochester-2024--trainings-2138608764
+url:
 location: Rochester Institute of Technology 1 Lomb Memorial Drive, Rochester, NY, 14623, United States
-tbd: true
+trainers:
+  - &andrew
+    name: Andrew Fox
+    bio: |
+      Andrew Fox is a dedicated, hardworking information technology student focusing on cybersecurity. Finishing his 
+      Bachelor of Science in Network and Computer Security at SUNY Polytechnic Institute, Andrew combines academic 
+      excellence with hands-on experience in cutting-edge technologies. Andrew has gained practical expertise through a
+      5G research internship, where he conducted experiments on a 5G testbed and co-authored a research paper on 5G 
+      security and trends. Additionally, he has earned the Google Cybersecurity Professional Certificate, reflecting his
+      commitment to advancing his technical skills.
+  -  &saurabh
+    name: Saurabh Singh
+    bio: |
+      My name is Saurabh, experienced bug hunter and penetration tester with over 6+ years of expertise in identifying
+      critical vulnerabilities across web applications within the BFSI sector. Having contributed to bug bounty programs
+      and security communities. Expertise includes delivering IT security consulting, best practices and standard 
+      implementation in SAST & DAST,vulnerability assessment, penetration testing and regulatory compliance.
+  -   &tyler
+    name: Tyler Hudak
+    bio: |
+      Tyler Hudak serves as the Director of Incident Response at Inversion6, where he focuses on uncovering the root
+      causes of security incidents and safeguarding organizations from emerging threats. With a career dedicated to 
+      leading top-performing incident response teams, managing security operations, and conducting in-depth forensic 
+      investigations, Tyler has built a reputation as a trusted expert in the field. Outside of work, he enjoys 
+      immersing himself in RPGs and board games, combining strategy and creativity in both his professional and personal
+      life.
+classes:
+  -   title: 'Open Source 5G Network Deployment'
+      time_frame: '8:00 a.m. - Noon'
+      instructors:
+        - *andrew
+      description: |
+        In the networking industry, there is a lack of tools and software that provide a testing platform to experiment
+        with mobile networks. Without these platforms to experiment with, researchers can only present concepts for 
+        changes to mobile networks and cannot prove their work is practical. Open AI Cellular (OAIC) provides the 
+        software and tools to install, deploy, and configure a 5G network. OAIC is a 5G network research and 
+        experimentation platform where researchers can learn more about mobile networks with simulated equipment that 
+        matches today's networking standards. You will learn more about the core components needed to create a 5G 
+        network and experiment with a wireless mobile network.
+      requirements: Laptop with latest version of Ubuntu installed
+      prices:
+        regular: '$50'
+  -   title: 'A Bug Hunters Way of Assessing Web application Security'
+      time_frame: '8am - Noon'
+      instructors:
+        - *saurabh
+      description: |
+        This session will delve into the step-by-step methodology employed by bug hunters and penetration testers to 
+        assess the security of web applications. By focusing on practical techniques and tools, the talk will empower
+        attendees with actionable knowledge to find vulnerabilities and enhance the overall security of their
+        applications. The session will focus on how to use this tools in real applications to find security issues in
+        real-time with few live targets and vulnerable machines. This session also focuses on understanding multiple
+        types of attack vectors on a single vulnerability from OWASP, SANS and Business logic flaws.
+      requirements: Laptop
+      prices:
+        regular: '$50'
+  -   title: 'Introduction to Computer Forensics'
+      time_frame: '8am to 5pm'
+      instructors:
+        - *tyler
+      description: |
+        Computer forensics and investigation skills have become a top priority for many organizations. As cyber threats
+        continue to grow in complexity, organizations need skilled professionals who can analyze digital evidence, 
+        uncover malicious activity, and respond to security incidents effectively. This course teaches students the
+        skills to analyze core Windows forensics artifacts, enabling them to help their organization combat ongoing
+        cybersecurity threats.
+      requirements: Laptop
+      prices:
+        regular: '$50'
