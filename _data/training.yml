@@ -15,10 +15,13 @@ trainers:
   -  &saurabh
     name: Saurabh Singh
     bio: |
-      My name is Saurabh, experienced bug hunter and penetration tester with over 6+ years of expertise in identifying
-      critical vulnerabilities across web applications within the BFSI sector. Having contributed to bug bounty programs
-      and security communities. Expertise includes delivering IT security consulting, best practices and standard 
-      implementation in SAST & DAST,vulnerability assessment, penetration testing and regulatory compliance.
+      Saurabh is a cybersecurity professional with over 6 years of experience in penetration testing, software 
+      development, red teaming, and bug bounty. He specializes in identifying critical vulnerabilities across web 
+      applications and delivering IT security consulting, including VAPT, source code review, SAST/DAST security 
+      solutions, and modern cross-platform development. He has actively contributed to various security communities and 
+      bug bounty programs and has worked closely with organizations to support remediation efforts and achieve 
+      regulatory compliance. Currently, he is pursuing his MS in Management Information Systems at SUNY Buffalo, further
+      strengthening his expertise in security and technology management.
   -   &tyler
     name: Tyler Hudak
     bio: |
