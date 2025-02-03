@@ -12,9 +12,9 @@ title: Trainings 2024
 {% else %}
 # Trainings {{ site.data.training.year }}
 
-{% if site.data.training.url %}
+{% if site.data.config.tickets.attendance %}
 {:.mb-3}
-<h1 class="mb-3 text-white">Get Your Training Tickets <a href="{{ site.data.training.url }}" style="color: green;">Here!</a></h1>
+<h1 class="mb-3 text-white">Get Your Training Tickets <a href="{{ site.data.config.tickets.attendance }}" style="color: green;">Here!</a></h1>
 {% endif %}
 
 {:.text-white .mb-n1}
