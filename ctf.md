@@ -4,7 +4,7 @@ layout: default
 
 {:.mb-3 .text-white}
 # Graylog
-<img src="/assets/img/sponsors/CTFLogsintheShellLogo1920w.png" alt="Graylog" style="height:339px;  width:276px;" class="mt-2">
+<img src="/assets/img/sponsors/CTF_LogsintheShell.jpg" alt="Graylog" style="height:226.04px;  width:276px;" class="mt-2">
 
 Put your gray matter to the test at Graylog’s "Logs in the Shell" Capture The Flag (CTF) event! Immerse yourself in our virtual sandbox environment, where you’ll take on unique and captivating puzzles sure to entertain and challenge your wit and skill in data analytics and cybersecurity.
 
