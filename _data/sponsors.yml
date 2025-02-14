@@ -30,3 +30,11 @@
   url: https://hotironcreative.com/
   image: HotironCreative_RGB_vector_WEB.svg
   style: "height: 81px; max-width: 250px;"
+- name: Graylog
+  url: https://graylog.org
+  image: CTFLogsintheShellLogo1920w.png
+  style: "height: 113.04px; max-width: 138px; margin-right: auto; margin-left: auto;"
+- name: MetaCTF
+  url: https://metactf.com
+  image: metactf-logo-new.png
+  style: "height: "

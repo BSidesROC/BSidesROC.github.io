@@ -1,16 +1,9 @@
-- name: Dennis Labossiere
-  bio: "Dennis is a Director at KPMG within its cyber threat management practice with over 9 years of DFIR and consulting experience. He is currently GCFE and GCFA certified and has assisted clients with investigating network intrusions, ransomware and supply chain attacks, business email compromises, and employee data theft cases. In addition, he has helped clients with incident readiness and planning including developing and delivering cyber tabletops. One of his passions in cybersecurity is threat hunting and detection engineering and he has used that passion to help clients build out detection capabilities and train SOC analysts."
+- name: Velizar Demirev
+  bio: "For the past four years I've worked at Cloud Storage Security supporting customers, researching security, and doing anything that's needed to help keep the company moving."
   talk:
     keynote: false
-    title: "Investigating a Malicious Script in Microsoft Intune: A DFIR Case Study"
-    abstract: "The proliferation of cloud-based solutions has significantly transformed the landscape of enterprise security, with Microsoft Intune emerging as a pivotal tool for device and application management. This Digital Forensics and Incident Response (DFIR) case study delves into the forensic investigation of a malicious script within Microsoft Intune, highlighting procedural insights and analytical techniques. The incident, which occurred in 2023, involved unauthorized access to a client's Azure tenant by Scattered Spider. This presentation discusses the forensic analysis conducted to recreate the attack and understand its impact. This presentation describes baseline configurations, forensic tools, and methodologies deployed to detect and analyze the attack. Key technical aspects discussed include leveraging the Graph API, tracking user actions, modification timestamps, and decoding PowerShell script contents with CyberChef."
-    length: 50 min
-- name: Tyler Hudak
-  bio: "Tyler Hudak serves as the Director of Incident Response at Inversion6, where he focuses on uncovering the root causes of security incidents and safeguarding organizations from emerging threats. With a career dedicated to leading top-performing incident response teams, managing security operations, and conducting in-depth forensic investigations, Tyler has built a reputation as a trusted expert in the field. Outside of work, he enjoys immersing himself in RPGs and board games, combining strategy and creativity in both his professional and personal life."
-  talk:
-    keynote: false
-    title: "Forensic Analysis of Microsoft Quick Assist"
-    abstract: "Attackers are utilizing Microsoft Quick Assist to obtain an initial foothold on systems, so it is imperative for cyber security analysts to understand it. This talk will discuss Quick Assist, how it is used by attackers, and what Quick Assist artifacts exist on a compromised system that can be used to aid an investigation, and how organizations can protect themselves from malicious usage of Quick Assist."
+    title: "Forensics after an object storage breach: Investigating Cloud Storage Misconfigurations and Ransomware Attacks"
+    abstract: "Cloud storage is the backbone of modern businesses, but its convenience comes with risks. Misconfiguration and ransomware attacks on services like S3, EBS, EFS, FSx, Azure Blobs, and GCP Buckets are becoming alarmingly common, leaving organizations scrambling to respond. This session will equip attendees with the tools and strategies to investigate these breaches effectively. Learn how to identify the root cause, analyze access logs, assess the impact, and document findings—plus learn about building a recovery and prevention plan."
     length: 50 min
 - name: Mark El-Khoury
   bio: "Mark started as an offensive security consultant, doing penetration testing and code and design reviews. Mark then expanded his skillset into the defensive side, leading cybersecurity at various organizations and industries, including: Gaming, fintech, and biometrics. Mark is a conference speaker, holds security certifications, and was an instructor at a Columbia University cybersecurity bootcamp for over four years. Mark is now Director of Security Engineering at Movable Ink."
@@ -19,20 +12,6 @@
     title: "CRXaminer - Deep dive into Chrome extensions (+tool)"
     abstract: "You spend your time configuring HTTP headers and hardening your containers, meanwhile your CFO just downloaded a Chrome extension to make the font in Gmail larger. What are Chrome extensions, exactly? We'll dive into details, including: format, contents, static analysis with custom rules, threat modeling (when does this even matter?), and in general what to look for. We'll cover some historical malicious extensions and how they worked (incl. on red teams). We'll then demo a tool I've just released for this: CRXaminer (https://crxaminer.tech, WIP) and how you can immediately start using it. We'll finally do some data analysis on statistics we've uncovered by using this tool at scale on many extensions, and uncover general trends and findings."
     length: 25 min
-- name: Devon Kerr
-  bio: "Devon Kerr is Elastic’s Director of Threat Research and the founder of Elastic Security Labs, a team of researchers with expertise in the malware, intelligence, vulnerability research, incident response, and security engineering expertise. In addition to monitoring global telemetry to identify and disrupt adversaries, he and his team develop mitigations and capabilities for Elastic Security solutions and its users, discover previously-unknown threats,  track groups and campaigns, and coordinates security research across Elastic Security to help democratize access to knowledge and resources. Devon formerly led the Endgame Response applied research team and held technical roles at FireEye and Mandiant leading incident response and eviction efforts across practically all industry verticals and regions."
-  talk:
-    keynote: false
-    title: "Peace, prosperity, and espionage: ASEAN and BRICS targeted by the People’s Republic of China"
-    abstract: "In this presentation, attendees of all experience levels will receive an overview from Elastic Security Labs that describes long-running PRC espionage operations impacting members of the ASEAN and BRICS political and economic organizations. This presentation will describe conventional and novel threat capabilities, as well as the major motivating factors behind these campaigns."
-    length: 50 min
-- name: Velizar Demirev
-  bio: "For the past four years I've worked at Cloud Storage Security supporting customers, researching security, and doing anything that's needed to help keep the company moving."
-  talk:
-    keynote: false
-    title: "Forensics after an object storage breach: Investigating Cloud Storage Misconfigurations and Ransomware Attacks"
-    abstract: "Cloud storage is the backbone of modern businesses, but its convenience comes with risks. Misconfiguration and ransomware attacks on services like S3, EBS, EFS, FSx, Azure Blobs, and GCP Buckets are becoming alarmingly common, leaving organizations scrambling to respond. This session will equip attendees with the tools and strategies to investigate these breaches effectively. Learn how to identify the root cause, analyze access logs, assess the impact, and document findings—plus learn about building a recovery and prevention plan."
-    length: 50 min
 - name: Sarah Hayes
   bio: "Sarah Hayes is a dedicated digital forensics professional with a deep passion for IoT forensics. As a Digital Forensic Researcher at Hexordia, she specializes in analyzing artifacts from IoT devices, exploring digital forensic data sources, developing and teaching comprehensive curricula and exams for both in-person and virtual IoT training programs. She has completed groundbreaking research on devices such as the Oura Ring and Facebook Portal. Her research has been presented at multiple conferences including SANS DFIR Summit and IACIS. Her expertise contributes to advancing forensic education and the understanding of IoT technologies in the digital forensics field."
   talk:
@@ -40,26 +19,12 @@
     title: "Beyond Health Tracking Exploring the Forensic Potential of Oura Ring Data"
     abstract: "Ever wonder what personal health devices, like the Oura Ring, might reveal in an investigation? Join Sarah Hayes of Hexordia as she dives into the fascinating world of wearable forensics, with a focus on the Oura Ring. Discover how devices designed to track sleep, heart rate, and activity can hold critical clues, from reconstructing timelines to corroborating events. Learn about the tools and techniques used to extract and analyze data, and explore the potential of wearables as key pieces of evidence in modern investigations."
     length: 25 min
-- name: Zach Malinich
-  bio: "Zach a.k.a “UberZachAttack” is a PSU alum and works within offensive security. He holds various certifications and has a specialty on phishing campaigns."
+- name: Tyler Hudak
+  bio: "Tyler Hudak serves as the Director of Incident Response at Inversion6, where he focuses on uncovering the root causes of security incidents and safeguarding organizations from emerging threats. With a career dedicated to leading top-performing incident response teams, managing security operations, and conducting in-depth forensic investigations, Tyler has built a reputation as a trusted expert in the field. Outside of work, he enjoys immersing himself in RPGs and board games, combining strategy and creativity in both his professional and personal life."
   talk:
     keynote: false
-    title: "Discord OSINT: Using the Power of Empathy Banana"
-    abstract: "OSINT in Discord may seem limited, but with techniques like chat history searches and profile reviews, you can uncover linked accounts. By analyzing the servers a user joins, you can infer their experience, interests, and even location. However, scaling this approach is challenging until Spy.pet was disclosed in April. I will go over its capabilities, insights on Discord OSINT at scale, and OPSEC."
-    length: 50 min
-- name: Kartik Khurana
-  bio: "Kartik Khurana is a dedicated cybersecurity professional pursuing a Master’s in Cybersecurity (Analytics and Operations) at Pennsylvania State University, specializing in Governance, Risk, and Compliance (GRC). With five internships in penetration testing, auditing, cloud security, and identity and access management, he has built extensive hands-on experience. At Health Catalyst, Kartik led projects enhancing cloud security metrics and conducting HiTrust and SOC 2 Type II audits, demonstrating expertise in navigating compliance frameworks and strengthening security infrastructures. Proficient with platforms like AWS, Crowdstrike, and Prisma Cloud, he effectively mitigates diverse cybersecurity challenges. His 4.00 GPA reflects academic excellence and a commitment to professional growth through workshops and seminars. In February 2025, Kartik will join NVIDIA’s GRC Team as a full-time employee after completing a summer internship, aspiring to protect digital infrastructures and advance cybersecurity leadership."
-  talk:
-    keynote: false
-    title: "Bridging the Gap Between GRC and Cybersecurity: Strategies for Effective Collaboration"
-    abstract: "Governance, Risk, and Compliance (GRC) teams often operate in silos, disconnected from the hands-on efforts of cybersecurity teams such as red and blue teams. This disconnect can lead to misaligned priorities, overlooked risks, and inefficiencies in responding to threats. In this presentation, we’ll explore strategies to bridge the gap between GRC and cybersecurity teams, emphasizing the importance of collaboration in building a unified, risk-aware culture. Attendees will learn actionable techniques to align compliance frameworks with security operations, foster communication between teams, and leverage shared tools and data for better outcomes. This talk will empower both GRC and cybersecurity professionals to break down silos and work together effectively."
-    length: 25 min
-- name: Ethan Witherington
-  bio: "Ethan Witherington is a senior cybersecurity consultant @ SRA and principle platform architect for SRA's internal infrastructure as code platform, responsible for SIEM & SOC infrastructure across 35+ clients spanning healthcare, telecom, and financial services. When not architecting security solutions, Ethan maintains balance through his twin passions of running and cooking - each enabling the other."
-  talk:
-    keynote: false
-    title: "DevSecOps isn't real, it can't hurt you, and other lies: Lessons learned from letting engineers approve their own pull requests"
-    abstract: "DevOps? DevSecOps? We might as well call it DevSecMarketingHvacJanitorialOps - because the term 'DevSecOps' misses that DevOps already encompasses security, along with all other business concerns. It is a unifying theory of the way we work, including the way we secure our work, more effectively. Ethan Witherington has spent years studying the history and underlying principles of DevSecOps, and has come to a controversial conclusion - Engineers should be able to self-approve PRs to prod (and there are 35 prods) (and each prod is an F500's SOC). This talk will start with historical context, dive into the theory of constraints, and explore all the reasons why such a safety-for-speed tradeoff is worthwhile (along with the other compensating controls to re-introduce security to the system)."
+    title: "Forensic Analysis of Microsoft Quick Assist"
+    abstract: "Attackers are utilizing Microsoft Quick Assist to obtain an initial foothold on systems, so it is imperative for cyber security analysts to understand it. This talk will discuss Quick Assist, how it is used by attackers, and what Quick Assist artifacts exist on a compromised system that can be used to aid an investigation, and how organizations can protect themselves from malicious usage of Quick Assist."
     length: 50 min
 - name: Sean Juroviesky
   bio: "Sean Juroviesky is a dedicated security and risk management expert with extensive experience navigating complex environments. Sean excels at developing a comprehensive understanding of intricate systems and crafting strategic roadmaps to revitalize security programs. By identifying high-risk areas and optimizing the use of existing resources, Sean removes barriers between teams to enhance communication and coordination, driving effective security outcomes. Beyond their professional pursuits, Sean finds joy in backpacking through the mountains with their adventurous Australian Shepherd and twins, embracing the serenity of nature and the thrill of exploration."
@@ -68,12 +33,54 @@
     title: "The Risky Business of Risk Illiteracy"
     abstract: "Many cybersecurity professionals tune into the latest and greatest CVSS', zero day, or whichever vulnerability is catching the most headlines. Missing the smallest gaps in their own infrastructure which are typically the ones most often exploited by malicious actors. This is why each cybersecurity team needs to build an in depth understanding of their business model, infrastructure, and business operations in order to tune their threat model onto how a malicious actor would attack and exploit their particular business."
     length: 50 min
+- name: Devon Kerr
+  bio: "Devon Kerr is Elastic’s Director of Threat Research and the founder of Elastic Security Labs, a team of researchers with expertise in the malware, intelligence, vulnerability research, incident response, and security engineering expertise. In addition to monitoring global telemetry to identify and disrupt adversaries, he and his team develop mitigations and capabilities for Elastic Security solutions and its users, discover previously-unknown threats,  track groups and campaigns, and coordinates security research across Elastic Security to help democratize access to knowledge and resources. Devon formerly led the Endgame Response applied research team and held technical roles at FireEye and Mandiant leading incident response and eviction efforts across practically all industry verticals and regions."
+  talk:
+    keynote: false
+    title: "Peace, prosperity, and espionage: ASEAN and BRICS targeted by the People’s Republic of China"
+    abstract: "In this presentation, attendees of all experience levels will receive an overview from Elastic Security Labs that describes long-running PRC espionage operations impacting members of the ASEAN and BRICS political and economic organizations. This presentation will describe conventional and novel threat capabilities, as well as the major motivating factors behind these campaigns."
+    length: 50 min
+- name: Kartik Khurana
+  bio: "Kartik Khurana is a dedicated cybersecurity professional pursuing a Master’s in Cybersecurity (Analytics and Operations) at Pennsylvania State University, specializing in Governance, Risk, and Compliance (GRC). With five internships in penetration testing, auditing, cloud security, and identity and access management, he has built extensive hands-on experience. At Health Catalyst, Kartik led projects enhancing cloud security metrics and conducting HiTrust and SOC 2 Type II audits, demonstrating expertise in navigating compliance frameworks and strengthening security infrastructures. Proficient with platforms like AWS, Crowdstrike, and Prisma Cloud, he effectively mitigates diverse cybersecurity challenges. His 4.00 GPA reflects academic excellence and a commitment to professional growth through workshops and seminars. In February 2025, Kartik will join NVIDIA’s GRC Team as a full-time employee after completing a summer internship, aspiring to protect digital infrastructures and advance cybersecurity leadership."
+  talk:
+    keynote: false
+    title: "Bridging the Gap Between GRC and Cybersecurity: Strategies for Effective Collaboration"
+    abstract: "Governance, Risk, and Compliance (GRC) teams often operate in silos, disconnected from the hands-on efforts of cybersecurity teams such as red and blue teams. This disconnect can lead to misaligned priorities, overlooked risks, and inefficiencies in responding to threats. In this presentation, we’ll explore strategies to bridge the gap between GRC and cybersecurity teams, emphasizing the importance of collaboration in building a unified, risk-aware culture. Attendees will learn actionable techniques to align compliance frameworks with security operations, foster communication between teams, and leverage shared tools and data for better outcomes. This talk will empower both GRC and cybersecurity professionals to break down silos and work together effectively."
+    length: 25 min
+- name: Dennis Labossiere
+  bio: "Dennis is a Director at KPMG within its cyber threat management practice with over 9 years of DFIR and consulting experience. He is currently GCFE and GCFA certified and has assisted clients with investigating network intrusions, ransomware and supply chain attacks, business email compromises, and employee data theft cases. In addition, he has helped clients with incident readiness and planning including developing and delivering cyber tabletops. One of his passions in cybersecurity is threat hunting and detection engineering and he has used that passion to help clients build out detection capabilities and train SOC analysts."
+  talk:
+    keynote: false
+    title: "Investigating a Malicious Script in Microsoft Intune: A DFIR Case Study"
+    abstract: "The proliferation of cloud-based solutions has significantly transformed the landscape of enterprise security, with Microsoft Intune emerging as a pivotal tool for device and application management. This Digital Forensics and Incident Response (DFIR) case study delves into the forensic investigation of a malicious script within Microsoft Intune, highlighting procedural insights and analytical techniques. The incident, which occurred in 2023, involved unauthorized access to a client's Azure tenant by Scattered Spider. This presentation discusses the forensic analysis conducted to recreate the attack and understand its impact. This presentation describes baseline configurations, forensic tools, and methodologies deployed to detect and analyze the attack. Key technical aspects discussed include leveraging the Graph API, tracking user actions, modification timestamps, and decoding PowerShell script contents with CyberChef."
+    length: 50 min
+- name: Zach Malinich
+  bio: "Zach a.k.a “UberZachAttack” is a PSU alum and works within offensive security. He holds various certifications and has a specialty on phishing campaigns."
+  talk:
+    keynote: false
+    title: "Discord OSINT: Using the Power of Empathy Banana"
+    abstract: "OSINT in Discord may seem limited, but with techniques like chat history searches and profile reviews, you can uncover linked accounts. By analyzing the servers a user joins, you can infer their experience, interests, and even location. However, scaling this approach is challenging until Spy.pet was disclosed in April. I will go over its capabilities, insights on Discord OSINT at scale, and OPSEC."
+    length: 50 min
 - name: Danielle McGuire
   bio: "Danielle McGuire has 8 years of experience in electric power cybersecurity and the security of industrial control systems more generally. When she's not doing that, she enjoys reading, cooking, and tinkering with electronics. Her main technical toolkit includes Python, bash, C, and microcontrollers/SBCs; she is currently learning Rust, containerization, RISC-V, and radio. She would love to meet people and chat, good icebreakers include 'how can I get started with hacking EV chargers?' and 'what is the relationship between cybernetic and surveillance capitalism?'."
   talk:
     keynote: false
     title: "Securing the EVSEcosystem"
     abstract: "As electric vehicles become more and more common, so does Electric Vehicle Supply Equipment, or EV chargers. These devices exist in a complex ecosystem almost completely independent of the traditional electric grid, leaving their security the responsibility of the individual owners/operators. In this presentation, we will examine how EVSE is vulnerable at both the endpoint and network level, often through well-understood vectors such as stack-based buffer overflows and man-in-the-middle attacks. We will also discuss CVE opportunities for ambitious students and researchers, and steps that asset owners can take to secure their equipment and networks. Finally, we will examine evsetool, a Python utility developed by the author to send, intercept and decode OCPP 1.6 traffic, in order to enable attacks such as unauthorized charge session access and malicious firmware update."
+    length: 50 min
+- name: Michael Nee
+  bio: "Michael Nee is a loud and outspoken new cybersecurity professional. His career path started as many do studying some field in computing. Upon entering the workforce he was given the opportunity to work on OT security. Wait what is OT security? We'll get to that later, more importantly he has 2 dogs and loves smoking meats."
+  talk:
+    keynote: false
+    title: "OT Security is Hard: Why can't I do an arp scan?"
+    abstract: "OT is the xray machine at the doctors office. OT is the conveyor belt that makes your dogs medicine. OT is the windows xp box tucked somewhere in a nuclear power generator. OT is operational technology, technology that interacts with the real world and supports us in every facet of our life. OT has historically not placed much stake in cybersecurity, but that all changed following stuxnet. I will provide information on the evolution of cybersecurity in OT environments and the challenges faced by OT cybersecurity professionals. We'll start at step 1 of security: asset management."
+    length: 25 min
+- name: Ethan Witherington
+  bio: "Ethan Witherington is a senior cybersecurity consultant @ SRA and principle platform architect for SRA's internal infrastructure as code platform, responsible for SIEM & SOC infrastructure across 35+ clients spanning healthcare, telecom, and financial services. When not architecting security solutions, Ethan maintains balance through his twin passions of running and cooking - each enabling the other."
+  talk:
+    keynote: false
+    title: "DevSecOps isn't real, it can't hurt you, and other lies: Lessons learned from letting engineers approve their own pull requests"
+    abstract: "DevOps? DevSecOps? We might as well call it DevSecMarketingHvacJanitorialOps - because the term 'DevSecOps' misses that DevOps already encompasses security, along with all other business concerns. It is a unifying theory of the way we work, including the way we secure our work, more effectively. Ethan Witherington has spent years studying the history and underlying principles of DevSecOps, and has come to a controversial conclusion - Engineers should be able to self-approve PRs to prod (and there are 35 prods) (and each prod is an F500's SOC). This talk will start with historical context, dive into the theory of constraints, and explore all the reasons why such a safety-for-speed tradeoff is worthwhile (along with the other compensating controls to re-introduce security to the system)."
     length: 50 min
 
 

@@ -16,9 +16,6 @@ with a focus on Digital Forensics, and a previous background in systems and netw
 course, hacking. She has been a featured speaker for DEFCON, SANS, Magnet Forensics, Fal.Con, DerbyCon, ShmooCon, 
 Circle City Con, HushCon, as well as multiple security podcasts.
 
-{:.text-white}
-## Check back again - more updates soon! 
-
 {% for speaker in site.data.speakers %}
 {% if speaker.talk.keynote == false %}
 {:.text-white}
