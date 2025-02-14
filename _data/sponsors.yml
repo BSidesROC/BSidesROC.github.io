@@ -32,8 +32,8 @@
   style: "height: 81px; max-width: 250px;"
 - name: Graylog
   url: https://graylog.org
-  image: CTFLogsintheShellLogo1920w.png
-  style: "height: 113.04px; max-width: 138px; margin-right: auto; margin-left: auto;"
+  image: CTF_LogsintheShell.jpg
+  style: "height: 226.04px; max-width: 276px; margin-right: auto; margin-left: auto;"
 - name: MetaCTF
   url: https://metactf.com
   image: metactf-logo-new.png
