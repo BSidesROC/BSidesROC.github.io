@@ -76,7 +76,7 @@
     abstract: "OT is the xray machine at the doctors office. OT is the conveyor belt that makes your dogs medicine. OT is the windows xp box tucked somewhere in a nuclear power generator. OT is operational technology, technology that interacts with the real world and supports us in every facet of our life. OT has historically not placed much stake in cybersecurity, but that all changed following stuxnet. I will provide information on the evolution of cybersecurity in OT environments and the challenges faced by OT cybersecurity professionals. We'll start at step 1 of security: asset management."
     length: 25 min
 - name: Saurabh Singh
-  bio: "Speaker Bio: My name is Saurabh, experienced bug hunter and penetration tester with over 6+ years of expertise in identifying critical vulnerabilities across web applications within the BFSI sector. Having contributed to bug bounty programs and security communities. Expertise includes delivering IT security consulting, best practices and standard implementation in SAST & DAST,vulnerability assessment, penetration testing and regulatory compliance."
+  bio: "My name is Saurabh, experienced bug hunter and penetration tester with over 6+ years of expertise in identifying critical vulnerabilities across web applications within the BFSI sector. Having contributed to bug bounty programs and security communities. Expertise includes delivering IT security consulting, best practices and standard implementation in SAST & DAST,vulnerability assessment, penetration testing and regulatory compliance."
   talk:
     keynote: false
     title: "A Bug Hunter's Way of Assessing Web Application Security"
