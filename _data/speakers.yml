@@ -75,6 +75,13 @@
     title: "OT Security is Hard: Why can't I do an arp scan?"
     abstract: "OT is the xray machine at the doctors office. OT is the conveyor belt that makes your dogs medicine. OT is the windows xp box tucked somewhere in a nuclear power generator. OT is operational technology, technology that interacts with the real world and supports us in every facet of our life. OT has historically not placed much stake in cybersecurity, but that all changed following stuxnet. I will provide information on the evolution of cybersecurity in OT environments and the challenges faced by OT cybersecurity professionals. We'll start at step 1 of security: asset management."
     length: 25 min
+- name: Saurabh Singh
+  bio: "Speaker Bio: My name is Saurabh, experienced bug hunter and penetration tester with over 6+ years of expertise in identifying critical vulnerabilities across web applications within the BFSI sector. Having contributed to bug bounty programs and security communities. Expertise includes delivering IT security consulting, best practices and standard implementation in SAST & DAST,vulnerability assessment, penetration testing and regulatory compliance."
+  talk:
+    keynote: false
+    title: "A Bug Hunter's Way of Assessing Web Application Security"
+    abstract: "This session will delve into the methodology employed by bug hunters and penetration testers to assess the security of web applications. By focusing on practical techniques and overview of tools, the talk will empower attendees with actionable knowledge to find vulnerabilities and enhance the overall security of their applications. The session will focus what could be achived by using such tools while doing assessments to find security issues and automate tasks. This session will also focuses on understanding multiple types vulnerabilities from OWASP, SANS and Business logic flaws."
+    length: 50 min
 - name: Ethan Witherington
   bio: "Ethan Witherington is a senior cybersecurity consultant @ SRA and principle platform architect for SRA's internal infrastructure as code platform, responsible for SIEM & SOC infrastructure across 35+ clients spanning healthcare, telecom, and financial services. When not architecting security solutions, Ethan maintains balance through his twin passions of running and cooking - each enabling the other."
   talk:
