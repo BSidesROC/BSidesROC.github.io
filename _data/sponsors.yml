@@ -38,3 +38,10 @@
   url: https://metactf.com
   image: metactf-logo-new.png
   style: "height: "
+- name: Black Hills Information Security
+  url: https://www.blackhillsinfosec.com/
+  image: BHIS_TEXT.png
+  style: "height: 81px; max-width: 250px;"
+- name: RIT Global Cybersecurity Institute
+  url: https://www.rit.edu/cybersecurity/
+  image: rit_esl_global_cybersecurity_institute.png
