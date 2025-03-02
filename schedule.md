@@ -18,5 +18,5 @@ layout: default
 | 02:00 - 02:50 | Peace, prosperity, and espionage: ASEAN and BRICS targeted by the People’s Republic of China | Devon Kerr | 02:00 - 02:50 | Securing the EVSEcosystem | Danielle McGuire |
 | 03:00 - 03:50	| DevSecOps isn’t real, it can’t hurt you, and other lies: Lessons learned from letting engineers approve their own pull requests | Ethan Witherington | 03:00 - 03:25 | Bridging the Gap Between GRC and Cybersecurity: Strategies for Effective Collaboration | Kartik Khurana |
 |  |  |  | 03:30 - 03:55 | OT Security is Hard: Why can’t I do an arp scan? | Michael Nee | 
-| 04:00 - 04:50	| A Bug Hunter’s Way of Assessing Web Application Security | Saurabh Singh | 04:00 - 05:00 | OT Security is Hard: Why can’t I do an arp scan? | Michael Nee |  
+| 04:00 - 04:50	| A Bug Hunter’s Way of Assessing Web Application Security | Saurabh Singh | 04:00 - 05:00 | Investigating a Malicious Script in Microsoft Intune: A DFIR Case Study | Dennis Labossiere |  
 | 05:00 - 05:30 | Closing Remarks | BSidesROC Staff | Closing Remarks | BSidesROC Staff |
