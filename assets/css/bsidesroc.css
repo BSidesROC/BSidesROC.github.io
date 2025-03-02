@@ -56,7 +56,11 @@ a.nav-link {
 #trace-labs-will-be-running-a-full-day-osint-ctf-for-missing-persons-at-bsides-rochester-on-saturday-march-21-2020 {
 	margin-bottom: 2rem;
 }
-
+.card-img-left {
+	width: auto;
+	height: 100%;
+	border-radius: calc(.25rem - 1px) 0 0 calc(.25rem - 1px);
+}
 @media (min-width: 320px) {
 	img.keynote_img {
 		width: 200px;
