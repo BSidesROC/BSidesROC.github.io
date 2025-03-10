@@ -45,3 +45,11 @@
 - name: RIT Global Cybersecurity Institute
   url: https://www.rit.edu/cybersecurity/
   image: rit_esl_global_cybersecurity_institute.png
+- name: Frederick Ullman
+  url: "#"
+  image: memory_of_don_ullman.png
+  style: "max-height:250px; max-width: 250px;"
+- name: ZoomBuffalo
+  url: "https://www.zoombuffalo.com/"
+  image: zoombuffalo.png
+  style: "max-height:250px; max-width: 250px;"
