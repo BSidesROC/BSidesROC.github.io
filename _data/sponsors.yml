@@ -53,3 +53,6 @@
   url: "https://www.zoombuffalo.com/"
   image: zoombuffalo.png
   style: "max-height:250px; max-width: 250px;"
+- name: Just Hacking Training
+  image: JHT_Logo-300x300.png
+  style: "max-height:300px; max-width: 300px;"
