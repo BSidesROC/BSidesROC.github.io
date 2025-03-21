@@ -61,3 +61,7 @@
   url: "https://pentesterlab.com/"
   image: pentesterlab_logo_text_black.svg
   style: "max-height:300px; max-width: 200px;margin-right: auto;margin-left:auto;"
+- name: Hak5
+  url: https://shop.hak5.org
+  image: Hak5_White-1024x576.png
+  style: "height: 81px; max-width: 250px;"
