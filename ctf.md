@@ -6,6 +6,12 @@ layout: default
 # Graylog
 <img src="/assets/img/sponsors/CTF_LogsintheShell.jpg" alt="Graylog" style="height:226.04px;  width:276px;" class="mt-2">
 
+{:.text-white .h1}
+Register for the CTF Here! <a href="https://ctfd.logfather.org/" style="color: green;">https://ctfd.logfather.org/</a>
+
+{:.h2 .text-white}
+CTF will run from 10am - 4:30pm
+
 Put your gray matter to the test at Graylog’s "Logs in the Shell" Capture The Flag (CTF) event! Immerse yourself in our virtual sandbox environment, where you’ll take on unique and captivating puzzles sure to entertain and challenge your wit and skill in data analytics and cybersecurity.
 
 This event isn’t just about answering multiple-choice questions or writing essays. It’s about diving into complex scenarios that will push you to think in new ways while hunting for hidden clues, threats, and terrible puns. Whether you’re a beginner looking to learn new concepts or a seasoned pro wanting to showcase your expertise, our inclusive format ensures everyone can participate and thrive.
