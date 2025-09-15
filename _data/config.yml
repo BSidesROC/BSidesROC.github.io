@@ -1,7 +1,17 @@
+date: Saturday, March 21st 2026
+year: 2026
+tbd: true
+training:
+    date: Friday, March 20th 2026
 tickets:
-  attendance: https://events.humanitix.com/bsidesroc-2025
-  training: https://events.humanitix.com/bsidesroc-2025-training
+  attendance:
+  training:
 cft:
   url:
 cfp:
   url:
+volunteering:
+    day_1: Friday, 03/20
+    day_2: Saturday, 03/21
+sponsorship:
+    package: "/assets/doc/BSidesROC%202026%20Sponsorship%20Kit-1.pdf"

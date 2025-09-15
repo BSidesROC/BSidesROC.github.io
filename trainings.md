@@ -4,7 +4,8 @@ title: Trainings 2024
 ---
 
 {% if site.data.training.tbd %}
-# Trainings
+{:.text-white }
+# Training {{ site.data.config.year }}
 
 {:.mb-n1 .text-warning}
 ## TBD

@@ -11,13 +11,13 @@ Security B-Sides Rochester (BSidesROC) has recently become a 501(c)3 Not-for-Pro
 {:.text-white}
 # Directors:
 
-The following currently fullfil the role of Board of Directors for the B-Sides Rochester, Inc. corporation.
+The following currently fulfill the role of Board of Directors for the B-Sides Rochester, Inc. corporation.
 
 **President:** Catherine Ullman
 
 **Treasurer:** Susan Lupiani
 
-**Secretary:** Jason Taylor
+**Secretary:** Liam Ross
 
 {:.text-white}
 # Staff
@@ -41,10 +41,9 @@ reading John Sandford books, watching Scandinavian and Nordic Noir on Netflix, a
 and three bad cats.
 
 {:.text-white}
-## Jason Taylor
-Jason is a Rochester native specializing in governance, risk, and compliance. He likes teaching, learning, and exploring
-countless leads to answer "how do you know that you know?" When he'd not doing cybersecurity he's probably being a
-foodie.
+## Liam Ross
+
+### Bio Coming Soon!
 
 {:.text-white}
 ## Alex Page
