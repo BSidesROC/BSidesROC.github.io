@@ -28,6 +28,14 @@ printf "Removing nested archive dir...\n"
 rm -rf "$ARCHIVE_DIR"/assets/archive/*
 
 printf "Updating hrefs to point at the new archive dir...\n"
-find "$ARCHIVE_DIR" -type f -name "*.html" -exec sed -i -E "s|href=\"/(.*)\"|href=\"/assets/archive/$ARCHIVE_YEAR/\1\"|g" {} \;
+find "$ARCHIVE_DIR" -type f -name "*.html" -exec sed -i'.bak' -E 's|href="/(.*/)"|href="/assets/archive/$ARCHIVE_YEAR/\1"|g' {} \;
+printf "Update complete! Removing backup files..."
+find "$ARCHIVE_DIR" -type f -name '*bak' -exec rm -f {} \;
+printf "Backup Files removed!\n"
+
+if [ $? != 0 ]; then 
+    echo "There was an error replacing some links"
+    exit 1;
+fi 
 
 printf "Archival of %s Complete!\n" "$ARCHIVE_YEAR"
