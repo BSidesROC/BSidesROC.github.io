@@ -2,12 +2,13 @@
 layout: default
 ---
 {:.text-white}
-# Talks 2025
+# Talks {{ site.data.config.year }}
 
+{% if site.data.speakers %}
 The following talks will be offered on Saturday:
 
 {:.h3 .text-white .mb-2}
-Date: Saturday March 22, 2025
+Date: {{ site.data.config.date }}
 
 {:.table .text-white .mb-2}
 | *Presenter*  | *Title*     | *Description* | *Time* |
@@ -15,3 +16,8 @@ Date: Saturday March 22, 2025
 {%- for speaker in site.data.speakers %}
 | [*{{ speaker.name }}*](/speakers#{{ speaker.name | replace: " ", "-" | downcase}}) | {{ speaker.talk.title }} | {{ speaker.talk.abstract }} | {{ speaker.talk.length }} |
 {%- endfor %}
+
+{% else %}
+{:.mb-n1 .text-warning}
+## TBD
+{% endif %}
