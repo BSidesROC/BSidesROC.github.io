@@ -42,6 +42,11 @@ and three bad cats.
 
 {:.text-white}
 ## Liam Ross
+Liam Ross has a background in psychology and sociology, and it is from this lens that he approaches the world of security
+with a main interest in social engineering. Lockpicking is another interest of his, and he has delivered Lockpick Village
+presentations at various conferences over the years, with the majority being at BSidesROC. Things he enjoys doing when 
+he isn’t busy with his various responsibilities include reading, cooking, and getting absorbed by whatever game has
+caught his interest that week.
 
 ### Bio Coming Soon!
 
