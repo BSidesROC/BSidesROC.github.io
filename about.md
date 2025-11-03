@@ -48,8 +48,6 @@ presentations at various conferences over the years, with the majority being at 
 he isn’t busy with his various responsibilities include reading, cooking, and getting absorbed by whatever game has
 caught his interest that week.
 
-### Bio Coming Soon!
-
 {:.text-white}
 ## Alex Page
 Alex is a data scientist at URMC. His work involves database tuning, machine learning, and parallel programming, He is
