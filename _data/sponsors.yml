@@ -1,8 +1,13 @@
 - name: RocISSA
   url: https://www.rocissa.org/
   image: RocISSALogo-brief.png
-  style: "height: 81px; max-width: 250px;"
 - name: Saint Bonaventure Cybersecurity
   url: https://www.sbu.edu/academics/cybersecurity
   image: cyblogo.png
-  style: ""
+- name: no starch press
+  url: https://nostarch.com/
+  image: nostarch-2018-bronze.png
+  style: "background-color: rgb(41, 41, 41);"
+- name: Modern Security
+  url: https://www.modernsecurity.io/
+  image: modern_security.png
