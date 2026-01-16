@@ -1,0 +1,8 @@
+- name: RocISSA
+  url: https://www.rocissa.org/
+  image: RocISSALogo-brief.png
+  style: "height: 81px; max-width: 250px;"
+- name: Saint Bonaventure Cybersecurity
+  url: https://www.sbu.edu/academics/cybersecurity
+  image: cyblogo.png
+  style: ""
