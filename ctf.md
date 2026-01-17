@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% if site.data.ctf.tbd %}
+{% if site.data.config.ctf.tbd %}
 {:.text-white .mb-2}
 # CTF
 
