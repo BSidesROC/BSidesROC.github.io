@@ -42,6 +42,14 @@ Our team will review any talk submission but our only rule is that we will not a
 {:.text-white}
 If you have a talk and don't think it will fit with the list, submit it anyway, We love obscure content that might just what we are looking for!
 The name and photo associated with your Google account will ****be recorded when you upload files and submit this form.
+
+{% elsif site.data.config.cfp.closed %}
+{:.text-white .text-center}
+{:.mb-3 .text-white}
+# BSidesROC Call For Presenters Closed!
+Thank you so much for expressing an interest in being a presenter at BSidesRoc, unfortunately submissions are now closed.
+Please check back next year!
+
 {% else %}
   
 {:.mb-3 .text-white}

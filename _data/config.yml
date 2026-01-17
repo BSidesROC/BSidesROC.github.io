@@ -7,9 +7,9 @@ tickets:
   attendance:
   training:
 cft:
-  url: https://docs.google.com/forms/d/e/1FAIpQLScsQToJRXB04mtHU0sJtoEYt9z-xyBWkY68KwUhzrV6mDhEEQ/viewform?usp=publish-editor
+  closed: true
 cfp:
-  url: https://docs.google.com/forms/d/e/1FAIpQLSdewmRYNTmvzkjcLfHfD_67tl72pXKs6IuKo9z1KWdDOAZW6A/viewform?usp=dialog
+  closed: true
 volunteering:
     day_1: Friday, 03/20
     day_2: Saturday, 03/21
