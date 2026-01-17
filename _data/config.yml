@@ -5,6 +5,7 @@ training:
     date: Friday, March 20th 2026
 tickets:
   attendance:
+    coming_soon: true
   training:
 cft:
   closed: true

@@ -22,6 +22,8 @@
             <a class="btn btn-light" href="/get_tickets">
                 {% if site.data.config.tickets.attendance %}
                 Now Open!
+                {% elsif site.data.config.tickets.attendance.coming_soon %}
+                Coming Soon!
                 {% else %}
                 Now Closed!
                 {% endif %}
