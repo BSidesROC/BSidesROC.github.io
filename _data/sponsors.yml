@@ -11,3 +11,6 @@
 - name: Modern Security
   url: https://www.modernsecurity.io/
   image: modern_security.png
+- name: MetaCTF
+  url: https://metactf.com/
+  image: metactf-logo-new.png

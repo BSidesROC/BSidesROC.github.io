@@ -36,7 +36,9 @@
                    aria-expanded="false">Events</a>
                 <div class="dropdown-menu" aria-labelledby="events">
                     <a class="dropdown-item" href="/trainings/">Trainings</a>
-                    <!--<a class="dropdown-item" href="/ctf/">CTF</a>-->
+                    {% if site.data.config.ctf.tbd == false %}
+                    <a class="dropdown-item" href="/ctf/">CTF</a>
+                    {% endif %}
                     <!--<a class="dropdown-item" href="/lockpick_village/">Lockpick Village</a>-->
                     <!--<a class="dropdown-item" href="/hardware/">Hardware Hacking & Soldering Village</a>-->
 		            <!--<a class="dropdown-item" href="/crypto/">Crypto Challenge</a>-->
