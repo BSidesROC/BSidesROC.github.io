@@ -20,10 +20,10 @@
         <div class="col-md-4">
             <h2 class="text-white">Tickets</h2>
             <a class="btn btn-light" href="/get_tickets">
-                {% if site.data.config.tickets.attendance %}
-                Now Open!
-                {% elsif site.data.config.tickets.attendance.coming_soon %}
+                {% if site.data.config.tickets.attendance.coming_soon %}
                 Coming Soon!
+                {% elsif site.data.config.tickets.attendance %}
+                Now Open!
                 {% else %}
                 Now Closed!
                 {% endif %}
