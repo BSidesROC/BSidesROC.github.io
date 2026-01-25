@@ -1,4 +1,113 @@
 year: 2026
 date: Friday, March 20th 2026
 location: Rochester Institute of Technology 1 Lomb Memorial Drive, Rochester, NY, 14623, United States
-tbd: true
+trainers:
+  - &joe
+    name: Joe Gray
+    bio: |
+      Joe Gray is a U.S. Navy Submarine Force veteran, OSINT researcher, and author specializing in social engineering
+      and human centered security. He is the Founder and Principal Instructor at The OSINTion and Blue Team Fusion, and
+      the author of Practical Social Engineering published by No Starch Press. His work focuses on ethical OSINT 
+      methodology, adversary tradecraft, and practical application for defenders, investigators, and security 
+      practitioners.
+  - &pavan
+    name: Pavan Reddy
+    bio: |
+      Pavan Reddy is an AI security researcher and the founder of Adversarial Lab, an open-source framework for 
+      red-teaming machine learning models. His work focuses on adversarial attacks, prompt injection vulnerabilities, 
+      and the systemic weaknesses of foundation models. He’s presented research at venues like HCI International and 
+      FLAIRS, and has taught workshops at conferences like BSides, SquadCon, ACM SIGCITE and many more and educates a 
+      wide audience online, where over 80,000 followers tune in for his insights on AI risk and resilience. At Automata,
+      he is a software engineer, leading the company's effort towards FIPS, FedRAMP ATO and AI initiatives in 
+      Vulnerability and Compliance management.
+  - &abe
+    name: Abe Abernethy
+    bio: |
+      Coming Soon!
+  - &annie
+    name: Annie Zempel
+    bio: |
+      Coming Soon!
+classes:
+  -   title: 'Netflow and Network Behavior Analytics for Blue Teams'
+      time_frame: '8:00 AM - 12:00 PM'
+      instructors:
+        - *joe
+      description: |
+        Network telemetry is one of the most valuable data sources available to defenders, yet many Blue Team analysts
+        are never taught how to reason about it beyond basic alerts or dashboards. This training focuses on using 
+        Netflow and flow based data to understand network behavior, identify suspicious activity, and support 
+        investigations in a structured and defensible way.
+
+        Participants will learn how to interpret flow records, recognize normal versus abnormal patterns, and use 
+        network behavior to answer investigative questions. Rather than focusing on a specific vendor or tool, the 
+        training emphasizes analytical thinking that can be applied across environments, platforms, and data sources.
+  
+        This course is designed for analysts who want to move beyond surface level indicators and develop confidence in 
+        explaining what network data is actually showing them, both in day to day operations and in interviews or 
+        professional discussions.
+      requirements: Laptop, notetaking tools (software or analog pen and paper)
+      prices:
+        - description: 'General'
+          cost: '$100'
+        - description: 'Student, Vet, or Unemployed'
+          cost: '$60'
+
+  -   title: 'Applied Threat Intelligence: Tracking Adversary Behavior with OSINT and CTI'
+      time_frame: '1:00 PM - 5:00 PM'
+      instructors:
+        - *joe
+      description: |
+        This four hour training is a hands on Cyber Threat Intelligence course focused on analyst execution rather than
+        theory. The goal is to teach participants how to take public adversary reporting and OSINT and turn it into 
+        structured, behavior focused intelligence that supports defensive work.
+
+        After a brief alignment on what OSINT and Cyber Threat Intelligence are, participants spend the majority of the
+        session extracting adversary behaviors from real world reporting. Those behaviors are then structured using the 
+        MITRE ATT&CK Framework, the Diamond Model, and the Pyramid of Pain to understand how an adversary operates and 
+        what matters defensively.
+
+        This course is designed for Blue Team analysts and defenders who want practical experience doing intelligence 
+        work they can apply operationally and explain clearly in interviews and professional discussions.
+      requirements: Laptop with latest version of Ubuntu installed or a laptop that can run a virtual machine with Ubuntu.
+      prices:
+        - description: 'General'
+          cost: '$100'
+        - description: 'Student, Vet, or Unemployed'
+          cost: '$60'
+  -   title: 'Breaking AI: Prompt Injection, Data Exfiltration and Practical Defenses That Work'
+      time_frame: '8:00AM - 12:00PM'
+      instructors:
+        - *pavan
+      description: |
+        AI systems don’t fail like traditional software, they fail silently, follow the wrong authority, and can be 
+        steered into leaking data or taking unintended actions. In this 120-minute hands-on workshop, participants 
+        attack and defend a sandboxed car dealership chatbot that’s connected to internal data. Then they will pivot to
+        real-world data exfiltration patterns via direct and indirect prompt injection (including untrusted content in 
+        RAG-like workflows). Attendees will actively craft exploits, observe impact, and implement practical mitigations
+        (least-privilege tooling, strict schemas, policy gates, and confirmation workflows). BYOL-friendly; compute runs
+        on free resources (e.g., Google Colab).
+
+        Attendees will be provided with all the artifacts, material, checklist and code that they can take back to their 
+        orgs.
+      prices:
+        - description: 'General'
+          cost: '$25'
+  -   title: 'You Accidentally Got a Job in Cybersecurity, Now What?'
+      time_frame: '8:00AM - 12:00PM'
+      instructors:
+        - *abe
+        - *annie
+      description: |
+        Nobody tells you that cybersecurity jobs in a small business up to medium-sized enterprise are 20% technology 
+        and 80% translation, negotiation, and sifting through garbage. This half-day workshop explodes five common lies
+        the industry tells itself, drawing from real-world experience building security programs that survive contact 
+        with business reality. You'll learn to measure what matters (not what's easy), communicate technical concepts at
+        management or board level without treating executives like children, and build resilient programs using proven
+        frameworks instead of vendor fever dreams. Includes practical exercises with executives from the Graylog SIEM's 
+        Customer Enablement team to cement concepts through hands-on work. Leave with concepts and frameworks you can 
+        deploy Monday, metrics that matter, and the ability to explain why security isn't just "the team that says no.
+      requirements: 'TBD'
+      prices:
+        - description: 'General'
+          cost: '$25'
