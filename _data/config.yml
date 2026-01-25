@@ -4,9 +4,8 @@ tbd: true
 training:
     date: Friday, March 20th 2026
 tickets:
-  attendance:
-    coming_soon: true
-  training:
+  attendance: https://events.humanitix.com/bsidesroc-2026
+  training: https://events.humanitix.com/bsidesroc-2026-training
 cft:
   closed: true
 cfp:
