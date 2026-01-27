@@ -23,11 +23,20 @@ trainers:
   - &abe
     name: Abe Abernethy
     bio: |
-      Coming Soon!
+      Adam "Abe" Abernethy is a recovering security analyst who blends technical experience with accessible
+      storytelling. He designs scalable enablement programs, reverse‑engineers broken corporate processes, leads the
+      design of world-class CTFs, and turns complex security requirements into direction that teams can actually act
+      on and organizations can make decisions around.  Currently, he spends his days wandering the remote halls of
+      Graylog, clipboard in hand, assisting their customer experience programs.
+
   - &annie
     name: Annie Zempel
     bio: |
-      Coming Soon!
+      Annie Zempel is the VP of Technical Communications at Graylog and has spent more than a decade turning complex
+      systems into documentation that security teams can actually use. Before Graylog, Annie worked on defense contracts
+      supporting NORAD and USNORTHCOM communications systems, producing procedural documentation and response plans for
+      high-stakes operational environments. Today, she builds learning resources designed to help security teams get
+      value quickly and operate more effectively with Graylog.
 classes:
   -   title: 'Netflow and Network Behavior Analytics for Blue Teams'
       time_frame: '8:00 AM - 12:00 PM'
