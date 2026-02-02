@@ -4,6 +4,9 @@
 - name: Saint Bonaventure Cybersecurity
   url: https://www.sbu.edu/academics/cybersecurity
   image: cyblogo.png
+- name: Sumo Logic
+  url: https://www.sumologic.com/
+  image: SumoLogic_Logo_SumoBlue_RGB.svg
 - name: no starch press
   url: https://nostarch.com/
   image: nostarch-2018-bronze.png
