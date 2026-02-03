@@ -17,3 +17,12 @@
 - name: MetaCTF
   url: https://metactf.com/
   image: metactf-logo-new.png
+- name: ICR
+  url: https://icr-team.com/
+  image: icr.png
+- name: OrbitalFire Cybersecurity
+  url: https://orbitalfire.com/
+  image: OrbitalFire_Logo_Horizontal_Color.png
+- name: RIT Global Cybersecurity Institute
+  url: https://www.rit.edu/cybersecurity/
+  image: rit_esl_global_cybersecurity_institute.png
