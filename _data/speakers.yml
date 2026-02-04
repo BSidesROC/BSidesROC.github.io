@@ -31,7 +31,7 @@ speakers:
     bio: "Victoria St. John is a security engineer and incident response specialist with experience in threat investigation, detection engineering, and purple team operations, holding industry certifications including GCIH and CISSP. She draws on a multidisciplinary background that includes years of teaching, deep systems analysis, and creative pattern work to bring structural thinking to cybersecurity challenges. Her work bridges technical rigor with cognitive strategy to help responders improve accuracy and efficiency under pressure."
   - &ders
     name: Derian Stenglein
-    bio: ""
+    bio: "Derian Stenglein is a recent graduate of the Rochester Institute of Technology with a Bachelor's degree in Computing Security. Throughout college, he experienced two internships. One was at Rockstar Games, performing binary reverse engineering and automation. The other was at Assured Information Security, reverse engineering a hardened version of the Linux kernel. Today, he is a Security Researcher at Semgrep. Having recently moved to Boston and bringing two cats with him, he is open to any suggestions about restaurants, activities, and other hobbies to get involved with!"
   - &miket
     name: Mike Thom
     bio: "Mike Thom is an Offensive Security Consultant specializing in internal network compromise, lateral movement, and identity-driven attack paths. He works on penetration testing engagements focused on realistic attacker tradecraft rather than exploit-centric testing.  His work centers on executing realistic attacker tradecraft that abuses legitimate access and protocols to move through enterprise environments under real operational constraints."
