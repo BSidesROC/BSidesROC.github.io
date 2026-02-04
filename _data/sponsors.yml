@@ -1,28 +1,37 @@
 - name: RocISSA
   url: https://www.rocissa.org/
   image: RocISSALogo-brief.png
+  level: 1
 - name: Saint Bonaventure Cybersecurity
   url: https://www.sbu.edu/academics/cybersecurity
   image: cyblogo.png
+  level: 1
 - name: Sumo Logic
   url: https://www.sumologic.com/
   image: SumoLogic_Logo_SumoBlue_RGB.svg
+  level: 1
+- name: ICR
+  url: https://icr-team.com/
+  image: icr.png
+  level: 1
+- name: OrbitalFire Cybersecurity
+  url: https://orbitalfire.com/
+  image: OrbitalFire_Logo_Horizontal_Color.png
+  level: 3
 - name: no starch press
   url: https://nostarch.com/
   image: nostarch-2018-bronze.png
   style: "background-color: rgb(41, 41, 41);"
+  level: 4
 - name: Modern Security
   url: https://www.modernsecurity.io/
   image: modern_security.png
+  level: 4
 - name: MetaCTF
   url: https://metactf.com/
   image: metactf-logo-new.png
-- name: ICR
-  url: https://icr-team.com/
-  image: icr.png
-- name: OrbitalFire Cybersecurity
-  url: https://orbitalfire.com/
-  image: OrbitalFire_Logo_Horizontal_Color.png
+  level: 4
 - name: RIT Global Cybersecurity Institute
   url: https://www.rit.edu/cybersecurity/
   image: rit_esl_global_cybersecurity_institute.png
+  level: 4
