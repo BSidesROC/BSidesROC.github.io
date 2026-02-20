@@ -18,6 +18,10 @@
   url: https://www.proarch.com/
   image: ProArch Logo-02.png
   level: 1
+- name: University of Rochester
+  url: https://www.rochester.edu/
+  image: UR_Logo_Light.png
+  level: 2
 - name: OrbitalFire Cybersecurity
   url: https://orbitalfire.com/
   image: OrbitalFire_Logo_Horizontal_Color.png
