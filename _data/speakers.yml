@@ -5,9 +5,9 @@ speakers:
   - &darb
     name: Darryl Baker
     bio: "Darryl G. Baker is a security researcher and seasoned Active Directory security assessment professional focused on identity threat detection and response (ITDR). He specializes in evaluating AD security posture end-to-end, including adversary emulation, authentication and authorization pathways, privileged access models, and translating findings into actionable remediation roadmaps. Darryl’s background includes 12 year in the US Army including Special Operations, shaping a leadership style grounded in operational rigor, clear communication, and accountability under pressure. His research approach is similarly practical: build reproducible labs, validate attack paths, and convert “interesting” techniques into measurable detections, defensive controls, and guardrails defenders can deploy in real environments."
-  - &mattb
-    name: Matt Barnett
-    bio: "Matt Barnett is a nationally-recognized expert on physical and cybersecurity, incident response, identity theft, and digital forensics. His expertise is backed by decades of combined information security and law enforcement experience as well as the CISSP  and GCFA certifications."
+  - &mattg
+    name: Matthew Gracie
+    bio: "Matthew Gracie is a defensive security specialist with fifteen years of Blue Team experience in higher education, manufacturing, financial services, and healthcare. He is currently a Senior Engineer at Security Onion Solutions, as well as the interim director of the Cybersecurity graduate program at Canisius University. Matt is also the lead organizer of Infosec 716, a monthly meetup for security enthusiasts in Western New York, and the BSides Buffalo technology conference. He enjoys good beer, mountain bikes, open source security tools, and college hockey, and can be found on Bluesky as @InfosecGoon."
   - &crab
     name: Craig Birch
     bio: "Craig Birch is a Principal Technologist at Cayosoft with over 25 years of hands-on experience across identity security, Active Directory engineering, and hybrid Microsoft environments. He has led large-scale AD modernization and security initiatives and is known for translating attacker tradecraft into practical defensive guidance for overstretched IT teams. Craig previously held senior roles at Tenable and Quest Software, and his work focuses on exposing hidden identity attack paths, toxic permission combinations, and real-world privilege escalation chains. He speaks in a blunt, practical style built for engineers who need answers, not theory"
@@ -35,6 +35,9 @@ speakers:
   - &miket
     name: Mike Thom
     bio: "Mike Thom is an Offensive Security Consultant specializing in internal network compromise, lateral movement, and identity-driven attack paths. He works on penetration testing engagements focused on realistic attacker tradecraft rather than exploit-centric testing.  His work centers on executing realistic attacker tradecraft that abuses legitimate access and protocols to move through enterprise environments under real operational constraints."
+  - &loganh
+    name: Logan Hillard
+    bio: "Logan Hillard is an Offensive Security Lead specializing in internal network compromise, lateral movement, and identity-driven attack paths. He leads enterprise red team engagements focused on validating real-world attacker tradecraft rather than tool-centric exploitation."
   - &jimt
     name: James Troutman
     bio: "James Troutman is a technology consultant and entrepreneur with over 30 years of experience in Internet infrastructure, cybersecurity, and IT leadership. He has served as a fractional CIO, CISO, and network architect, helping organizations align technology strategies with business goals while still ensuring security and resilience. He recently co-authored and helped design Maine’s MOOSE Net project, a 530-mile open-access fiber optic network enabling new lower-latency routes across Maine between Atlantic Canada and Quebec.  James is the volunteer Co-founder and Director of the Northern New England Neutral Internet Exchange (NNENIX) [https://nnenix.net] and a lead organizer of SkyTalks [https://skytalks.info], an off-the-record cybersecurity forum held in Las Vegas during “hacker summer camp."
@@ -44,6 +47,7 @@ speakers:
   - &eriw
     name: Eric Woodruff
     bio: "Throughout his 25-year career in the IT field, Eric has sought out and held a diverse range of roles. Currently the Chief Identity Architect for Semperis; Eric previously was a member of the Security Research and Product teams. Prior to Semperis, Eric worked as a Security and Identity Architect at Microsoft partners, spent time working at Microsoft as a Sr. Premier Field Engineer, and spent almost 15 years in the public sector, with 10 of them as a technical manager.  Eric is a Microsoft MVP for security, recognized for his expertise in the Microsoft identity ecosystem."
+
 
 
 talks:
@@ -75,12 +79,15 @@ talks:
   presenters:
     - *tyler
 
-- title: "Dealing with Shadows: A day in the life of a threat actor negotiator"
-  abstract: "This talk examines ransomware negotiations as strategic psychological engagements, not just financial transactions, revealing how disciplined tactics like timing and message control influence outcomes beyond price while exposing critical mistakes that increase organizational cost and exposure."
+- title: "A Standard For Investigative Playbooks"
+  abstract: |
+      The Human Centered Investigation Playbook (HCIP) standard is a YAML-based syntax for writing investigation playbooks that correspond to a particular alert, artifact, or attack. The goal is to have an investigation methodology that both guides the analyst and also integrates into defensive tooling to make necessary data easily available during the investigation.
+      
+      In this presentation I will discuss the standard, explore its purpose and use cases, and demonstrate its functionality in a free and open monitoring platform.
   length: 50 min
   keynote: false
   presenters:
-    - *mattb
+    - *mattg
 
 
 - title: "Testing Security Controls: Do They Detect Behavior or Just File Signatures?"
@@ -113,6 +120,7 @@ talks:
   keynote: false
   presenters:
     - *miket
+    - *loganh
 
 - title: Security Misconfigurations in the Cloud - "Oh Look, something fluffy, poke poke poke!"
   abstract: |
