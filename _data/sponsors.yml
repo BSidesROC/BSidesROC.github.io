@@ -18,6 +18,14 @@
   url: https://www.proarch.com/
   image: ProArch Logo-02.png
   level: 1
+- name: UV Cyber
+  url: https://www.uvcyber.com/
+  level: 1
+  image: Ultraviolet_Logo_Primary_RGB.png
+- name: M&T Tech
+  url: https://www.mtb.com/homepage/about-us
+  level: 1
+  image: MT_Tech_blk_digital.png
 - name: University of Rochester
   url: https://www.rochester.edu/
   image: UR_Logo_Light.png
@@ -42,4 +50,8 @@
 - name: RIT Global Cybersecurity Institute
   url: https://www.rit.edu/cybersecurity/
   image: rit_esl_global_cybersecurity_institute.png
+  level: 4
+- name: Just Hacking Training
+  url: https://www.justhacking.com/
+  image: JHT_Logo-300x300.png
   level: 4
