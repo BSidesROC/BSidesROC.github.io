@@ -1,103 +1,213 @@
 speakers:
+  - &cassy
+    name: Cassandra Young (@muteki)
+    keynote: true
+    bio: "As a Principal Consultant on CrowdStrike's Cloud Technical Advisory team, Cassandra analyzes the organizational security posture of Azure, GCP and Oracle Cloud environments, and leads the development of data collection and analysis tooling. Additionally, she assists the Incident Response team as a technical GCP and OCI SME, and supports strategic advisory and technical tabletop exercises across multiple cloud platforms. In addition to her decade of IT and then cloud security consulting experience, Cassandra also holds a Master’s in Computer Science from the University of Pennsylvania and is a director of Blue Team Village, a nonprofit organization bringing free Blue Team content to the community."
   - &chrisa
     name: Christopher Aziz
+    keynote: false
     bio: "Christopher Aziz is a security researcher and founder of Bombadil Systems, specializing in detection methodology validation. He recently presented format destruction techniques at DEF CON DC862, demonstrating how security controls rely on format signatures rather than behavioral analysis. His work focuses on providing penetration testing firms with systematic frameworks for testing client security controls."
   - &darb
     name: Darryl Baker
+    keynote: false
     bio: "Darryl G. Baker is a security researcher and seasoned Active Directory security assessment professional focused on identity threat detection and response (ITDR). He specializes in evaluating AD security posture end-to-end, including adversary emulation, authentication and authorization pathways, privileged access models, and translating findings into actionable remediation roadmaps. Darryl’s background includes 12 year in the US Army including Special Operations, shaping a leadership style grounded in operational rigor, clear communication, and accountability under pressure. His research approach is similarly practical: build reproducible labs, validate attack paths, and convert “interesting” techniques into measurable detections, defensive controls, and guardrails defenders can deploy in real environments."
   - &mattg
     name: Matthew Gracie
+    keynote: false
     bio: "Matthew Gracie is a defensive security specialist with fifteen years of Blue Team experience in higher education, manufacturing, financial services, and healthcare. He is currently a Senior Engineer at Security Onion Solutions, as well as the interim director of the Cybersecurity graduate program at Canisius University. Matt is also the lead organizer of Infosec 716, a monthly meetup for security enthusiasts in Western New York, and the BSides Buffalo technology conference. He enjoys good beer, mountain bikes, open source security tools, and college hockey, and can be found on Bluesky as @InfosecGoon."
   - &crab
     name: Craig Birch
+    keynote: false
     bio: "Craig Birch is a Principal Technologist at Cayosoft with over 25 years of hands-on experience across identity security, Active Directory engineering, and hybrid Microsoft environments. He has led large-scale AD modernization and security initiatives and is known for translating attacker tradecraft into practical defensive guidance for overstretched IT teams. Craig previously held senior roles at Tenable and Quest Software, and his work focuses on exposing hidden identity attack paths, toxic permission combinations, and real-world privilege escalation chains. He speaks in a blunt, practical style built for engineers who need answers, not theory"
   - &paulb
     name: Paul Brownridge
+    keynote: false
     bio: "Paul comes from a chemical engineering background. He spent three years working in a refinery as an industrial process control engineer. He is very familiar with human machine interfaces, telemetry, sensor data and other SCADA system and has hands-on experience of installing, programming and bug fixing on process control systems. He understands the intricacies and unusual nature of serial networks, IP to serial convertors, PLCs and RTUs. Since moving into cybersecurity, he has become actively involved in penetration testing. His practical experience of process control and cyber security make him a capable and highly competent OT cyber engineer."
   - &katf
     name: Kat Fitzgerald
+    keynote: false
     bio: "Chicago-based and proudly a natural creature of winter, I thrive on snow, OSS, and just the right amount of chaos. Whether sipping Grand Mayan Extra Añejo or warding off cyber threats with a mix of honeypots, magic spells, and a very opinionated flamingo named Sasha, I keep things interesting. Honeypots and refrigerators rank among my favorite things, though my neighbors would likely disagree."
   - &tyler
     name: Tyler Hudak
+    keynote: false
     bio: "Tyler Hudak is Director of Incident Response at Inversion6 and a seasoned incident response and digital forensics expert with over 25 years of hands-on experience, including roles at the Mayo Clinic and General Electric. He has led incident response teams and security operations, conducted extensive forensic investigations, and worked closely with legal teams to manage ransomware, business email compromise, and APT incidents."
   - &dipk
     name: Diptendu Kar
+    keynote: false
     bio: "Diptendu Kar is a security researcher focused on supply chain and dependency risk. He works on triaging open-source vulnerabilities, writing detection rules, and exploring how AI can automate tedious parts of security research. He also teaches Software Security Practices at Northeastern University part time and holds a Master’s in Cybersecurity. Before security, he worked as a Java developer at TCS. He’s especially interested in patch diffing, vulnerable function detection, and the use of LLMs in AppSec."
   - &suzr
     name: Suzanne Ricci
+    keynote: false
     bio: "Suzanne is a tech leader, educator, and lifelong learner who believes skills—not job titles—drive real career growth. With 26 years of experience in tech training, she has helped more than 10,000 IT professionals advance, pivot, and future-proof their careers. As CEO of Computer Coach, she works with organizations and individuals to close skills gaps in IT, leadership, and emerging technologies. She’s known for practical, no-nonsense career growth strategies that help professionals stand out, adapt, and stay relevant as technology evolves. When she’s not teaching, speaking, or advising, Suzanne is focused on one thing: preparing today’s workforce for what’s coming next."
   - &victoria
     name: Victoria St. John
+    keynote: false
     bio: "Victoria St. John is a security engineer and incident response specialist with experience in threat investigation, detection engineering, and purple team operations, holding industry certifications including GCIH and CISSP. She draws on a multidisciplinary background that includes years of teaching, deep systems analysis, and creative pattern work to bring structural thinking to cybersecurity challenges. Her work bridges technical rigor with cognitive strategy to help responders improve accuracy and efficiency under pressure."
   - &ders
     name: Derian Stenglein
+    keynote: false
     bio: "Derian Stenglein is a recent graduate of the Rochester Institute of Technology with a Bachelor's degree in Computing Security. Throughout college, he experienced two internships. One was at Rockstar Games, performing binary reverse engineering and automation. The other was at Assured Information Security, reverse engineering a hardened version of the Linux kernel. Today, he is a Security Researcher at Semgrep. Having recently moved to Boston and bringing two cats with him, he is open to any suggestions about restaurants, activities, and other hobbies to get involved with!"
   - &miket
     name: Mike Thom
+    keynote: false
     bio: "Mike Thom is an Offensive Security Consultant specializing in internal network compromise, lateral movement, and identity-driven attack paths. He works on penetration testing engagements focused on realistic attacker tradecraft rather than exploit-centric testing.  His work centers on executing realistic attacker tradecraft that abuses legitimate access and protocols to move through enterprise environments under real operational constraints."
   - &loganh
     name: Logan Hillard
+    keynote: false
     bio: "Logan Hillard is an Offensive Security Lead specializing in internal network compromise, lateral movement, and identity-driven attack paths. He leads enterprise red team engagements focused on validating real-world attacker tradecraft rather than tool-centric exploitation."
   - &jimt
     name: James Troutman
+    keynote: false
     bio: "James Troutman is a technology consultant and entrepreneur with over 30 years of experience in Internet infrastructure, cybersecurity, and IT leadership. He has served as a fractional CIO, CISO, and network architect, helping organizations align technology strategies with business goals while still ensuring security and resilience. He recently co-authored and helped design Maine’s MOOSE Net project, a 530-mile open-access fiber optic network enabling new lower-latency routes across Maine between Atlantic Canada and Quebec.  James is the volunteer Co-founder and Director of the Northern New England Neutral Internet Exchange (NNENIX) [https://nnenix.net] and a lead organizer of SkyTalks [https://skytalks.info], an off-the-record cybersecurity forum held in Las Vegas during “hacker summer camp."
+  - &chbi:
+    name: Cheryl Biswas
+    keynote: false
+    bio: "Cheryl Biswas is a Cyber Security Analyst, Threat Intelligence based in New Brunswick, Canada. She gained initial access to InfoSec through a helpdesk backdoor, pivoted into vendor and change management roles, then jumped a gap into privacy, disaster recovery, and business continuity planning. From there, she laterally moved into security audits and assessments. Her Political Science degree evolved into a passion for researching APTs, botnets, ransomware, and more. Actively engaged in the security community, Cheryl is a frequent conference speaker and volunteer, and mentors individuals new to the field. She is also an advocate for women and diversity in InfoSec as a founding member of The Diana Initiative [https://www.dianainitiative.org/]."
   - &dimw
     name: Dimitri Weaver
+    keynote: false
     bio: "Dimitri Weaver works at the intersection of hacking, cybersecurity, and real‑world security practice. His background blends military‑grade OPSEC, IT operations, system administration, and hands‑on security research. He’s not the type to claim expert status; just someone who’s put in enough time to know what he knows, what he doesn’t, and how to keep learning. Whether he’s probing a network, tightening an operation, or digging into a new vulnerability, he brings curiosity, discipline, and a practical mindset to every job."
   - &eriw
     name: Eric Woodruff
+    keynote: false
     bio: "Throughout his 25-year career in the IT field, Eric has sought out and held a diverse range of roles. Currently the Chief Identity Architect for Semperis; Eric previously was a member of the Security Research and Product teams. Prior to Semperis, Eric worked as a Security and Identity Architect at Microsoft partners, spent time working at Microsoft as a Sr. Premier Field Engineer, and spent almost 15 years in the public sector, with 10 of them as a technical manager.  Eric is a Microsoft MVP for security, recognized for his expertise in the Microsoft identity ecosystem."
+
+time_slots:
+  - &0900_0950
+    display:  "09:00AM-09:50AM"
+    order: 1
+  - &1000_1050
+    display: 10:00AM-10:50AM
+    order: 2
+  - &1100_1150
+    display: 11:00AM-11:50AM
+    order: 3
+  - &1200_1330
+    display: 12:00PM-01:30PM
+    order: 4
+  - &1300_1355
+    display: 12:00PM-01:55PM
+    order: 5
+  - &1400_1450
+    display: 02:00PM-02:50PM
+    order: 6
+  - &1500_1550
+    display: 03:00PM-03:50PM
+    order: 7
+  - &1600_1650
+    display: 04:00PM-04:40PM
+    order: 8
+  - &1700_1730
+    display: 05:00PM-05:30PM
+    order: 9
+
+tracks:
+  - &track1
+    name: "Track 1"
+  - &track2
+    name: "Track 2"
 
 
 
 talks:
+- title: "Keynote"
+  keynote: true
+  include_in_talks: false
+  abstract: "TBD"
+  length: 50 min
+  track: *track1
+  time_slot: *0900_0950
+  presenters:
+    - *cassy
+- title: "Keynote"
+  keynote: true
+  include_in_talks: false
+  abstract: "TBD"
+  length: 50 min
+  track: *track2
+  time_slot: *0900_0950
+  presenters:
+    - *cassy
+
+- title: "Lunch"
+  keynote: false
+  include_in_talks: false
+  length: 90 min
+  track: *track1
+  time_slot: *1200_1330
+
+- title: "Lunch"
+  keynote: false
+  include_in_talks: false
+  length: 90 min
+  track: *track2
+  time_slot: *1200_1330
+
 - title: "Reframing the Lens: Expanding Analytical Frames for Faster, Clearer Incident Response"
+  include_in_talks: true
   abstract: "Why do skilled analysts still chase dead ends, misread signals, or miss the obvious? Often it isn’t a tooling problem — it’s a framing problem. Incident response relies on the mental “lens” we use to interpret clues, and when that lens is too narrow, we get tunnel vision; too wide, and we drown in noise. This talk shows how hidden analytical frames shape investigations, how they quietly bias our hypotheses, and how to switch lenses quickly without derailing momentum. Through systems thinking, security engineering insight, and a few crisp, hyperbolic examples, you’ll learn a practical method for improving IR clarity, reducing cognitive blind spots, and accelerating your investigative process — all without slipping into analysis paralysis."
   keynote: false
   length: 25 min
+  track: *track1
+  time_slot: *1300_1355
   presenters:
     - *victoria
 
 - title: "Practice being punched in the face: the reality of breach readiness "
+  include_in_talks: true
   keynote: false
   abstract: "Everyone has a plan until they get punched in the face.” Mike Tyson’s line sums up incident response better than any manual. You can draft the neatest IR plan in the world, but unless you have practised taking the hit, it will fold the moment reality lands a blow. "
   length: 50 min
+  track: *track2
+  time_slot: *1600_1650
   presenters:
     - *paulb
 
 - title: "Breaking Into Cybersecurity Without “Experience”"
+  include_in_talks: true
   abstract: "Many cybersecurity roles ask for experience before you’ve had the chance to get hired. This presentation breaks down practical, proven ways to build hands-on cybersecurity experience without waiting for a job offer. You’ll learn how to create real evidence of skills through labs, projects, volunteer work, competitions, and public documentation that employers actually value."
   length: 50 min
   keynote: false
+  track: *track1
+  time_slot: *1100_1150
   presenters:
     - *suzr
 
 - title: "Evolving Incident Response - IR Triage for Faster Response"
+  include_in_talks: true
   abstract: "Incident Response has shifted. Gone are the days when responders waited for dead disk images to begin investigations. Today's threats demand speed, agility, and immediate access to live data. This session explores the evolution from traditional dead-disk forensics to modern live response and triage techniques. We'll discuss real-world approaches to quickly gathering volatile data, practical tools and scripts that streamline collection, and how organizations can make faster, better decisions during incidents. Attendees will leave with actionable methods to enhance their IR capabilities and move at the speed of the threat."
   length: 50 min
   keynote: false
+  track: *track1
+  time_slot: *1500_1550
   presenters:
     - *tyler
 
 - title: "A Standard For Investigative Playbooks"
+  include_in_talks: true
   abstract: |
       The Human Centered Investigation Playbook (HCIP) standard is a YAML-based syntax for writing investigation playbooks that correspond to a particular alert, artifact, or attack. The goal is to have an investigation methodology that both guides the analyst and also integrates into defensive tooling to make necessary data easily available during the investigation.
       
       In this presentation I will discuss the standard, explore its purpose and use cases, and demonstrate its functionality in a free and open monitoring platform.
   length: 50 min
   keynote: false
+  track: *track1
+  time_slot: *1600_1650
   presenters:
     - *mattg
 
-
 - title: "Testing Security Controls: Do They Detect Behavior or Just File Signatures?"
+  include_in_talks: true
   abstract: "Most DLP and EDR systems claim to detect threats based on behavioral analysis, but how many actually rely on format signatures, magic bytes, and file headers? This presentation introduces Veriduct, a format destruction framework that systematically tests whether security controls detect based on content and behavior versus pattern matching. We’ll demonstrate empirical results from testing production APT malware across 68 security engines, achieving 0 detections after format destruction and perfect reconstruction with hash verification, proving that many behavioral detection claims are marketing rather than reality."
   length: 50 min
   keynote: false
+  track: *track1
+  time_slot: *1400_1450
   presenters:
     - *chrisa
 
 - title: "Red Team Thinking for OPSEC: Why Privacy Fails in Practice"
+  include_in_talks: true
   abstract: |
     Operational Security (OPSEC) and personal privacy failures are rarely caused by missing tools or misconfigured settings. More often, they result from inconsistent habits, unexamined assumptions, and gradual drift in how people behave over time.
 
@@ -106,10 +216,13 @@ talks:
     Attendees will learn how to define realistic threat models, recognize common OPSEC failure patterns, and apply disciplined, repeatable thinking to improve privacy outcomes. The goal is not perfect anonymity, but resilient, defensible privacy practices that hold up under scrutiny.
   length: 25 min
   keynote: false
+  track: *track2
+  time_slot: *1700_1730
   presenters:
     - *dimw
 
 - title: "Living Off the Land: Advanced SSH Pivoting, Proxy Chaining, and Reverse Shell Tradecraft"
+  include_in_talks: true
   abstract: |
     This session focuses on how offensive security teams reliably establish and maintain persistent network connectivity to a physical penetration-testing dropbox using only built-in protocols no malware, no exploits, and no client-side configuration changes.
 
@@ -118,21 +231,27 @@ talks:
     This talk is not about finding vulnerabilities. It is about operational dominance: making sure access works every time, in every environment. Attendees will leave with a repeatable access engineering workflow that mirrors how real attackers and professional red teams operate during internal assessments.
   length: 25 min
   keynote: false
+  track: *track1
+  time_slot: *1700_1730
   presenters:
     - *miket
     - *loganh
 
 - title: Security Misconfigurations in the Cloud - "Oh Look, something fluffy, poke poke poke!"
+  include_in_talks: true
   abstract: |
     Cloud security shouldn’t feel like deciphering a spellbook written during a power outage. This talk starts by breaking down the core concepts of cloud architecture and access control using clear, memorable analogies—yes, “Pizza as a Service” makes an appearance. In just a few minutes, the audience will understand how IAM, org policies, and service boundaries compare to the on-prem world, and how attackers use these same models to find weak spots.
 
     Then it’s showtime. We dive into real-world cloud misconfigurations and the attack paths they create, with a mix of live demos (plus recorded backups, because the demo gods can be fickle) and open-source tools that anyone can use. We’ll walk through everything from “accidental” data exposure to the infamous public GitHub token that launched hundreds of crypto-mining VMs without detection. And yes—why cryptominers are often just the decoy for something far more concerning.
   length: 50 min
   keynote: false
+  track: *track2
+  time_slot: *1500_1550
   presenters:
     - *katf
 
 - title: "npm should-i-install: Malicious npm packages - Anatomy, Detection gaps and AI's role"
+  include_in_talks: true
   abstract: |
     The software supply chain is under constant attack, and nowhere is this clearer than the JavaScript ecosystem. In 2023, over 5,000 malicious npm packages were removed; by mid-2024 that number exceeded half a million. Recent compromises like NX Singularity, Chalk/Debug, and the Shai-Hulud1 and Shai-Hulud2 worm show that attackers are no longer uploading random malware but hijacking trusted packages with millions of downloads.
 
@@ -141,11 +260,14 @@ talks:
     We also explore AI’s role in analyzing malicious packages: when it succeeds, where it fails, and whether a deny-by-default policy is practical. Attendees will leave with real incident timelines, concrete malware examples, code walkthroughs, and actionable defenses they can apply immediately.
   length: 25 min
   keynote: false
+  track: *track2
+  time_slot: *1300_1355
   presenters:
     - *dipk
     - *ders
 
 -  title: "Do You Want to Play a Game? How About Disabling Civilization?"
+   include_in_talks: true
    abstract: |
      How hard do you think it would be to disable our civilization? Not as hard as you think.
 
@@ -156,20 +278,27 @@ talks:
      From our experiences as an infrastructure engineer and a threat intel analyst, we will discuss the physical and cybersecurity risks to the operations of the Internet and other critical infrastructure systems. Think natural disasters, ransomware in data centers, terrorism and sabotage, plus human error at scale. We’ll discuss how outages created by threat actors, climate change, or bad planning are impacting society via the businesses and services our civilization depends on. And because we can still prepare in advance, we’ll give you some recommendations and mitigation strategies to try to keep your organization or community connected. State sponsored adversarial attacks will increasingly seek to exploit our weaknesses to “Disrupt and Disable” then leverage the ensuing communications blackouts to incite mass panic or worse.
    length: 50 min
    keynote: false
+   track: *track1
+   time_slot: *1000_1050
    presenters:
      - *jimt
+     - *chbi
 
 - title: "How We've Gone Completely Phishing-resistant (And So Can You!)"
+  include_in_talks: true
   abstract: |
     Phishing-resistant authentication is shifting from optional to mandatory. Not only are attackers using phishing as the primary mechanism to evade traditional forms of MFA, but they are also evolving their attacks to find ways around implementations where phishing-resistant auth is only preferred and not enforced. The road to deploying passkeys, Windows Hello for Business and Mac Platform SSO looks easy enough in the Microsoft docs, but what does it look like to implement them as mandatory across a workforce?
 
     In this session we’ll cover how we went from a handful of FIDO2 keys to phishing-resistant authentication across our enterprise in Entra ID at breakneck speeds. We’ll explore the ins-and-outs from a technical and organizational perspective of the implementation, the gotchas we hit along the way, and how we overcame them. We’ll cover edge case scenarios, and how deploying passkeys is just part of the bigger equation to going phishing-resistant. We’ll also examine phishing attack trends we were seeing, which helped inform and shape policy so that phishing-resistant authentication isn’t an option – it’s the only option.
   length: 50 min
   keynote: false
+  track: *track2
+  time_slot: *1000_1050
   presenters:
     - *eriw
 
 - title: "What You Don’t Know Will Cost You: Modern AD Attack Paths and Exploit Chains"
+  include_in_talks: true
   abstract: |
     Active Directory is still the fastest way to take control of an enterprise, and attackers know it. Modern compromises rarely rely on a single “big exploit.” Instead, threat actors chain misconfigurations, delegated rights, and credential abuse into repeatable attack paths that quietly lead to Tier 0 control.
 
@@ -178,10 +307,13 @@ talks:
     Attendees will leave with a practical understanding of how attackers move from initial access to full domain compromise, plus the “toxic combinations” that create hidden attack paths most defenders never see until it is too late
   length: 50 min
   keynote: false
+  track: *track2
+  time_slot: *1100_1150
   presenters:
     - *crab
 
 - title: "Broken Mirrors Shatter the Soul: A Deep Dive into Kerberos Reflection Attacks and the SPN/DNS Phenomena"
+  include_in_talks: true
   abstract: |
     2025 witnessed a surge in Kerberos reflection vulnerabilities, fundamentally challenging our understanding of Windows authentication security. This presentation dissects the technical evolution of Kerberos relay-to-self attacks, with particular focus on authentication vulnerabilities even after Microsoft patches.
 
@@ -194,5 +326,7 @@ talks:
     Security professionals attending this presentation will gain comprehensive understanding of why 2025 saw such an increase for Kerberos reflection attacks, bridging academic research and operational security requirements. This presentation includes live demonstrations of key attack techniques and detection opportunities, with attendees receiving comprehensive detection playbooks ideas and hardening guidelines applicable to enterprise Windows environments.
   length: 50 min
   keynote: false
+  track: *track2
+  time_slot: *1400_1450
   presenters:
     - *darb
