@@ -32,7 +32,22 @@ Date: {{ site.data.config.date }}
     <tr>
     {% assign sorted = group.items | sort: 'time_slot.order' %}
     {% for talk in sorted %}
-    <td>{{ talk.time_slot.display }}</td><td>{{ talk.title }}</td>
+    {% assign id = "" | split: "" %}
+    {% assign id_parts = talk.title | replace: '"',"" | split: " " | truncate_words: 3 %}
+    {% for part in id_parts %}
+    {%   assign p = part | downcase | slice: 0 | split: "" %}
+    {%   assign id = id | concat: p %}
+    {% endfor %}
+    <td>{{ talk.time_slot.display }}</td>
+    <td>
+        {% if talk.title == "Keynote" or talk.title == "Lunch" %}
+          {{ talk.title }}
+        {% else %}
+          <a href="/talks#{{ id }}">
+          {{ talk.title }}
+          </a>
+        {% endif %}
+    </td>
     {% endfor %}
 </tr>
 {% endfor %}
