@@ -14,6 +14,7 @@ layout: default
     </div>
 </div>
 {% for speaker in site.data.speakers.speakers %}
+{% if speaker.keynote == false %}
 <div class="card flex-row mb-2 mt-2">
     <div class="card-body">
         <div id="{{ speaker.name | strip | downcase | replace: " ", "_" }}" class="card-title h2 text-warning">
@@ -24,4 +25,5 @@ layout: default
         </p>
     </div>
 </div>
+{% endif %}
 {% endfor %}

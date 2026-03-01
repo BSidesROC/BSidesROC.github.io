@@ -1,7 +1,14 @@
-{% for talk in site.data.speakers.talks %}
+{% assign talks = site.data.speakers.talks | where: 'include_in_talks', true %}
+{% for talk in talks %}
 <div class="card mb-2 mt-2">
     <div class="card-body">
-        <div id="{{ speaker.name | strip | downcase | replace: " ", "_" }}" class="card-title h2 text-warning">
+       {% assign id = "" | split: "" %}
+       {% assign id_parts = talk.title | replace: '"',"" | split: " " | truncate_words: 3 %}
+       {% for part in id_parts %}
+       {%   assign p = part | downcase | slice: 0 | split: "" %}
+       {%   assign id = id | concat: p %}
+       {% endfor %}
+        <div id="{{ id }}" class="card-title h2 text-warning">
             {{ talk.title }}
         </div>
         <p class="card-text text-white">
