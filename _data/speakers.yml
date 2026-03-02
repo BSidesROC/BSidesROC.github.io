@@ -73,33 +73,36 @@ speakers:
     bio: "Throughout his 25-year career in the IT field, Eric has sought out and held a diverse range of roles. Currently the Chief Identity Architect for Semperis; Eric previously was a member of the Security Research and Product teams. Prior to Semperis, Eric worked as a Security and Identity Architect at Microsoft partners, spent time working at Microsoft as a Sr. Premier Field Engineer, and spent almost 15 years in the public sector, with 10 of them as a technical manager.  Eric is a Microsoft MVP for security, recognized for his expertise in the Microsoft identity ecosystem."
 
 time_slots:
+  - &0845
+    display: "08:45AM"
+    order: 1
   - &0900_0950
     display:  "09:00AM-09:50AM"
-    order: 1
+    order: 2
   - &1000_1050
     display: 10:00AM-10:50AM
-    order: 2
+    order: 3
   - &1100_1150
     display: 11:00AM-11:50AM
-    order: 3
+    order: 4
   - &1200_1330
     display: 12:00PM-01:30PM
-    order: 4
+    order: 5
   - &1300_1355
     display: 12:00PM-01:55PM
-    order: 5
+    order: 6
   - &1400_1450
     display: 02:00PM-02:50PM
-    order: 6
+    order: 7
   - &1500_1550
     display: 03:00PM-03:50PM
-    order: 7
+    order: 8
   - &1600_1650
     display: 04:00PM-04:40PM
-    order: 8
+    order: 9
   - &1700_1730
     display: 05:00PM-05:30PM
-    order: 9
+    order: 10
 
 tracks:
   - &track1
@@ -110,6 +113,18 @@ tracks:
 
 
 talks:
+- title: "Opening Remarks"
+  keynote: false
+  include_in_talks: false
+  length: 15 min
+  track: *track1
+  time_slot: *0845
+- title: "Opening Remarks"
+  keynote: false
+  include_in_talks: false
+  length: 15 min
+  track: *track2
+  time_slot: *0845
 - title: "Keynote"
   keynote: true
   include_in_talks: false

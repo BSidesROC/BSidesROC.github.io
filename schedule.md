@@ -18,8 +18,8 @@ The following talks will be offered on Saturday:
 Date: {{ site.data.config.date }}
 
 {% assign groups = site.data.speakers.talks  | sort: 'time_slot.order' | group_by: 'time_slot.display' %}
-<table class="table">
-<thead>
+<table class="table table-striped">
+<thead class="">
 <tr>
 <td>Time Slot</td>
 <td>Track 1</td>
