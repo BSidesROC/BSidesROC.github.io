@@ -17,11 +17,13 @@
     </div>
     <div class="card-footer text-white">
     Presenter(s):
-    {% for presenter in talk.presenters %}
-    <span class="h5 text-warning">
-    <a class="h5 text-warning" href="/speakers#{{ presenter.name | strip | downcase | replace: " ", "_" }}"> {{ presenter.name }} </a>
-    </span>    
+     {% if talk.presenters.size > 0  %}
+     {% for presenter in talk.presenters %}
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#{{ presenter.name | strip | downcase | replace: " ", "_" }}"> {{ presenter.name }} </a>
+        </span>
     {% endfor %}
+    {% endif %}
     </div>
 </div>
 {% endfor %}
