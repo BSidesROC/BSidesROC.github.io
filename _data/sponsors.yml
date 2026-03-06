@@ -34,6 +34,10 @@
   url: https://orbitalfire.com/
   image: OrbitalFire_Logo_Horizontal_Color.png
   level: 3
+- name: Black Hills Information Security
+  url: https://www.blackhillsinfosec.com/
+  image: BHIS_TEXT.png
+  level: 4
 - name: no starch press
   url: https://nostarch.com/
   image: nostarch-2018-bronze.png
