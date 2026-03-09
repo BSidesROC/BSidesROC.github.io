@@ -26,6 +26,10 @@
   url: https://www.mtb.com/homepage/about-us
   level: 1
   image: MT_Tech_blk_digital.png
+- name: Frederick Ullman
+  url: '#'
+  level: 1
+  image: memory_of_don_ullman.png
 - name: University of Rochester
   url: https://www.rochester.edu/
   image: UR_Logo_Light.png
@@ -34,6 +38,10 @@
   url: https://orbitalfire.com/
   image: OrbitalFire_Logo_Horizontal_Color.png
   level: 3
+- name: Hotiron Creative
+  url:
+  level: 3
+  image: HotironCreative_RGB_vector_WEB.svg
 - name: Black Hills Information Security
   url: https://www.blackhillsinfosec.com/
   image: BHIS_TEXT.png
