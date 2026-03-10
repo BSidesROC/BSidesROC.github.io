@@ -59,7 +59,7 @@ speakers:
     name: James Troutman
     keynote: false
     bio: "James Troutman is a technology consultant and entrepreneur with over 30 years of experience in Internet infrastructure, cybersecurity, and IT leadership. He has served as a fractional CIO, CISO, and network architect, helping organizations align technology strategies with business goals while still ensuring security and resilience. He recently co-authored and helped design Maine’s MOOSE Net project, a 530-mile open-access fiber optic network enabling new lower-latency routes across Maine between Atlantic Canada and Quebec.  James is the volunteer Co-founder and Director of the Northern New England Neutral Internet Exchange (NNENIX) [https://nnenix.net] and a lead organizer of SkyTalks [https://skytalks.info], an off-the-record cybersecurity forum held in Las Vegas during “hacker summer camp."
-  - &chbi:
+  - &chbi
     name: Cheryl Biswas
     keynote: false
     bio: "Cheryl Biswas is a Cyber Security Analyst, Threat Intelligence based in New Brunswick, Canada. She gained initial access to InfoSec through a helpdesk backdoor, pivoted into vendor and change management roles, then jumped a gap into privacy, disaster recovery, and business continuity planning. From there, she laterally moved into security audits and assessments. Her Political Science degree evolved into a passion for researching APTs, botnets, ransomware, and more. Actively engaged in the security community, Cheryl is a frequent conference speaker and volunteer, and mentors individuals new to the field. She is also an advocate for women and diversity in InfoSec as a founding member of The Diana Initiative [https://www.dianainitiative.org/]."
@@ -86,22 +86,22 @@ time_slots:
     display: 11:00AM-11:50AM
     order: 4
   - &1200_1330
-    display: 12:00PM-01:30PM
+    display: 12:00PM-1:30PM
     order: 5
-  - &1300_1355
-    display: 12:00PM-01:55PM
+  - &1330_1355
+    display: 1:30PM-1:55PM
     order: 6
   - &1400_1450
-    display: 02:00PM-02:50PM
+    display: 2:00PM-2:50PM
     order: 7
   - &1500_1550
-    display: 03:00PM-03:50PM
+    display: 3:00PM-3:50PM
     order: 8
   - &1600_1650
-    display: 04:00PM-04:40PM
+    display: 4:00PM-4:50PM
     order: 9
   - &1700_1730
-    display: 05:00PM-05:30PM
+    display: 5:00PM-5:30PM
     order: 10
 
 tracks:
@@ -164,7 +164,7 @@ talks:
   keynote: false
   length: 25 min
   track: *track1
-  time_slot: *1300_1355
+  time_slot: *1330_1355
   presenters:
     - *victoria
 
@@ -276,7 +276,7 @@ talks:
   length: 25 min
   keynote: false
   track: *track2
-  time_slot: *1300_1355
+  time_slot: *1330_1355
   presenters:
     - *dipk
     - *ders

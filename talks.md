@@ -20,7 +20,13 @@
      {% if talk.presenters.size > 0  %}
      {% for presenter in talk.presenters %}
         <span class="h5 text-warning">
-        <a class="h5 text-warning" href="/speakers#{{ presenter.name | strip | downcase | replace: " ", "_" }}"> {{ presenter.name }} </a>
+        <a class="h5 text-warning" href="/speakers#{{ presenter.name | strip | downcase | replace: " ", "_" }}">
+           {{ presenter.name }} 
+        </a>
+        {%- if forloop.length > 1 -%}
+         {% if forloop.first %},{% endif %}
+         {% unless forloop.last %}{% endunless -%}
+        {%- endif -%}
         </span>
     {% endfor %}
     {% endif %}
