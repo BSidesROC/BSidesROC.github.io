@@ -125,12 +125,21 @@ talks:
   length: 15 min
   track: *track2
   time_slot: *0845
-- title: "Keynote"
+- title: "By Endurance We Conquer: Teamwork and Resilience for Challenging Times"
   keynote: true
-  include_in_talks: false
-  abstract: "TBD"
+  include_in_talks: true
+  abstract: In challenging times, even straightforward ventures can harken back to the harrowing expeditions of the past. Uncharted lands lay ahead, bringing all the fears of failed voyages with them. We talk about how to build leaders and teams that ensure success, but what about ones that can also weather and survive rough seas? A look back into the past can refresh our memory and provide us with tried and true building blocks for the future. So let’s chart a course ahead, in search of icebergs, penguins and snow-capped mountains, with hope for fair winds and following seas.
   length: 50 min
   track: *track1
+  time_slot: *0900_0950
+  presenters:
+    - *cassy
+- title: "By Endurance We Conquer: Teamwork and Resilience for Challenging Times"
+  keynote: true
+  include_in_talks: false
+  abstract: In challenging times, even straightforward ventures can harken back to the harrowing expeditions of the past. Uncharted lands lay ahead, bringing all the fears of failed voyages with them. We talk about how to build leaders and teams that ensure success, but what about ones that can also weather and survive rough seas? A look back into the past can refresh our memory and provide us with tried and true building blocks for the future. So let’s chart a course ahead, in search of icebergs, penguins and snow-capped mountains, with hope for fair winds and following seas.
+  length: 50 min
+  track: *track2
   time_slot: *0900_0950
   presenters:
     - *cassy
