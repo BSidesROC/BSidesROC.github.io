@@ -30,7 +30,7 @@ Date: {{ site.data.config.date }}
 <tbody style="font-size: 1.0rem;">
 {% for group in groups %}
     <tr>
-    {% assign sorted = group.items | sort: 'time_slot.order' %}
+    {% assign sorted = group.items | sort: 'track.name' %}
     {% for talk in sorted %}
     {% assign id = "" | split: "" %}
     {% assign id_parts = talk.title | replace: '"',"" | split: " " | truncate_words: 3 %}
