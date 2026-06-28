@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+<!-- Basic information about this page -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" type="image/x-icon" href="/assets/img/fav.ico">
+<title>
+	
+	Security B-Sides Rochester
+</title>
+
+<!-- Meta tag looking for mobile devices -->
+<meta name="theme-color" content="#232323">
+
+<!-- Good information about this page -->
+<meta name="description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment.">
+<meta name="keywords" content="security, bsides, rochester, ny, newyork">
+<meta name="author" content="BSidesRoc">
+
+<!-- Feed links -->
+<link rel="alternate" type="application/rss+xml" title="BSidesRoc's RSS Feed" href="/rss.xml">
+<link rel="alternate" type="application/atom+xml" title="BSidesRoc's Atom Feed" href="/atom.xml">
+
+<!-- Style and scripts files -->
+<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.slate.min.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/bsidesroc.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/sidebar.css">
+
+<!-- Extra information about this page -->
+<link rel="license" type="text/plain" src="/assets/LICENSE">
+
+<!-- Facebook, Linkedin, Reddit and many others Open Graph -->
+<meta property="og:site_name" content="BSidesRoc" />
+<meta property="og:title" content="Security B-Sides Rochester" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment." />
+<meta property="og:url" content="http://localhost:4000" />
+<meta property="og:image:type" content="image/png" /> <!-- less than 5mB -->
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="315" />
+<meta property="og:image" content="/assets/img/cover.svg" />
+<meta property="og:locale" content="en" />
+<meta property="og:locale:alternate" content="" />
+<meta property="fb:page_id" content="" />
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Security B-Sides Rochester" />
+<meta name="twitter:description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment." />
+<meta name="twitter:url" content="http://localhost:4000" />
+<meta name="twitter:image" content="/assets/img/cover.svg" />
+<meta name="twitter:author" content="bsidesroc" />
+
+<!-- Linkedin OGP cards -->
+<meta property="og:image" content="/assets/img/cover.svg" />
+<meta property="og:image:width" content="180" />
+<meta property="og:image:height" content="110" />
+
+<!-- Google+ OGP cards -->
+<meta itemprop="name" content="Security B-Sides Rochester" />
+<meta itemprop="author" content="" />
+<meta itemprop="description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment." />
+<meta itemprop="image" content="/assets/img/cover.svg" />
+
+
+
+<script src="/assets/js/jquery-3.4.1.slim.min.js"></script>
+<script src="/assets/js/popper.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+
+	<body style="padding-top:6.5rem;">
+	    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark pr-lg-5">
+    <!--<a class="navbar-brand" href="/">BSidesROC</a>-->
+    <div id="nav_logo" class="" >
+        <a href="/">
+            <img src="/assets/img/2019_logo.png"  height="100%" width="100%" />
+        </a>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-top"
+            aria-controls="nav-top" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse pr-lg-5" id="nav-top">
+        <ul class="navbar-nav ml-auto pr-lg-5">
+            <li class="nav-item"><a class="nav-link" href="/assets/archive/$ARCHIVE_YEAR/safety_protocols/">Safety / Covid-19</a></li>
+            <li class="nav-item dropdown">
+                <a id="about" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+                <div class="dropdown-menu" aria-labelledby="about">
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/about/">About Us</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/faq/">FAQ</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/coc/">Code of Conduct</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/archives/">Archives</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="get_involved" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Get Involved</a>
+                <div class="dropdown-menu" aria-labelledby="get_involved">
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/volunteering/">Volunteering</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/cfp/">CFP</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/cft/">CFT</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/sponsorships/">Sponsorships</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="events" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Events</a>
+                <div class="dropdown-menu" aria-labelledby="events">
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/trainings/">Trainings</a>
+                    
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/ctf/">CTF</a>
+                    
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/lockpick_village/">Lockpick Village</a>
+                    <!--<a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/hardware/">Hardware Hacking & Soldering Village</a>-->
+		            <!--<a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/crypto/">Crypto Challenge</a>-->
+                    <!--<a class="dropdown-item" href="/black_hills_sec_labs">Black Hills Information Security Labs</a>-->
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/talks/">Talks</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="agenda" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Agenda</a>
+                <div class="dropdown-menu" aria-labelledby="agenda">
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/schedule/">Schedule / Tracks</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/speakers/">Speakers</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/trainers/">Trainers</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/assets/archive/$ARCHIVE_YEAR/location/">Location</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="tickets" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                   href="#">Tickets</a>
+                <div class="dropdown-menu" aria-labelledby="tickets">
+                    
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/get_tickets/">Get Tickets!</a>
+                    
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/resumes/">Resum&egrave; Ticket Exchange</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <!--<a class="nav-link" href="https://bsidesroc.creator-spring.com/" target="_blank">Merch</a>-->
+            </li>
+	    <li class="nav-item">
+                <a class="nav-link" href="https://discord.gg/YWU5t5p">Community Discord</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+	    <div class="container-fluid">
+			<div class="row-fluid">
+				<main role="main-content" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+					
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="bewctarfct" class="card-title h2 text-warning">
+            By Endurance We Conquer: Teamwork and Resilience for Challenging Times
+        </div>
+        <p class="card-text text-white">
+        In challenging times, even straightforward ventures can harken back to the harrowing expeditions of the past. Uncharted lands lay ahead, bringing all the fears of failed voyages with them. We talk about how to build leaders and teams that ensure success, but what about ones that can also weather and survive rough seas? A look back into the past can refresh our memory and provide us with tried and true building blocks for the future. So let’s chart a course ahead, in search of icebergs, penguins and snow-capped mountains, with hope for fair winds and following seas.
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#cassandra_young_(@muteki)">
+           Cassandra Young (@muteki) 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="rtleafffcir" class="card-title h2 text-warning">
+            Reframing the Lens: Expanding Analytical Frames for Faster, Clearer Incident Response
+        </div>
+        <p class="card-text text-white">
+        Why do skilled analysts still chase dead ends, misread signals, or miss the obvious? Often it isn’t a tooling problem — it’s a framing problem. Incident response relies on the mental “lens” we use to interpret clues, and when that lens is too narrow, we get tunnel vision; too wide, and we drown in noise. This talk shows how hidden analytical frames shape investigations, how they quietly bias our hypotheses, and how to switch lenses quickly without derailing momentum. Through systems thinking, security engineering insight, and a few crisp, hyperbolic examples, you’ll learn a practical method for improving IR clarity, reducing cognitive blind spots, and accelerating your investigative process — all without slipping into analysis paralysis.
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#victoria_st._john">
+           Victoria St. John 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="pbpitftrobr" class="card-title h2 text-warning">
+            Practice being punched in the face: the reality of breach readiness 
+        </div>
+        <p class="card-text text-white">
+        Everyone has a plan until they get punched in the face.” Mike Tyson’s line sums up incident response better than any manual. You can draft the neatest IR plan in the world, but unless you have practised taking the hit, it will fold the moment reality lands a blow. 
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#paul_brownridge">
+           Paul Brownridge 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="bicw“" class="card-title h2 text-warning">
+            Breaking Into Cybersecurity Without “Experience”
+        </div>
+        <p class="card-text text-white">
+        Many cybersecurity roles ask for experience before you’ve had the chance to get hired. This presentation breaks down practical, proven ways to build hands-on cybersecurity experience without waiting for a job offer. You’ll learn how to create real evidence of skills through labs, projects, volunteer work, competitions, and public documentation that employers actually value.
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#suzanne_ricci">
+           Suzanne Ricci 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="eir-itffr" class="card-title h2 text-warning">
+            Evolving Incident Response - IR Triage for Faster Response
+        </div>
+        <p class="card-text text-white">
+        Incident Response has shifted. Gone are the days when responders waited for dead disk images to begin investigations. Today's threats demand speed, agility, and immediate access to live data. This session explores the evolution from traditional dead-disk forensics to modern live response and triage techniques. We'll discuss real-world approaches to quickly gathering volatile data, practical tools and scripts that streamline collection, and how organizations can make faster, better decisions during incidents. Attendees will leave with actionable methods to enhance their IR capabilities and move at the speed of the threat.
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#tyler_hudak">
+           Tyler Hudak 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="asfip" class="card-title h2 text-warning">
+            A Standard For Investigative Playbooks
+        </div>
+        <p class="card-text text-white">
+        The Human Centered Investigation Playbook (HCIP) standard is a YAML-based syntax for writing investigation playbooks that correspond to a particular alert, artifact, or attack. The goal is to have an investigation methodology that both guides the analyst and also integrates into defensive tooling to make necessary data easily available during the investigation.<br />
+<br />
+In this presentation I will discuss the standard, explore its purpose and use cases, and demonstrate its functionality in a free and open monitoring platform.<br />
+
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#matthew_gracie">
+           Matthew Gracie 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="tscdtdbojfs" class="card-title h2 text-warning">
+            Testing Security Controls: Do They Detect Behavior or Just File Signatures?
+        </div>
+        <p class="card-text text-white">
+        Most DLP and EDR systems claim to detect threats based on behavioral analysis, but how many actually rely on format signatures, magic bytes, and file headers? This presentation introduces Veriduct, a format destruction framework that systematically tests whether security controls detect based on content and behavior versus pattern matching. We’ll demonstrate empirical results from testing production APT malware across 68 security engines, achieving 0 detections after format destruction and perfect reconstruction with hash verification, proving that many behavioral detection claims are marketing rather than reality.
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#christopher_aziz">
+           Christopher Aziz 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="rttfowpfip" class="card-title h2 text-warning">
+            Red Team Thinking for OPSEC: Why Privacy Fails in Practice
+        </div>
+        <p class="card-text text-white">
+        Operational Security (OPSEC) and personal privacy failures are rarely caused by missing tools or misconfigured settings. More often, they result from inconsistent habits, unexamined assumptions, and gradual drift in how people behave over time.<br />
+<br />
+This talk applies a red team mindset to OPSEC and privacy. Not to teach evasion techniques, but to examine how adversarial thinkers identify attribution signals created by routine actions and cognitive bias. Drawing from intelligence analysis principles and real-world security practice, the session focuses on how attackers and investigators reason about exposure, rather than on specific tools or tactics.<br />
+<br />
+Attendees will learn how to define realistic threat models, recognize common OPSEC failure patterns, and apply disciplined, repeatable thinking to improve privacy outcomes. The goal is not perfect anonymity, but resilient, defensible privacy practices that hold up under scrutiny.<br />
+
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#dimitri_weaver">
+           Dimitri Weaver 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="lotlasppcarst" class="card-title h2 text-warning">
+            Living Off the Land: Advanced SSH Pivoting, Proxy Chaining, and Reverse Shell Tradecraft
+        </div>
+        <p class="card-text text-white">
+        This session focuses on how offensive security teams reliably establish and maintain persistent network connectivity to a physical penetration-testing dropbox using only built-in protocols no malware, no exploits, and no client-side configuration changes.<br />
+<br />
+We demonstrate how SSH can be abused as a resilient access layer to survive restrictive egress controls, segmented networks, and jump-host dependencies. Starting from a remote operator system, we show how to chain tunnels, validate traffic flow, proxy tooling, and recover cleanly from dropped connections all while avoiding whitelisting, firewall exceptions, or special accommodations from the client.<br />
+<br />
+This talk is not about finding vulnerabilities. It is about operational dominance: making sure access works every time, in every environment. Attendees will leave with a repeatable access engineering workflow that mirrors how real attackers and professional red teams operate during internal assessments.<br />
+
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#mike_thom">
+           Mike Thom 
+        </a>,
+         </span>
+    
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#logan_hillard">
+           Logan Hillard 
+        </a>
+         </span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="smitc-olsfppp" class="card-title h2 text-warning">
+            Security Misconfigurations in the Cloud - "Oh Look, something fluffy, poke poke poke!"
+        </div>
+        <p class="card-text text-white">
+        Cloud security shouldn’t feel like deciphering a spellbook written during a power outage. This talk starts by breaking down the core concepts of cloud architecture and access control using clear, memorable analogies—yes, “Pizza as a Service” makes an appearance. In just a few minutes, the audience will understand how IAM, org policies, and service boundaries compare to the on-prem world, and how attackers use these same models to find weak spots.<br />
+<br />
+Then it’s showtime. We dive into real-world cloud misconfigurations and the attack paths they create, with a mix of live demos (plus recorded backups, because the demo gods can be fickle) and open-source tools that anyone can use. We’ll walk through everything from “accidental” data exposure to the infamous public GitHub token that launched hundreds of crypto-mining VMs without detection. And yes—why cryptominers are often just the decoy for something far more concerning.<br />
+
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#kat_fitzgerald">
+           Kat Fitzgerald 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="nsmnp-adgaar" class="card-title h2 text-warning">
+            npm should-i-install: Malicious npm packages - Anatomy, Detection gaps and AI's role
+        </div>
+        <p class="card-text text-white">
+        The software supply chain is under constant attack, and nowhere is this clearer than the JavaScript ecosystem. In 2023, over 5,000 malicious npm packages were removed; by mid-2024 that number exceeded half a million. Recent compromises like NX Singularity, Chalk/Debug, and the Shai-Hulud1 and Shai-Hulud2 worm show that attackers are no longer uploading random malware but hijacking trusted packages with millions of downloads.<br />
+<br />
+This talk breaks down how attackers infiltrate npm through typosquatting, dependency confusion, and maintainer account takeovers, and how payloads are delivered using install-time scripts, obfuscated JavaScript, bundled binaries, and worm-style propagation.<br />
+<br />
+We also explore AI’s role in analyzing malicious packages: when it succeeds, where it fails, and whether a deny-by-default policy is practical. Attendees will leave with real incident timelines, concrete malware examples, code walkthroughs, and actionable defenses they can apply immediately.<br />
+
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#diptendu_kar">
+           Diptendu Kar 
+        </a>,
+         </span>
+    
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#derian_stenglein">
+           Derian Stenglein 
+        </a>
+         </span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="dywtpaghadc" class="card-title h2 text-warning">
+            Do You Want to Play a Game? How About Disabling Civilization?
+        </div>
+        <p class="card-text text-white">
+        How hard do you think it would be to disable our civilization? Not as hard as you think.<br />
+<br />
+Everything, everywhere, all the time now depends on a working power grid and telecommunications, and there are few organizations still willing or able to conduct business “when the system is down”.<br />
+<br />
+Everyone now assumes the universal availability of a fast, reliable Internet to reach "The Cloud”. But as always, “The Cloud" is just someone else's computer, part of a series of large virtual datacenter platforms that host most of the SaaS systems used by modern business. This cloud is an ever-growing mass of tangible physical equipment inside data centers across the nation and the world, interconnected via complex webs of power and fiber cables on utility poles, in underground conduits, or undersea. All of which are vulnerable to the natural elements, targeted attacks, and to unforeseen and unknown systemic interdependencies.<br />
+<br />
+From our experiences as an infrastructure engineer and a threat intel analyst, we will discuss the physical and cybersecurity risks to the operations of the Internet and other critical infrastructure systems. Think natural disasters, ransomware in data centers, terrorism and sabotage, plus human error at scale. We’ll discuss how outages created by threat actors, climate change, or bad planning are impacting society via the businesses and services our civilization depends on. And because we can still prepare in advance, we’ll give you some recommendations and mitigation strategies to try to keep your organization or community connected. State sponsored adversarial attacks will increasingly seek to exploit our weaknesses to “Disrupt and Disable” then leverage the ensuing communications blackouts to incite mass panic or worse.<br />
+
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#james_troutman">
+           James Troutman 
+        </a>,
+         </span>
+    
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#cheryl_biswas">
+           Cheryl Biswas 
+        </a>
+         </span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="hwgcp(scy" class="card-title h2 text-warning">
+            How We've Gone Completely Phishing-resistant (And So Can You!)
+        </div>
+        <p class="card-text text-white">
+        Phishing-resistant authentication is shifting from optional to mandatory. Not only are attackers using phishing as the primary mechanism to evade traditional forms of MFA, but they are also evolving their attacks to find ways around implementations where phishing-resistant auth is only preferred and not enforced. The road to deploying passkeys, Windows Hello for Business and Mac Platform SSO looks easy enough in the Microsoft docs, but what does it look like to implement them as mandatory across a workforce?<br />
+<br />
+In this session we’ll cover how we went from a handful of FIDO2 keys to phishing-resistant authentication across our enterprise in Entra ID at breakneck speeds. We’ll explore the ins-and-outs from a technical and organizational perspective of the implementation, the gotchas we hit along the way, and how we overcame them. We’ll cover edge case scenarios, and how deploying passkeys is just part of the bigger equation to going phishing-resistant. We’ll also examine phishing attack trends we were seeing, which helped inform and shape policy so that phishing-resistant authentication isn’t an option – it’s the only option.<br />
+
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#eric_woodruff">
+           Eric Woodruff 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="wydkwcymaapaec" class="card-title h2 text-warning">
+            What You Don’t Know Will Cost You: Modern AD Attack Paths and Exploit Chains
+        </div>
+        <p class="card-text text-white">
+        Active Directory is still the fastest way to take control of an enterprise, and attackers know it. Modern compromises rarely rely on a single “big exploit.” Instead, threat actors chain misconfigurations, delegated rights, and credential abuse into repeatable attack paths that quietly lead to Tier 0 control.<br />
+<br />
+This session breaks down the real-world exploit methods used to compromise AD today, including credential theft techniques like Kerberoasting, AS-REP Roasting, password spraying, NTDS.dit extraction, and DCSync. We will also cover privilege escalation and persistence techniques such as unconstrained delegation, Golden and Silver Tickets, AD CS abuse, SIDHistory injection, and identity trust exploitation.<br />
+<br />
+Attendees will leave with a practical understanding of how attackers move from initial access to full domain compromise, plus the “toxic combinations” that create hidden attack paths most defenders never see until it is too late<br />
+
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#craig_birch">
+           Craig Birch 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+<div class="card mb-2 mt-2">
+    <div class="card-body">
+       
+       
+       
+        <div id="bmstsaddikraatsp" class="card-title h2 text-warning">
+            Broken Mirrors Shatter the Soul: A Deep Dive into Kerberos Reflection Attacks and the SPN/DNS Phenomena
+        </div>
+        <p class="card-text text-white">
+        2025 witnessed a surge in Kerberos reflection vulnerabilities, fundamentally challenging our understanding of Windows authentication security. This presentation dissects the technical evolution of Kerberos relay-to-self attacks, with particular focus on authentication vulnerabilities even after Microsoft patches.<br />
+<br />
+Despite patches addressing CVE-2025-33073 and CVE-2025-58726, the latter enabling SMB Server privilege escalation through reflective authentication, the core architectural issue persists. The Kerberos protocol's permissive handling of computer accounts requesting service tickets for themselves, combined with other known attacks such as system coercion and default permissions of low-priv Active Directory accounts, creates a powerful attack primitive that continues to expose organizations to risk.<br />
+<br />
+This presentation expands on the necessary prerequisites for understanding these attacks, including Active Directory SPN registration mechanics, default DNS permissions or non-privileged AD user, the Kerberos TGS-REQ/TGS-REP message flows in reflection scenarios, and authentication coercion techniques that enable attackers to force victim machines into exploitable authentication sequences. The exploitation methodology provides a comprehensive walkthrough from a standard use account, demonstrating how attackers circumvented CVE-2025-33073 mitigations to achieve SMB server exploitation as documented in CVE-2025-58726.<br />
+<br />
+From a defensive perspective, this presentation offers detection engineering guidance across multiple security stack layers. We explore multi-layer detection of anomalous SPN queries and TGS requests, DNS record creation, and event log correlation strategies for identifying self-issued Kerberos tickets (Event ID 4769), and behavioral detection of unusual SPN registration patterns. These detection strategies provide security operations centers with actionable playbooks for identifying reflection attacks in enterprise environments.<br />
+<br />
+Security professionals attending this presentation will gain comprehensive understanding of why 2025 saw such an increase for Kerberos reflection attacks, bridging academic research and operational security requirements. This presentation includes live demonstrations of key attack techniques and detection opportunities, with attendees receiving comprehensive detection playbooks ideas and hardening guidelines applicable to enterprise Windows environments.<br />
+
+        </p>
+    </div>
+    <div class="card-footer text-white">
+    Presenter(s):
+     
+     
+        <span class="h5 text-warning">
+        <a class="h5 text-warning" href="/speakers#darryl_baker">
+           Darryl Baker 
+        </a></span>
+    
+    
+    </div>
+</div>
+
+
+				</main>
+
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row-fluid">
+				<nav id="sidebar" class="col-md-2 d-none d-lg-block sidebar bg-light px-2">
+    <h2 class="sidebar-heading text-center">Sponsors</h2>
+    <div class="sidebar-sticky">
+        <ul class="flex-column list-unstyled">
+            
+            
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rocissa.org/" target="_blank">
+                    <img src="/assets/img/sponsors/RocISSALogo-brief.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.sbu.edu/academics/cybersecurity" target="_blank">
+                    <img src="/assets/img/sponsors/cyblogo.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.sumologic.com/" target="_blank">
+                    <img src="/assets/img/sponsors/SumoLogic_Logo_SumoBlue_RGB.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://icr-team.com/" target="_blank">
+                    <img src="/assets/img/sponsors/icr.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.proarch.com/" target="_blank">
+                    <img src="/assets/img/sponsors/ProArch Logo-02.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.uvcyber.com/" target="_blank">
+                    <img src="/assets/img/sponsors/Ultraviolet_Logo_Primary_RGB.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.mtb.com/homepage/about-us" target="_blank">
+                    <img src="/assets/img/sponsors/MT_Tech_blk_digital.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="#" target="_blank">
+                    <img src="/assets/img/sponsors/memory_of_don_ullman.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rochester.edu/" target="_blank">
+                    <img src="/assets/img/sponsors/UR_Logo_Light.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://orbitalfire.com/" target="_blank">
+                    <img src="/assets/img/sponsors/OrbitalFire_Logo_Horizontal_Color.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://hotironcreative.com/logos" target="_blank">
+                    <img src="/assets/img/sponsors/HotironCreative_RGB_vector_WEB.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.blackhillsinfosec.com/" target="_blank">
+                    <img src="/assets/img/sponsors/BHIS_TEXT.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="background-color: rgb(41, 41, 41);" class="mt-3">
+                <a href="https://nostarch.com/" target="_blank">
+                    <img src="/assets/img/sponsors/nostarch-2018-bronze.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.modernsecurity.io/" target="_blank">
+                    <img src="/assets/img/sponsors/modern_security.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://metactf.com/" target="_blank">
+                    <img src="/assets/img/sponsors/metactf-logo-new.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rit.edu/cybersecurity/" target="_blank">
+                    <img src="/assets/img/sponsors/rit_esl_global_cybersecurity_institute.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.justhacking.com/" target="_blank">
+                    <img src="/assets/img/sponsors/JHT_Logo-300x300.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="www.sans.org" target="_blank">
+                    <img src="/assets/img/sponsors/SANS_Blue.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://hackthebox.com" target="_blank">
+                    <img src="/assets/img/sponsors/HTB-Logo-Black_144.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://pentesterlab.com/" target="_blank">
+                    <img src="/assets/img/sponsors/pentesterlab_logo_text_black.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.stickergiant.com" target="_blank">
+                    <img src="/assets/img/sponsors/sticker_giant.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            
+        </ul>
+    </div>
+</nav>
+				<hr>
+<nav id="sponsors" class="">
+    <div class="mt-2 d-lg-none d-block bg-light px-2 sponsors w-100">
+        <h3 class="sidebar-heading text-center">Sponsors</h3>
+        <ul class="flex-column list-unstyled ml-md-auto">
+            
+            
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rocissa.org/" target="_blank">
+                    <img src="/assets/img/sponsors/RocISSALogo-brief.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.sbu.edu/academics/cybersecurity" target="_blank">
+                    <img src="/assets/img/sponsors/cyblogo.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.sumologic.com/" target="_blank">
+                    <img src="/assets/img/sponsors/SumoLogic_Logo_SumoBlue_RGB.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://icr-team.com/" target="_blank">
+                    <img src="/assets/img/sponsors/icr.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.proarch.com/" target="_blank">
+                    <img src="/assets/img/sponsors/ProArch Logo-02.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.uvcyber.com/" target="_blank">
+                    <img src="/assets/img/sponsors/Ultraviolet_Logo_Primary_RGB.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.mtb.com/homepage/about-us" target="_blank">
+                    <img src="/assets/img/sponsors/MT_Tech_blk_digital.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="#" target="_blank">
+                    <img src="/assets/img/sponsors/memory_of_don_ullman.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rochester.edu/" target="_blank">
+                    <img src="/assets/img/sponsors/UR_Logo_Light.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://orbitalfire.com/" target="_blank">
+                    <img src="/assets/img/sponsors/OrbitalFire_Logo_Horizontal_Color.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://hotironcreative.com/logos" target="_blank">
+                    <img src="/assets/img/sponsors/HotironCreative_RGB_vector_WEB.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.blackhillsinfosec.com/" target="_blank">
+                    <img src="/assets/img/sponsors/BHIS_TEXT.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="background-color: rgb(41, 41, 41);" class="mt-3">
+                <a href="https://nostarch.com/" target="_blank">
+                    <img src="/assets/img/sponsors/nostarch-2018-bronze.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.modernsecurity.io/" target="_blank">
+                    <img src="/assets/img/sponsors/modern_security.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://metactf.com/" target="_blank">
+                    <img src="/assets/img/sponsors/metactf-logo-new.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rit.edu/cybersecurity/" target="_blank">
+                    <img src="/assets/img/sponsors/rit_esl_global_cybersecurity_institute.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.justhacking.com/" target="_blank">
+                    <img src="/assets/img/sponsors/JHT_Logo-300x300.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="www.sans.org" target="_blank">
+                    <img src="/assets/img/sponsors/SANS_Blue.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://hackthebox.com" target="_blank">
+                    <img src="/assets/img/sponsors/HTB-Logo-Black_144.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://pentesterlab.com/" target="_blank">
+                    <img src="/assets/img/sponsors/pentesterlab_logo_text_black.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.stickergiant.com" target="_blank">
+                    <img src="/assets/img/sponsors/sticker_giant.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            
+        </ul>
+    </div>
+</nav>
+			</div>
+		</div>
+		<footer class="fixed-bottom">
+
+</footer>
+
+	</body>
+</html>
