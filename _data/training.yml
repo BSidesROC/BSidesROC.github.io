@@ -1,67 +1,67 @@
-year: 2026
-date: Friday, March 20th 2026
-location: Rochester Institute of Technology 1 Lomb Memorial Drive, Rochester, NY, 14623, United States
-trainers:
-  - &pavan
-    name: Pavan Reddy
-    bio: |
-      Pavan Reddy is an AI security researcher and the founder of Adversarial Lab, an open-source framework for 
-      red-teaming machine learning models. His work focuses on adversarial attacks, prompt injection vulnerabilities, 
-      and the systemic weaknesses of foundation models. He’s presented research at venues like HCI International and 
-      FLAIRS, and has taught workshops at conferences like BSides, SquadCon, ACM SIGCITE and many more and educates a 
-      wide audience online, where over 80,000 followers tune in for his insights on AI risk and resilience. At Automata,
-      he is a software engineer, leading the company's effort towards FIPS, FedRAMP ATO and AI initiatives in 
-      Vulnerability and Compliance management.
-  - &abe
-    name: Abe Abernethy
-    bio: |
-      Adam "Abe" Abernethy is a recovering security analyst who blends technical experience with accessible
-      storytelling. He designs scalable enablement programs, reverse‑engineers broken corporate processes, leads the
-      design of world-class CTFs, and turns complex security requirements into direction that teams can actually act
-      on and organizations can make decisions around.  Currently, he spends his days wandering the remote halls of
-      Graylog, clipboard in hand, assisting their customer experience programs.
-
-  - &annie
-    name: Annie Zempel
-    bio: |
-      Annie Zempel is the VP of Technical Communications at Graylog and has spent more than a decade turning complex
-      systems into documentation that security teams can actually use. Before Graylog, Annie worked on defense contracts
-      supporting NORAD and USNORTHCOM communications systems, producing procedural documentation and response plans for
-      high-stakes operational environments. Today, she builds learning resources designed to help security teams get
-      value quickly and operate more effectively with Graylog.
-classes:
-  -   title: 'Breaking AI: Prompt Injection, Data Exfiltration and Practical Defenses That Work'
-      time_frame: '8:00AM - 12:00PM'
-      instructors:
-        - *pavan
-      description: |
-        AI systems don’t fail like traditional software, they fail silently, follow the wrong authority, and can be
-        steered into leaking data or taking unintended actions. This 4 hour hands-on workshop teaches you how modern
-        “AI vulnerabilities” actually show up in deployed LLM features by attacking and defending a sandboxed car
-        dealership chatbot that’s connected to an internal database. Then you will pivot to real-world data exfiltration
-        patterns via direct and indirect prompt injection (including untrusted content in RAG-like workflows).
-
-        Attendees will actively craft exploits, observe impact, and implement practical mitigations (least-privilege
-        tooling, strict schemas, policy gates, and confirmation workflows). BYOL-friendly; compute runs on free
-        resources (e.g., Google Colab). Fully Hands-on, minimal coding (no prior experience needed).
-      prices:
-        - description: 'General'
-          cost: '$25'
-  -   title: 'You Accidentally Got a Job in Cybersecurity, Now What?'
-      time_frame: '8:00AM - 12:00PM'
-      instructors:
-        - *abe
-        - *annie
-      description: |
-        Nobody tells you that cybersecurity jobs in a small business up to medium-sized enterprise are 20% technology 
-        and 80% translation, negotiation, and sifting through garbage. This half-day workshop explodes five common lies
-        the industry tells itself, drawing from real-world experience building security programs that survive contact 
-        with business reality. You'll learn to measure what matters (not what's easy), communicate technical concepts at
-        management or board level without treating executives like children, and build resilient programs using proven
-        frameworks instead of vendor fever dreams. Includes practical exercises with executives from the Graylog SIEM's 
-        Customer Enablement team to cement concepts through hands-on work. Leave with concepts and frameworks you can 
-        deploy Monday, metrics that matter, and the ability to explain why security isn't just "the team that says no.
-      requirements: 'TBD'
-      prices:
-        - description: 'General'
-          cost: '$25'
+#year: 2026
+#date: Friday, March 20th 2026
+#location: Rochester Institute of Technology 1 Lomb Memorial Drive, Rochester, NY, 14623, United States
+#trainers:
+#  - &pavan
+#    name: Pavan Reddy
+#    bio: |
+#      Pavan Reddy is an AI security researcher and the founder of Adversarial Lab, an open-source framework for
+#      red-teaming machine learning models. His work focuses on adversarial attacks, prompt injection vulnerabilities,
+#      and the systemic weaknesses of foundation models. He’s presented research at venues like HCI International and
+#      FLAIRS, and has taught workshops at conferences like BSides, SquadCon, ACM SIGCITE and many more and educates a
+#      wide audience online, where over 80,000 followers tune in for his insights on AI risk and resilience. At Automata,
+#      he is a software engineer, leading the company's effort towards FIPS, FedRAMP ATO and AI initiatives in
+#      Vulnerability and Compliance management.
+#  - &abe
+#    name: Abe Abernethy
+#    bio: |
+#      Adam "Abe" Abernethy is a recovering security analyst who blends technical experience with accessible
+#      storytelling. He designs scalable enablement programs, reverse‑engineers broken corporate processes, leads the
+#      design of world-class CTFs, and turns complex security requirements into direction that teams can actually act
+#      on and organizations can make decisions around.  Currently, he spends his days wandering the remote halls of
+#      Graylog, clipboard in hand, assisting their customer experience programs.
+#
+#  - &annie
+#    name: Annie Zempel
+#    bio: |
+#      Annie Zempel is the VP of Technical Communications at Graylog and has spent more than a decade turning complex
+#      systems into documentation that security teams can actually use. Before Graylog, Annie worked on defense contracts
+#      supporting NORAD and USNORTHCOM communications systems, producing procedural documentation and response plans for
+#      high-stakes operational environments. Today, she builds learning resources designed to help security teams get
+#      value quickly and operate more effectively with Graylog.
+#classes:
+#  -   title: 'Breaking AI: Prompt Injection, Data Exfiltration and Practical Defenses That Work'
+#      time_frame: '8:00AM - 12:00PM'
+#      instructors:
+#        - *pavan
+#      description: |
+#        AI systems don’t fail like traditional software, they fail silently, follow the wrong authority, and can be
+#        steered into leaking data or taking unintended actions. This 4 hour hands-on workshop teaches you how modern
+#        “AI vulnerabilities” actually show up in deployed LLM features by attacking and defending a sandboxed car
+#        dealership chatbot that’s connected to an internal database. Then you will pivot to real-world data exfiltration
+#        patterns via direct and indirect prompt injection (including untrusted content in RAG-like workflows).
+#
+#        Attendees will actively craft exploits, observe impact, and implement practical mitigations (least-privilege
+#        tooling, strict schemas, policy gates, and confirmation workflows). BYOL-friendly; compute runs on free
+#        resources (e.g., Google Colab). Fully Hands-on, minimal coding (no prior experience needed).
+#      prices:
+#        - description: 'General'
+#          cost: '$25'
+#  -   title: 'You Accidentally Got a Job in Cybersecurity, Now What?'
+#      time_frame: '8:00AM - 12:00PM'
+#      instructors:
+#        - *abe
+#        - *annie
+#      description: |
+#        Nobody tells you that cybersecurity jobs in a small business up to medium-sized enterprise are 20% technology
+#        and 80% translation, negotiation, and sifting through garbage. This half-day workshop explodes five common lies
+#        the industry tells itself, drawing from real-world experience building security programs that survive contact
+#        with business reality. You'll learn to measure what matters (not what's easy), communicate technical concepts at
+#        management or board level without treating executives like children, and build resilient programs using proven
+#        frameworks instead of vendor fever dreams. Includes practical exercises with executives from the Graylog SIEM's
+#        Customer Enablement team to cement concepts through hands-on work. Leave with concepts and frameworks you can
+#        deploy Monday, metrics that matter, and the ability to explain why security isn't just "the team that says no.
+#      requirements: 'TBD'
+#      prices:
+#        - description: 'General'
+#          cost: '$25'

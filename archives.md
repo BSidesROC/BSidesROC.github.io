@@ -12,3 +12,4 @@
 - [2023](/assets/archive/2023/index.html)
 - [2024](/assets/archive/2024/index.html)
 - [2025](/assets/archive/2025/index.html)
+- [2026](/assets/archive/2026/index.html)

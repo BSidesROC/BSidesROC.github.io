@@ -3,9 +3,9 @@ layout: default
 title: Trainings
 ---
 
-{% if site.data.training.tbd %}
+{% if site.data.config.tbd %}
 {:.text-white .mb-4}
-# Training {{ site.data.config.year }}
+# Training
 
 {:.mb-n1 .text-warning}
 ## TBD

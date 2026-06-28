@@ -1,85 +1,85 @@
-- name: RocISSA
-  url: https://www.rocissa.org/
-  image: RocISSALogo-brief.png
-  level: 1
-- name: Saint Bonaventure Cybersecurity
-  url: https://www.sbu.edu/academics/cybersecurity
-  image: cyblogo.png
-  level: 1
-- name: Sumo Logic
-  url: https://www.sumologic.com/
-  image: SumoLogic_Logo_SumoBlue_RGB.svg
-  level: 1
-- name: ICR
-  url: https://icr-team.com/
-  image: icr.png
-  level: 1
-- name: ProcArch
-  url: https://www.proarch.com/
-  image: ProArch Logo-02.png
-  level: 1
-- name: UV Cyber
-  url: https://www.uvcyber.com/
-  level: 1
-  image: Ultraviolet_Logo_Primary_RGB.png
-- name: M&T Tech
-  url: https://www.mtb.com/homepage/about-us
-  level: 1
-  image: MT_Tech_blk_digital.png
-- name: Frederick Ullman
-  url: '#'
-  level: 1
-  image: memory_of_don_ullman.png
-- name: University of Rochester
-  url: https://www.rochester.edu/
-  image: UR_Logo_Light.png
-  level: 2
-- name: OrbitalFire Cybersecurity
-  url: https://orbitalfire.com/
-  image: OrbitalFire_Logo_Horizontal_Color.png
-  level: 3
-- name: Hotiron Creative
-  url: https://hotironcreative.com/logos
-  level: 3
-  image: HotironCreative_RGB_vector_WEB.svg
-- name: Black Hills Information Security
-  url: https://www.blackhillsinfosec.com/
-  image: BHIS_TEXT.png
-  level: 4
-- name: no starch press
-  url: https://nostarch.com/
-  image: nostarch-2018-bronze.png
-  style: "background-color: rgb(41, 41, 41);"
-  level: 4
-- name: Modern Security
-  url: https://www.modernsecurity.io/
-  image: modern_security.png
-  level: 4
-- name: MetaCTF
-  url: https://metactf.com/
-  image: metactf-logo-new.png
-  level: 4
-- name: RIT Global Cybersecurity Institute
-  url: https://www.rit.edu/cybersecurity/
-  image: rit_esl_global_cybersecurity_institute.png
-  level: 4
-- name: Just Hacking Training
-  url: https://www.justhacking.com/
-  image: JHT_Logo-300x300.png
-  level: 4
-- name: SANS
-  url: www.sans.org
-  image: 'SANS_Blue.png'
-  level: 4
-- name: Hack the Box
-  url: https://hackthebox.com
-  image: 'HTB-Logo-Black_144.png'
-  level: 4
-- name: Pentester Lab
-  url: https://pentesterlab.com/
-  image: pentesterlab_logo_text_black.svg
-  level: 4
-- name: StickerGiant
-  url: https://www.stickergiant.com
-  image: sticker_giant.png
-  level: 4
+#- name: RocISSA
+#  url: https://www.rocissa.org/
+#  image: RocISSALogo-brief.png
+#  level: 1
+#- name: Saint Bonaventure Cybersecurity
+#  url: https://www.sbu.edu/academics/cybersecurity
+#  image: cyblogo.png
+#  level: 1
+#- name: Sumo Logic
+#  url: https://www.sumologic.com/
+#  image: SumoLogic_Logo_SumoBlue_RGB.svg
+#  level: 1
+#- name: ICR
+#  url: https://icr-team.com/
+#  image: icr.png
+#  level: 1
+#- name: ProcArch
+#  url: https://www.proarch.com/
+#  image: ProArch Logo-02.png
+#  level: 1
+#- name: UV Cyber
+#  url: https://www.uvcyber.com/
+#  level: 1
+#  image: Ultraviolet_Logo_Primary_RGB.png
+#- name: M&T Tech
+#  url: https://www.mtb.com/homepage/about-us
+#  level: 1
+#  image: MT_Tech_blk_digital.png
+#- name: Frederick Ullman
+#  url: '#'
+#  level: 1
+#  image: memory_of_don_ullman.png
+#- name: University of Rochester
+#  url: https://www.rochester.edu/
+#  image: UR_Logo_Light.png
+#  level: 2
+#- name: OrbitalFire Cybersecurity
+#  url: https://orbitalfire.com/
+#  image: OrbitalFire_Logo_Horizontal_Color.png
+#  level: 3
+#- name: Hotiron Creative
+#  url: https://hotironcreative.com/logos
+#  level: 3
+#  image: HotironCreative_RGB_vector_WEB.svg
+#- name: Black Hills Information Security
+#  url: https://www.blackhillsinfosec.com/
+#  image: BHIS_TEXT.png
+#  level: 4
+#- name: no starch press
+#  url: https://nostarch.com/
+#  image: nostarch-2018-bronze.png
+#  style: "background-color: rgb(41, 41, 41);"
+#  level: 4
+#- name: Modern Security
+#  url: https://www.modernsecurity.io/
+#  image: modern_security.png
+#  level: 4
+#- name: MetaCTF
+#  url: https://metactf.com/
+#  image: metactf-logo-new.png
+#  level: 4
+#- name: RIT Global Cybersecurity Institute
+#  url: https://www.rit.edu/cybersecurity/
+#  image: rit_esl_global_cybersecurity_institute.png
+#  level: 4
+#- name: Just Hacking Training
+#  url: https://www.justhacking.com/
+#  image: JHT_Logo-300x300.png
+#  level: 4
+#- name: SANS
+#  url: www.sans.org
+#  image: 'SANS_Blue.png'
+#  level: 4
+#- name: Hack the Box
+#  url: https://hackthebox.com
+#  image: 'HTB-Logo-Black_144.png'
+#  level: 4
+#- name: Pentester Lab
+#  url: https://pentesterlab.com/
+#  image: pentesterlab_logo_text_black.svg
+#  level: 4
+#- name: StickerGiant
+#  url: https://www.stickergiant.com
+#  image: sticker_giant.png
+#  level: 4
