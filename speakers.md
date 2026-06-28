@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
+{% if site.data.config.tbd %}
 
+{:.text-white}
+# Speakers
+
+{:.mb-n1 .text-warning}
+## TBD
+{% else %}
 <div class="card flex-row mb-2 mt-2 bg-light pb-4">
     <img class="card-img-left ml-4 mt-4 align-center" src="/assets/img/cassandra_young.png" alt="muteki" style="width:250px;"/>
     <div class="card-body">
@@ -27,3 +34,5 @@ layout: default
 </div>
 {% endif %}
 {% endfor %}
+
+{% endif %}

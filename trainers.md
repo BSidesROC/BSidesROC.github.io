@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-{:.text-white}
 {:.text-white .mb-2}
 # Trainers
-{% if site.data.training.tbd %}
+{% if site.data.config.tbd %}
+
 {:.mb-n1 .text-warning}
 ## TBD
+
 {% else %}
 
 {% assign instructors = "" | split: "," %}

@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+<!-- Basic information about this page -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" type="image/x-icon" href="/assets/img/fav.ico">
+<title>
+	
+	Security B-Sides Rochester
+</title>
+
+<!-- Meta tag looking for mobile devices -->
+<meta name="theme-color" content="#232323">
+
+<!-- Good information about this page -->
+<meta name="description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment.">
+<meta name="keywords" content="security, bsides, rochester, ny, newyork">
+<meta name="author" content="BSidesRoc">
+
+<!-- Feed links -->
+<link rel="alternate" type="application/rss+xml" title="BSidesRoc's RSS Feed" href="/rss.xml">
+<link rel="alternate" type="application/atom+xml" title="BSidesRoc's Atom Feed" href="/atom.xml">
+
+<!-- Style and scripts files -->
+<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.slate.min.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/bsidesroc.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/sidebar.css">
+
+<!-- Extra information about this page -->
+<link rel="license" type="text/plain" src="/assets/LICENSE">
+
+<!-- Facebook, Linkedin, Reddit and many others Open Graph -->
+<meta property="og:site_name" content="BSidesRoc" />
+<meta property="og:title" content="Security B-Sides Rochester" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment." />
+<meta property="og:url" content="http://localhost:4000" />
+<meta property="og:image:type" content="image/png" /> <!-- less than 5mB -->
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="315" />
+<meta property="og:image" content="/assets/img/cover.svg" />
+<meta property="og:locale" content="en" />
+<meta property="og:locale:alternate" content="" />
+<meta property="fb:page_id" content="" />
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Security B-Sides Rochester" />
+<meta name="twitter:description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment." />
+<meta name="twitter:url" content="http://localhost:4000" />
+<meta name="twitter:image" content="/assets/img/cover.svg" />
+<meta name="twitter:author" content="bsidesroc" />
+
+<!-- Linkedin OGP cards -->
+<meta property="og:image" content="/assets/img/cover.svg" />
+<meta property="og:image:width" content="180" />
+<meta property="og:image:height" content="110" />
+
+<!-- Google+ OGP cards -->
+<meta itemprop="name" content="Security B-Sides Rochester" />
+<meta itemprop="author" content="" />
+<meta itemprop="description" content="Security B-Sides Rochester, or BSidesROC, is an open, non-profit hacker conference in Rochester, NY. It provides a place for people to learn about hacking, infosec, and all kinds of different technology in a fun environment." />
+<meta itemprop="image" content="/assets/img/cover.svg" />
+
+
+
+<script src="/assets/js/jquery-3.4.1.slim.min.js"></script>
+<script src="/assets/js/popper.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+
+	<body style="padding-top:6.5rem;">
+	    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark pr-lg-5">
+    <!--<a class="navbar-brand" href="/">BSidesROC</a>-->
+    <div id="nav_logo" class="" >
+        <a href="/">
+            <img src="/assets/img/2019_logo.png"  height="100%" width="100%" />
+        </a>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-top"
+            aria-controls="nav-top" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse pr-lg-5" id="nav-top">
+        <ul class="navbar-nav ml-auto pr-lg-5">
+            <li class="nav-item"><a class="nav-link" href="/assets/archive/$ARCHIVE_YEAR/safety_protocols/">Safety / Covid-19</a></li>
+            <li class="nav-item dropdown">
+                <a id="about" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About</a>
+                <div class="dropdown-menu" aria-labelledby="about">
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/about/">About Us</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/faq/">FAQ</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/coc/">Code of Conduct</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/archives/">Archives</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="get_involved" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Get Involved</a>
+                <div class="dropdown-menu" aria-labelledby="get_involved">
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/volunteering/">Volunteering</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/cfp/">CFP</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/cft/">CFT</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/sponsorships/">Sponsorships</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="events" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Events</a>
+                <div class="dropdown-menu" aria-labelledby="events">
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/trainings/">Trainings</a>
+                    
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/ctf/">CTF</a>
+                    
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/lockpick_village/">Lockpick Village</a>
+                    <!--<a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/hardware/">Hardware Hacking & Soldering Village</a>-->
+		            <!--<a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/crypto/">Crypto Challenge</a>-->
+                    <!--<a class="dropdown-item" href="/black_hills_sec_labs">Black Hills Information Security Labs</a>-->
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/talks/">Talks</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="agenda" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">Agenda</a>
+                <div class="dropdown-menu" aria-labelledby="agenda">
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/schedule/">Schedule / Tracks</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/speakers/">Speakers</a>
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/trainers/">Trainers</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/assets/archive/$ARCHIVE_YEAR/location/">Location</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a id="tickets" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                   href="#">Tickets</a>
+                <div class="dropdown-menu" aria-labelledby="tickets">
+                    
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/get_tickets/">Get Tickets!</a>
+                    
+                    <a class="dropdown-item" href="/assets/archive/$ARCHIVE_YEAR/resumes/">Resum&egrave; Ticket Exchange</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <!--<a class="nav-link" href="https://bsidesroc.creator-spring.com/" target="_blank">Merch</a>-->
+            </li>
+	    <li class="nav-item">
+                <a class="nav-link" href="https://discord.gg/YWU5t5p">Community Discord</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+	    <div class="container-fluid">
+			<div class="row-fluid">
+				<main role="main-content" class="col-md-9 ml-sm-auto col-lg-10 px-4">
+					<div class="card flex-row mb-2 mt-2 bg-light pb-4">
+    <img class="card-img-left ml-4 mt-4 align-center" src="/assets/img/cassandra_young.png" alt="muteki" style="width:250px;" />
+    <div class="card-body">
+        <div id="keynote" class="card-title h2 text-warning">
+            Cassandra Young (@muteki)
+        </div>
+        <p class="card-text text-dark">
+        As a Principal Consultant on CrowdStrike's Cloud Technical Advisory team, Cassandra analyzes the organizational security posture of Azure, GCP and Oracle Cloud environments, and leads the development of data collection and analysis tooling. Additionally, she assists the Incident Response team as a technical GCP and OCI SME, and supports strategic advisory and technical tabletop exercises across multiple cloud platforms. In addition to her decade of IT and then cloud security consulting experience, Cassandra also holds a Master’s in Computer Science from the University of Pennsylvania and is a director of Blue Team Village, a nonprofit organization bringing free Blue Team content to the community.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="christopher_aziz" class="card-title h2 text-warning">
+            Christopher Aziz
+        </div>
+        <p class="card-text text-white">
+        Christopher Aziz is a security researcher and founder of Bombadil Systems, specializing in detection methodology validation. He recently presented format destruction techniques at DEF CON DC862, demonstrating how security controls rely on format signatures rather than behavioral analysis. His work focuses on providing penetration testing firms with systematic frameworks for testing client security controls.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="darryl_baker" class="card-title h2 text-warning">
+            Darryl Baker
+        </div>
+        <p class="card-text text-white">
+        Darryl G. Baker is a security researcher and seasoned Active Directory security assessment professional focused on identity threat detection and response (ITDR). He specializes in evaluating AD security posture end-to-end, including adversary emulation, authentication and authorization pathways, privileged access models, and translating findings into actionable remediation roadmaps. Darryl’s background includes 12 year in the US Army including Special Operations, shaping a leadership style grounded in operational rigor, clear communication, and accountability under pressure. His research approach is similarly practical: build reproducible labs, validate attack paths, and convert “interesting” techniques into measurable detections, defensive controls, and guardrails defenders can deploy in real environments.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="matthew_gracie" class="card-title h2 text-warning">
+            Matthew Gracie
+        </div>
+        <p class="card-text text-white">
+        Matthew Gracie is a defensive security specialist with fifteen years of Blue Team experience in higher education, manufacturing, financial services, and healthcare. He is currently a Senior Engineer at Security Onion Solutions, as well as the interim director of the Cybersecurity graduate program at Canisius University. Matt is also the lead organizer of Infosec 716, a monthly meetup for security enthusiasts in Western New York, and the BSides Buffalo technology conference. He enjoys good beer, mountain bikes, open source security tools, and college hockey, and can be found on Bluesky as @InfosecGoon.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="craig_birch" class="card-title h2 text-warning">
+            Craig Birch
+        </div>
+        <p class="card-text text-white">
+        Craig Birch is a Principal Technologist at Cayosoft with over 25 years of hands-on experience across identity security, Active Directory engineering, and hybrid Microsoft environments. He has led large-scale AD modernization and security initiatives and is known for translating attacker tradecraft into practical defensive guidance for overstretched IT teams. Craig previously held senior roles at Tenable and Quest Software, and his work focuses on exposing hidden identity attack paths, toxic permission combinations, and real-world privilege escalation chains. He speaks in a blunt, practical style built for engineers who need answers, not theory
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="paul_brownridge" class="card-title h2 text-warning">
+            Paul Brownridge
+        </div>
+        <p class="card-text text-white">
+        Paul comes from a chemical engineering background. He spent three years working in a refinery as an industrial process control engineer. He is very familiar with human machine interfaces, telemetry, sensor data and other SCADA system and has hands-on experience of installing, programming and bug fixing on process control systems. He understands the intricacies and unusual nature of serial networks, IP to serial convertors, PLCs and RTUs. Since moving into cybersecurity, he has become actively involved in penetration testing. His practical experience of process control and cyber security make him a capable and highly competent OT cyber engineer.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="kat_fitzgerald" class="card-title h2 text-warning">
+            Kat Fitzgerald
+        </div>
+        <p class="card-text text-white">
+        Chicago-based and proudly a natural creature of winter, I thrive on snow, OSS, and just the right amount of chaos. Whether sipping Grand Mayan Extra Añejo or warding off cyber threats with a mix of honeypots, magic spells, and a very opinionated flamingo named Sasha, I keep things interesting. Honeypots and refrigerators rank among my favorite things, though my neighbors would likely disagree.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="tyler_hudak" class="card-title h2 text-warning">
+            Tyler Hudak
+        </div>
+        <p class="card-text text-white">
+        Tyler Hudak is Director of Incident Response at Inversion6 and a seasoned incident response and digital forensics expert with over 25 years of hands-on experience, including roles at the Mayo Clinic and General Electric. He has led incident response teams and security operations, conducted extensive forensic investigations, and worked closely with legal teams to manage ransomware, business email compromise, and APT incidents.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="diptendu_kar" class="card-title h2 text-warning">
+            Diptendu Kar
+        </div>
+        <p class="card-text text-white">
+        Diptendu Kar is a security researcher focused on supply chain and dependency risk. He works on triaging open-source vulnerabilities, writing detection rules, and exploring how AI can automate tedious parts of security research. He also teaches Software Security Practices at Northeastern University part time and holds a Master’s in Cybersecurity. Before security, he worked as a Java developer at TCS. He’s especially interested in patch diffing, vulnerable function detection, and the use of LLMs in AppSec.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="suzanne_ricci" class="card-title h2 text-warning">
+            Suzanne Ricci
+        </div>
+        <p class="card-text text-white">
+        Suzanne is a tech leader, educator, and lifelong learner who believes skills—not job titles—drive real career growth. With 26 years of experience in tech training, she has helped more than 10,000 IT professionals advance, pivot, and future-proof their careers. As CEO of Computer Coach, she works with organizations and individuals to close skills gaps in IT, leadership, and emerging technologies. She’s known for practical, no-nonsense career growth strategies that help professionals stand out, adapt, and stay relevant as technology evolves. When she’s not teaching, speaking, or advising, Suzanne is focused on one thing: preparing today’s workforce for what’s coming next.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="victoria_st._john" class="card-title h2 text-warning">
+            Victoria St. John
+        </div>
+        <p class="card-text text-white">
+        Victoria St. John is a security engineer and incident response specialist with experience in threat investigation, detection engineering, and purple team operations, holding industry certifications including GCIH and CISSP. She draws on a multidisciplinary background that includes years of teaching, deep systems analysis, and creative pattern work to bring structural thinking to cybersecurity challenges. Her work bridges technical rigor with cognitive strategy to help responders improve accuracy and efficiency under pressure.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="derian_stenglein" class="card-title h2 text-warning">
+            Derian Stenglein
+        </div>
+        <p class="card-text text-white">
+        Derian Stenglein is a recent graduate of the Rochester Institute of Technology with a Bachelor's degree in Computing Security. Throughout college, he experienced two internships. One was at Rockstar Games, performing binary reverse engineering and automation. The other was at Assured Information Security, reverse engineering a hardened version of the Linux kernel. Today, he is a Security Researcher at Semgrep. Having recently moved to Boston and bringing two cats with him, he is open to any suggestions about restaurants, activities, and other hobbies to get involved with!
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="mike_thom" class="card-title h2 text-warning">
+            Mike Thom
+        </div>
+        <p class="card-text text-white">
+        Mike Thom is an Offensive Security Consultant specializing in internal network compromise, lateral movement, and identity-driven attack paths. He works on penetration testing engagements focused on realistic attacker tradecraft rather than exploit-centric testing.  His work centers on executing realistic attacker tradecraft that abuses legitimate access and protocols to move through enterprise environments under real operational constraints.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="logan_hillard" class="card-title h2 text-warning">
+            Logan Hillard
+        </div>
+        <p class="card-text text-white">
+        Logan Hillard is an Offensive Security Lead specializing in internal network compromise, lateral movement, and identity-driven attack paths. He leads enterprise red team engagements focused on validating real-world attacker tradecraft rather than tool-centric exploitation.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="james_troutman" class="card-title h2 text-warning">
+            James Troutman
+        </div>
+        <p class="card-text text-white">
+        James Troutman is a technology consultant and entrepreneur with over 30 years of experience in Internet infrastructure, cybersecurity, and IT leadership. He has served as a fractional CIO, CISO, and network architect, helping organizations align technology strategies with business goals while still ensuring security and resilience. He recently co-authored and helped design Maine’s MOOSE Net project, a 530-mile open-access fiber optic network enabling new lower-latency routes across Maine between Atlantic Canada and Quebec.  James is the volunteer Co-founder and Director of the Northern New England Neutral Internet Exchange (NNENIX) [https://nnenix.net] and a lead organizer of SkyTalks [https://skytalks.info], an off-the-record cybersecurity forum held in Las Vegas during “hacker summer camp.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="cheryl_biswas" class="card-title h2 text-warning">
+            Cheryl Biswas
+        </div>
+        <p class="card-text text-white">
+        Cheryl Biswas is a Cyber Security Analyst, Threat Intelligence based in New Brunswick, Canada. She gained initial access to InfoSec through a helpdesk backdoor, pivoted into vendor and change management roles, then jumped a gap into privacy, disaster recovery, and business continuity planning. From there, she laterally moved into security audits and assessments. Her Political Science degree evolved into a passion for researching APTs, botnets, ransomware, and more. Actively engaged in the security community, Cheryl is a frequent conference speaker and volunteer, and mentors individuals new to the field. She is also an advocate for women and diversity in InfoSec as a founding member of The Diana Initiative [https://www.dianainitiative.org/].
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="dimitri_weaver" class="card-title h2 text-warning">
+            Dimitri Weaver
+        </div>
+        <p class="card-text text-white">
+        Dimitri Weaver works at the intersection of hacking, cybersecurity, and real‑world security practice. His background blends military‑grade OPSEC, IT operations, system administration, and hands‑on security research. He’s not the type to claim expert status; just someone who’s put in enough time to know what he knows, what he doesn’t, and how to keep learning. Whether he’s probing a network, tightening an operation, or digging into a new vulnerability, he brings curiosity, discipline, and a practical mindset to every job.
+        </p>
+    </div>
+</div>
+
+<div class="card flex-row mb-2 mt-2">
+    <div class="card-body">
+        <div id="eric_woodruff" class="card-title h2 text-warning">
+            Eric Woodruff
+        </div>
+        <p class="card-text text-white">
+        Throughout his 25-year career in the IT field, Eric has sought out and held a diverse range of roles. Currently the Chief Identity Architect for Semperis; Eric previously was a member of the Security Research and Product teams. Prior to Semperis, Eric worked as a Security and Identity Architect at Microsoft partners, spent time working at Microsoft as a Sr. Premier Field Engineer, and spent almost 15 years in the public sector, with 10 of them as a technical manager.  Eric is a Microsoft MVP for security, recognized for his expertise in the Microsoft identity ecosystem.
+        </p>
+    </div>
+</div>
+
+
+				</main>
+
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row-fluid">
+				<nav id="sidebar" class="col-md-2 d-none d-lg-block sidebar bg-light px-2">
+    <h2 class="sidebar-heading text-center">Sponsors</h2>
+    <div class="sidebar-sticky">
+        <ul class="flex-column list-unstyled">
+            
+            
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rocissa.org/" target="_blank">
+                    <img src="/assets/img/sponsors/RocISSALogo-brief.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.sbu.edu/academics/cybersecurity" target="_blank">
+                    <img src="/assets/img/sponsors/cyblogo.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.sumologic.com/" target="_blank">
+                    <img src="/assets/img/sponsors/SumoLogic_Logo_SumoBlue_RGB.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://icr-team.com/" target="_blank">
+                    <img src="/assets/img/sponsors/icr.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.proarch.com/" target="_blank">
+                    <img src="/assets/img/sponsors/ProArch Logo-02.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.uvcyber.com/" target="_blank">
+                    <img src="/assets/img/sponsors/Ultraviolet_Logo_Primary_RGB.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.mtb.com/homepage/about-us" target="_blank">
+                    <img src="/assets/img/sponsors/MT_Tech_blk_digital.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="#" target="_blank">
+                    <img src="/assets/img/sponsors/memory_of_don_ullman.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rochester.edu/" target="_blank">
+                    <img src="/assets/img/sponsors/UR_Logo_Light.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://orbitalfire.com/" target="_blank">
+                    <img src="/assets/img/sponsors/OrbitalFire_Logo_Horizontal_Color.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://hotironcreative.com/logos" target="_blank">
+                    <img src="/assets/img/sponsors/HotironCreative_RGB_vector_WEB.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.blackhillsinfosec.com/" target="_blank">
+                    <img src="/assets/img/sponsors/BHIS_TEXT.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="background-color: rgb(41, 41, 41);" class="mt-3">
+                <a href="https://nostarch.com/" target="_blank">
+                    <img src="/assets/img/sponsors/nostarch-2018-bronze.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.modernsecurity.io/" target="_blank">
+                    <img src="/assets/img/sponsors/modern_security.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://metactf.com/" target="_blank">
+                    <img src="/assets/img/sponsors/metactf-logo-new.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rit.edu/cybersecurity/" target="_blank">
+                    <img src="/assets/img/sponsors/rit_esl_global_cybersecurity_institute.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.justhacking.com/" target="_blank">
+                    <img src="/assets/img/sponsors/JHT_Logo-300x300.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="www.sans.org" target="_blank">
+                    <img src="/assets/img/sponsors/SANS_Blue.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://hackthebox.com" target="_blank">
+                    <img src="/assets/img/sponsors/HTB-Logo-Black_144.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://pentesterlab.com/" target="_blank">
+                    <img src="/assets/img/sponsors/pentesterlab_logo_text_black.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.stickergiant.com" target="_blank">
+                    <img src="/assets/img/sponsors/sticker_giant.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            
+        </ul>
+    </div>
+</nav>
+				<hr>
+<nav id="sponsors" class="">
+    <div class="mt-2 d-lg-none d-block bg-light px-2 sponsors w-100">
+        <h3 class="sidebar-heading text-center">Sponsors</h3>
+        <ul class="flex-column list-unstyled ml-md-auto">
+            
+            
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rocissa.org/" target="_blank">
+                    <img src="/assets/img/sponsors/RocISSALogo-brief.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.sbu.edu/academics/cybersecurity" target="_blank">
+                    <img src="/assets/img/sponsors/cyblogo.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.sumologic.com/" target="_blank">
+                    <img src="/assets/img/sponsors/SumoLogic_Logo_SumoBlue_RGB.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://icr-team.com/" target="_blank">
+                    <img src="/assets/img/sponsors/icr.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.proarch.com/" target="_blank">
+                    <img src="/assets/img/sponsors/ProArch Logo-02.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.uvcyber.com/" target="_blank">
+                    <img src="/assets/img/sponsors/Ultraviolet_Logo_Primary_RGB.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.mtb.com/homepage/about-us" target="_blank">
+                    <img src="/assets/img/sponsors/MT_Tech_blk_digital.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="#" target="_blank">
+                    <img src="/assets/img/sponsors/memory_of_don_ullman.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rochester.edu/" target="_blank">
+                    <img src="/assets/img/sponsors/UR_Logo_Light.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://orbitalfire.com/" target="_blank">
+                    <img src="/assets/img/sponsors/OrbitalFire_Logo_Horizontal_Color.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://hotironcreative.com/logos" target="_blank">
+                    <img src="/assets/img/sponsors/HotironCreative_RGB_vector_WEB.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.blackhillsinfosec.com/" target="_blank">
+                    <img src="/assets/img/sponsors/BHIS_TEXT.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="background-color: rgb(41, 41, 41);" class="mt-3">
+                <a href="https://nostarch.com/" target="_blank">
+                    <img src="/assets/img/sponsors/nostarch-2018-bronze.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.modernsecurity.io/" target="_blank">
+                    <img src="/assets/img/sponsors/modern_security.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://metactf.com/" target="_blank">
+                    <img src="/assets/img/sponsors/metactf-logo-new.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.rit.edu/cybersecurity/" target="_blank">
+                    <img src="/assets/img/sponsors/rit_esl_global_cybersecurity_institute.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.justhacking.com/" target="_blank">
+                    <img src="/assets/img/sponsors/JHT_Logo-300x300.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="www.sans.org" target="_blank">
+                    <img src="/assets/img/sponsors/SANS_Blue.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://hackthebox.com" target="_blank">
+                    <img src="/assets/img/sponsors/HTB-Logo-Black_144.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://pentesterlab.com/" target="_blank">
+                    <img src="/assets/img/sponsors/pentesterlab_logo_text_black.svg" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            <li style="" class="mt-3">
+                <a href="https://www.stickergiant.com" target="_blank">
+                    <img src="/assets/img/sponsors/sticker_giant.png" height="100%" width="100%"/>
+                </a>
+            </li>
+            
+            
+        </ul>
+    </div>
+</nav>
+			</div>
+		</div>
+		<footer class="fixed-bottom">
+
+</footer>
+
+	</body>
+</html>

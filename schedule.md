@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
+
 {% if site.data.config.tbd %}
 {:.text-white}
 # Schedule
+
 {:.mb-n1 .text-warning}
 ## TBD
 

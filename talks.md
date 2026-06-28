@@ -1,3 +1,10 @@
+{% if site.data.config.tbd %}
+{:.text-white}
+# Talks
+
+{:.text-warning}
+## TBD
+{% else %}
 {% assign talks = site.data.speakers.talks | where: 'include_in_talks', true %}
 {% for talk in talks %}
 <div class="card mb-2 mt-2">
@@ -33,3 +40,6 @@
     </div>
 </div>
 {% endfor %}
+
+{% endif %}
+
