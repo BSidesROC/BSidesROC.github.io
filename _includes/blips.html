@@ -2,7 +2,9 @@
     <div class="row">
         <div class="col-md-4">
             <h2 class="text-white">CFP</h2>
-            {% if site.data.config.cfp.url %}
+            {% if site.data.config.cfp.coming_soon %}
+            <p><a class="btn btn-light disabled" href="/cfp">Coming Soon!</a></p>
+            {% else if site.data.config.cfp.url %}
             <p><a class="btn btn-light" href="/cfp">Now Open!</a></p>
             {% else %}
             <p><a class="btn btn-light" href="/cfp">Now Closed!</a></p>
@@ -11,7 +13,9 @@
         </div>
         <div class="col-md-4">
             <h2 class="text-white">CFT</h2>
-            {% if site.data.config.cft.url %}
+            {% if site.data.config.cft.coming_soon %}
+            <p><a class="btn btn-light disabled" href="/cft">Coming Soon!</a></p>
+            {% else if site.data.config.cft.url %}
             <p><a class="btn btn-light" href="/cft">Now Open!</a></p>
             {% else %}
             <p><a class="btn btn-light" href="/cft">Now Closed!</a></p>
@@ -19,15 +23,14 @@
         </div>
         <div class="col-md-4">
             <h2 class="text-white">Tickets</h2>
-            <a class="btn btn-light" href="/get_tickets">
-                {% if site.data.config.tickets.attendance.coming_soon %}
-                Coming Soon!
-                {% elsif site.data.config.tickets.attendance %}
-                Now Open!
-                {% else %}
-                Now Closed!
-                {% endif %}
-            </a>
+            {% if site.data.config.tickets.attendance.coming_soon %}
+            <a class="btn btn-light disabled" href="/get_tickets">Coming Soon!</a>
+            {% else if site.data.config.tickets.attendance %}
+            <a class="btn btn-light" href="/get_tickets">Now Open!</a>
+            {% else %}
+            <a class="btn btn-light disabled" href="/get_tickets">Now Closed!</a>
+            {% endif %}
+
         </div>
     </div>
 </div>
