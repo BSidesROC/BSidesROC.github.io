@@ -10,13 +10,16 @@ layout: default
 ## TBD
 {% else %}
 <div class="card flex-row mb-2 mt-2 bg-light pb-4">
-    <img class="card-img-left ml-4 mt-4 align-center" src="/assets/img/cassandra_young.png" alt="muteki" style="width:250px;"/>
+    <img class="card-img-left ml-4 mt-4 align-center" src="/assets/img/nicole_schwartz_headshot.jpg" alt="circuitswan" style="width:250px;"/>
     <div class="card-body">
         <div id="keynote" class="card-title h2 text-warning">
-            Cassandra Young (@muteki)
+            Nicole Schwartz (a.k.a CircuitSwan)
         </div>
         <p class="card-text text-dark">
-        As a Principal Consultant on CrowdStrike's Cloud Technical Advisory team, Cassandra analyzes the organizational security posture of Azure, GCP and Oracle Cloud environments, and leads the development of data collection and analysis tooling. Additionally, she assists the Incident Response team as a technical GCP and OCI SME, and supports strategic advisory and technical tabletop exercises across multiple cloud platforms. In addition to her decade of IT and then cloud security consulting experience, Cassandra also holds a Master’s in Computer Science from the University of Pennsylvania and is a director of Blue Team Village, a nonprofit organization bringing free Blue Team content to the community.
+            Nicole Schwartz (a.k.a. CircuitSwan) currently focuses on Open Source Software (OSS), supply chain security, and diversity and inclusion.
+            She is a Staff Product Manager at Anaconda, a researcher at The Internet of Dongs, a Director for The Diana Initiative, and an organizer of BSides Edmonton and Skytalks.
+            She lives in Edmonton, Alberta, Canada, with her partner, 2 tuxedo cats, and a giant rabbit.
+            She holds a Master of Science in Information Technology from Clarkson University.
         </p>
     </div>
 </div>

@@ -19,7 +19,7 @@ The following talks will be offered on Saturday:
 {:.h3 .text-white .mb-2}
 Date: {{ site.data.config.date }}
 
-{% assign groups = site.data.speakers.talks  | sort: 'time_slot.order' | group_by: 'time_slot.display' %}
+{% assign groups = site.data.speakers.talks | sort: 'time_slot.order' | group_by: 'time_slot.display' %}
 <table class="table table-striped">
 <thead class="">
 <tr>

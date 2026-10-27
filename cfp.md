@@ -7,12 +7,12 @@ layout: default
 # \*** [Click Here to Submit!]({{ site.data.config.cfp.url }}) **\*
 
 {:.text-white .text-center}
-#### BSidesROC is looking for presenters for our 2026 event.
+#### BSidesROC is looking for presenters for our {{ site.data.config.year }} event.
 
 {:.mt-3 .text-white}
 #### IMPORTANT DATES
-- CFP Closes: 01/16/2026
-- CFP Responses Sent: 02/07/2026
+- CFP Closes: {{ site.data.config.cfp.close_date }}
+- CFP Responses Sent: {{ site.date.config.cfp.response_date }}
 
 {:.text-white}
 #### Presentations

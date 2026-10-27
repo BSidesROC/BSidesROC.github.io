@@ -1,19 +1,26 @@
-tbd: true
+tbd: false
 date: Saturday, March 20th 2027
 year: 2027
 #training:
-#    date: Friday, March 20th 2026
-#tickets:
-#  attendance: https://events.humanitix.com/bsidesroc-2026
+#    date: Friday, March 20th 2026f
+tickets:
+  attendance:
+    coming_soon: true
 #  training: https://events.humanitix.com/bsidesroc-2026-training
-#cft:
-#  closed: true
-#cfp:
-#  closed: true
+cft:
+  url: https://docs.google.com/forms/d/1hmdpvs7G6K27yBY_eVtwKSLHsY81ERIT5V0eihZa6MU
+  close_date: 'January 15th 2027'
+  response_date: ''
+  #coming_soon: true
+cfp:
+  url: https://docs.google.com/forms/d/1vH_kA4vGf2Og01Wn7ZOvY5JnKuyLEz5jKXiAZxcMDiY
+  close_date: 'January 15th 2027'
+  response_date: ''
+  #coming_soon: true
 #ctf:
 #  tbd: false
 volunteering:
-    day_1: Friday, 03/19
-    day_2: Saturday, 03/20
-#sponsorship:
-#    package: "/assets/doc/BSidesROC%202026%20Sponsorship%20Kit-1.pdf"
+  day_1: Friday, 03/19
+  day_2: Saturday, 03/20
+sponsorship:
+  package: "/assets/doc/BSidesROC%202027.pdf"
