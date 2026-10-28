@@ -6,12 +6,12 @@ layout: default
 # \*** [Click Here to Submit!]({{ site.data.config.cft.url }}) **\*
 
 {:.text-white .text-center}
-#### BSidesROC is looking for trainers for our 2026 event.
+#### BSidesROC is looking for trainers for our {{ site.data.config.year }} event.
 
 {:.mt-3 .text-white}
 #### IMPORTANT DATES
-- CFT Closes: 01/16/2026
-- CFT Responses Sent: 02/07/2026
+- CFT Closes: {{ site.data.config.cft.close_date }}
+- CFT Responses Sent: {{ site.data.config.cft.response_date }}
 
 The training day will be the day before the conference, and is hosted at RIT. In most cases, we can facilitate all the presentation gear like projectors, screens, and possibly workstations.
 
