@@ -3,6 +3,11 @@ date: Saturday, March 20th 2027
 year: 2027
 #training:
 #    date: Friday, March 20th 2026f
+tickets:
+  attendance:
+    coming_soon: true
+#  training: https://events.humanitix.com/bsidesroc-2026-training
+cft:
   url: https://forms.gle/cm3Es15JbL5vqDxy7
   close_date: 'January 15th 2027'
   response_date: ''
